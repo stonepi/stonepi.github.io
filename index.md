@@ -22,9 +22,7 @@ My publication list is [[here](https://inspirehep.net/authors/1060905#with-citat
 ## Academic Background
 
 - **Sep 2001 - June 2005:** Astronomy Department, Peking University (BSc)
-- **Sep 2006 - Jan 2013:** Physics Department, Peking University (PhD, Supervisor: [[Prof. Bin Chen](https://itp.phy.pku.edu.cn/info/1067/1226.htm)]) 
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+- **Sep 2006 - Jan 2013:** Physics Department, Peking University (PhD, Supervisor: [[Bin Chen](https://itp.phy.pku.edu.cn/info/1067/1226.htm)]) 
 
 <br>
 
@@ -32,9 +30,17 @@ My publication list is [[here](https://inspirehep.net/authors/1060905#with-citat
 
 ## Research Experience
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
+- **Apr 2013 - Sep 2015:** Asian Pacific Center for Theoretical Physics, Korea
+  <br> Postdoctorial Fellow. Host Researcher: [[Jinn-Ouk Gong](https://pure.ewha.ac.kr/en/persons/jinn-ouk-gong)]
+- **Oct 2015 - Sep 2017:** Institute of Theoretical Physics, Chinese Academy of Sciences
+  <br> Postdoctorial Fellow. Host Researcher: [[Qing-Guo Huang](http://cosmology.itp.ac.cn)]
+- **Oct 2017 - Mar 2018:** Yukawa Institute for Theoretical Physics, Kyoto University, Japan
+  <br> Research Asistant Professor. Group Leader: [[Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/)]
+- **Mar 2018 - Oct 2020:** Kavli Institute for Physics and Mathematics of the Universe, the University of Tokyo, Japan
+  <br> Projector Researcher. Group Leader: [[Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/)]
+- **Oct 2020 - Now:** Institute of Theoretical Physics, Chinese Academy of Sciences
+  <br> Associate Professor.
+
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
