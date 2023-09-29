@@ -8,9 +8,11 @@ layout: page
 
 Here is **Shi Pi**.
 
-I am an associate professor in Institute of Theoretical Physics, Chinese Academy of Sciences. My research interests are cosmology and gravity, including but not limited to string phenomenology, inflation model building, the generation and evolution of primordial perturbations, reheating, the thermal universe, cosmic microwave background radiation anisotropies, dark energy, as well as the gravitational wave astronomy/cosmology.
+I am an associate professor in Institute of Theoretical Physics, Chinese Academy of Sciences. My research interests are cosmology and gravity, including but not limited to string phenomenology, inflation model building, the generation and evolution of primordial perturbations, reheating, the thermal universe, cosmic microwave background radiation anisotropies, dark energy, as well as the gravitational wave astronomy/cosmology. Here is [[my CV](https://stonepi.github.io/file/CV.pdf)]. 
 
-Here is [[my CV](https://stonepi.github.io/file/CV.pdf)].
+My publication list is [[here](https://inspirehep.net/authors/1060905#with-citation-summary)]. 
+
+
 
 
 <!--I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].-->
@@ -19,10 +21,8 @@ Here is [[my CV](https://stonepi.github.io/file/CV.pdf)].
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
+- **Sep 2001 - June 2005:** Astronomy Department, Peking University (BSc)
+- **Sep 2006 - Jan 2013:** Physics Department, Peking University (PhD, Supervisor: [[Prof. Bin Chen](https://itp.phy.pku.edu.cn/info/1067/1226.htm)]) 
 - **June 2022 - Nov 2022:** Cambridge University (Visiting)
 - Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
 
@@ -30,7 +30,7 @@ Here is [[my CV](https://stonepi.github.io/file/CV.pdf)].
 
 ---
 
-## Research Interests
+## Research Experience
 
 - Industrial IoT System
 - Bluetooth Low Energy
