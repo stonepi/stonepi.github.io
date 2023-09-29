@@ -6,16 +6,16 @@ url: https://caihanlin.com
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Shi Pi
+  avatar: shipi.jpg
  # bio:
-  email: hanlin.cai@ieee.org
+  email: shi.pi@itp.ac.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: lancecai2002
-  # facebook: caihanlin2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  facebook: stoninopi
+  github: stonepi
+  # linkedin: 
+  scholar: https://scholar.google.com/citations?user=0rYNXDYAAAAJ
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -35,7 +35,7 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/CV-HanlinCAI.pdf
+    url: /file/CV.pdf
   - title: Publications
     url: /publications/
   - title: Awards
