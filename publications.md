@@ -7,7 +7,7 @@ title: Publications
 
 Lastest Update: 29th Sep 2023
 
-## For full list of my papers, check [here](https://inspirehep.net/authors/1060905?ui-citation-summary=true#with-citation-summary).
+For full list of my papers, check [here](https://inspirehep.net/authors/1060905?ui-citation-summary=true#with-citation-summary).
 
 ## Selected Papers
 
