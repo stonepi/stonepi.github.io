@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2023
 
-- [春季流水账](stonepi.github.io/blogs/2023-1)
+- [春季流水账](https://steinpi.github.io/blogs/2023-1)
 - [数学建模竞赛的成功四要素](https://caihanlin.com/blogs/team2023)
 - [极简风个人网站搭建指南（完结）](https://caihanlin.com/blogs/web)
 
