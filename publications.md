@@ -21,8 +21,6 @@ Lastest Update: 29th Sep 2023
 
 - <span style="color:blue;">*Scalaron from $R^2$-gravity as a heavy field*</span>,<br>**Shi Pi**, Ying-li Zhang, Qing-Guo Huang, Misao Sasaki. <br>Published in: [JCAP 05 (2018) 042](https://doi.org/10.1088/1475-7516/2018/05/042). ArXiv: [1712.09896](https://arxiv.org/abs/1710.03054).
 
-
-
 ## Books
 
 - **宇宙学的物理基础**<br>Vietcheslav Mukhanov著, **皮石**译. <br>科学出版社2023年9月第一版. ISBN: 978-7-03-076273-3.
