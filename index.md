@@ -4,16 +4,13 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://github.com/stonepi/stonepi.github.io/blob/main/shipi.jpg?raw=true" class="floatpic" width="360" height="480">
 
 Here is **Shi Pi**.
 
 I am an associate professor in Institute of Theoretical Physics, Chinese Academy of Sciences. My research interests are cosmology and gravity, including but not limited to string phenomenology, inflation model building, the generation and evolution of primordial perturbations, reheating, the thermal universe, cosmic microwave background radiation anisotropies, dark energy, as well as the gravitational wave astronomy/cosmology. Here is [[my CV](https://stonepi.github.io/file/CV.pdf)]. 
 
-My publication list is [[here](https://inspirehep.net/authors/1060905#with-citation-summary)]. 
-
-
-
+My publication list can be found in [[inspirehep](https://inspirehep.net/authors/1060905#with-citation-summary)] or [[adsabs](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FPi%2C%20S%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22%20AND%20author_facet_hier%3A%220%2FPi%2C%20S%22)&p_=0&q=%20author%3A%22pi%2C%20shi%22&sort=date%20desc%2C%20bibcode%20desc)]. 
 
 <!--I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].-->
 
@@ -41,7 +38,6 @@ My publication list is [[here](https://inspirehep.net/authors/1060905#with-citat
 - **Oct 2020 - Now:** Institute of Theoretical Physics, Chinese Academy of Sciences
   <br> Associate Professor.
 
-
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 <br>
@@ -50,10 +46,10 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Sep 2023：**Our works [DefenderIoT](https://fzuiot.site/) has been officially publicized by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+#### For more detailed updates, see blogs.
+
+- **Oct 14 - 15, 2023:** International Mini-workshop on *Gravitational Waves in the Early Universe* will be held in ITP-CAS. [[link](https://indico.itp.ac.cn/event/171/)].
+- **Sep 24 - 27, 2023:** The *2nd Conference on Applications of Machine Learning on Astronomy*. [[link](https://machinelearning2023.casconf.cn/page/1663147986017980416)].
+- **Aug 29 - Sep 2, 2023:** The Annual Meeting of Chinese Astronomy Society, held in Weihai Campus of Shandong University. [[link](https://2023casmeeting.casconf.cn/)]
+- **Aug 17 - Aug 20, 2023:** The Annual Meeting of Chinese Physics Society. I gave a invited talk. [[link](http://meeting.cps-net.org.cn/nxu2023)]
+- **Aug 14 - Aug 17, 2023:** Visiting [[Prof. Anzhong Wang](https://www.baylor.edu/physics/index.php?id=68588)] in the  Zhejing University of Technology. 
