@@ -2,34 +2,21 @@
 layout: page
 permalink: /publications/index.html
 title: Publications
----
-
-Lastest Update: 15th Sep 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
-
-## Conference Paper
-
-- [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks (Student Abstract)](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
-
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://www.researchgate.net/publication/369505759)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).<br>
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-  
-  <br>
-
-## Working Manuscript
-
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>MDPI Sensors Journal (IF: 3.847, JCR Q2). Under major modification.<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
-  
-  <br>
 
 ---
 
-## Undergraduate Thesis
+Lastest Update: 29th Sep 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to publish a research paper to Internet of Things Journal (IoTJ 2024)
+## For full list of my papers, check [here](https://inspirehep.net/authors/1060905?ui-citation-summary=true#with-citation-summary).
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior Students.<br>Industrial Placement Thesis in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
-  
-  <br>
+## Selected Papers
+
+- <span style="color:blue;">*Gravitational Waves Induced by non-Gaussian Scalar Perturbations*</span>,<br>Rong-gen Cai, **Shi Pi**, Misao Sasaki. <br>Published in: [Phys.Rev.Lett. 122 (2019) 20, 201101](https://doi.org/10.1103/PhysRevLett.122.201101). ArXiv: [1810.11000](https://arxiv.org/abs/1810.11000).
+
+- <span style="color:blue;">*Logarithmic Duality of the Curvature Perturbation*</span>,<br>**Shi Pi**, Misao Sasaki. <br>Published in: [Phys.Rev.Lett. 131 (2023) 1, 011002](https://doi.org/10.1103/PhysRevLett.131.011002). ArXiv: [2211.13932](https://arxiv.org/abs/2211.13932).
+
+- <span style="color:blue;">*Universal infrared scaling of gravitational wave background spectra*</span>,<br>Rong-Gen Cai, **Shi Pi**, Misao Sasaki. <br>Published in: [Phys.Rev.D 102 (2020) 8, 083528](https://doi.org/10.1103/PhysRevD.102.083528). ArXiv: [1909.13728](https://arxiv.org/abs/1909.13728).
+
+- <span style="color:blue;">*NANOGrav hints on planet-mass primordial black holes*</span>,<br>Guillem Domènech, **Shi Pi**. <br>Published in: [Sci.China Phys.Mech.Astron. 65 (2022) 3, 230411](https://doi.org/10.1007/s11433-021-1839-6). ArXiv: [2010.03976](https://arxiv.org/abs/2010.03976).
+
+- <span style="color:blue;">*Scalaron from $R^2$-gravity as a heavy field*</span>,<br>**Shi Pi**, Ying-li Zhang, Qing-Guo Huang, Misao Sasaki. <br>Published in: [JCAP 05 (2018) 042](https://doi.org/10.1088/1475-7516/2018/05/042). ArXiv: [1712.09896](https://arxiv.org/abs/1710.03054).
