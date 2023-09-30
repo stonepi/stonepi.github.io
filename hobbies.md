@@ -18,8 +18,6 @@ title: Hobbies
 [a fantastic speech]:https://youtu.be/Dzx84KpGNoE
 [best universities in my hometown]:https://www.fzu.edu.cn/
 
-
-
 ## Swimming & Surfing
 
 <div class="third">
@@ -51,4 +49,3 @@ This is my love. Her name is Qbo (Q宝).
 <div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
-

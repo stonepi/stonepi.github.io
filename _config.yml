@@ -38,9 +38,9 @@ links:
   - title: Resume
     url: /file/CV.pdf
   - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
+    url: https://inspirehep.net/authors/1060905?ui-citation-summary=true#with-citation-summary
+  - title: Group
+    url: /group/
   - title: Fundings
     url: /fundings/
   - title: Hobbies
