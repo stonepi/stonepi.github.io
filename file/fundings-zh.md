@@ -4,7 +4,7 @@ permalink: /file/fundings-zh/index.html
 title: Fundings-zh
 ---
 
-Update: Sep 29, 2023  [中文版本(Chinese Version)](https://stonepi.github.io/fundings/)
+Update: Sep 29, 2023  [English Version](https://stonepi.github.io/fundings/)
 
 ## 在研项目
 
@@ -20,5 +20,5 @@ Update: Sep 29, 2023  [中文版本(Chinese Version)](https://stonepi.github.io/
 
 ## 结题项目
 
-- 参与中国科学院稳定支持基础研究领域青年团队计划《物质与暗物质起源的研究》，项目号YSBR-006，资助期2021年6月至2023年6月
-- 参与中国科学院B类先导科技专项培育项目《早期宇宙演化的核心理论问题研究》，项目号XDPB15，资助期2021年6月至2022年6月
+- 参与中国科学院稳定支持基础研究领域青年团队计划《物质与暗物质起源的研究》，项目号YSBR-006<br>资助期2021年6月至2023年6月
+- 参与中国科学院B类先导科技专项培育项目《早期宇宙演化的核心理论问题研究》，项目号XDPB15<br>资助期2021年6月至2022年6月
