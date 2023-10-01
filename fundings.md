@@ -4,7 +4,7 @@ permalink: /fundings/index.html
 title: Fundings
 ---
 
-Update: Sep 29, 2023    [中文版本(Chinese Version)](https://stonepi.github.io/file/fundings-zh/)
+Update: Sep 29, 2023      [[中文版本](https://stonepi.github.io/file/fundings-zh/)]
 
 ## Current
 

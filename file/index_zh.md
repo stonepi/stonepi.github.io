@@ -12,9 +12,9 @@ title: Index-zh
 
 我现在在[中国科学院理论物理研究所](https://itp.ac.cn)担任副研究员、博士生导师。主要从事宇宙学微扰论、暴胀宇宙学、引力理论、以及背景引力波方面的研究，尤其是利用宇宙学微扰论讨论早期宇宙中扰动的产生和演化以及它们的观测效应，如微波背景辐射、随机引力波背景、原初黑洞等。近年来我的研究兴趣集中于利用随机引力波背景探测早期宇宙。近年来在PRL, PRD, SCPMA, JCAP等国际学术期刊上发表论文 30余 篇。根据高能物理论文数据库 [INSPIREHEP](https://inspirehep.net/authors/1060905#with-citation-summary)统计，总被引用 2000 余次，h 因子为 23。其中被引用 100 次以上的论文 7 篇。受邀担任PRL, PRD, SCPMA, JCAP等著名 SCI 期刊的审稿人，多次在引力和宇宙学的重要国际会议上做邀请报告。具体情况请见[我的简历](https://stonepi.github.io/file/CV.pdf). 
 
-关于我的研究小组情况，请点击[此处](https://stonepi.github.io/file/group-zh/)查看。
+关于我的研究小组情况，请点击[此处](https://stonepi.github.io/file/group-zh/)查看。本研究小组的组会每周五上午11点开始，地点在理论物理研究所南楼3层咖啡厅。
 
-目前中国科学院理论物理研究所的引力宇宙学方向的其他老师还包括：[蔡荣根](http://power.itp.ac.cn/~cairg/)、 [郭宗宽](http://gc.itp.ac.cn/)、 [黄庆国](http://cosmology.itp.ac.cn/)、李理、[王少江](https://wangshaojiang.com)、周勇。
+目前中国科学院理论物理研究所的引力宇宙学方向的其他老师还包括：[蔡荣根](http://power.itp.ac.cn/~cairg/)、 [郭宗宽](http://gc.itp.ac.cn/)、 [黄庆国](http://cosmology.itp.ac.cn/)、李理、[王少江](https://wangshaojiang.com)、周勇。本方向经常会邀请所外学者来访并作学术报告。详细信息请点击[此处](http://gc.itp.ac.cn/events)。
 
 ---
 
