@@ -6,22 +6,20 @@ layout: page
 
 <img src="https://github.com/stonepi/stonepi.github.io/blob/main/shipi.jpg?raw=true" class="floatpic" width="360" height="480">
 
-Here is **Shi Pi**.
+Here is **Shi Pi**. [[中文版本](https://stonepi.github.io/file/index-zh/)]
 
 I am an associate professor in Institute of Theoretical Physics, Chinese Academy of Sciences. My research interests are cosmology and gravity, including but not limited to string phenomenology, inflation model building, the generation and evolution of primordial perturbations, reheating, the thermal universe, cosmic microwave background radiation anisotropies, dark energy, as well as the gravitational wave astronomy/cosmology. Here is [my CV](https://stonepi.github.io/file/CV.pdf). 
 
-My publication list can be found in [inspirehep](https://inspirehep.net/authors/1060905#with-citation-summary) and [adsabs](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FPi%2C%20S%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22%20AND%20author_facet_hier%3A%220%2FPi%2C%20S%22)&p_=0&q=%20author%3A%22pi%2C%20shi%22&sort=date%20desc%2C%20bibcode%20desc). 
+My publication list can be found in [inspirehep](https://inspirehep.net/authors/1060905#with-citation-summary) and [adsabs](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FPi%2C%20S%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22%20AND%20author_facet_hier%3A%220%2FPi%2C%20S%22)&p_=0&q=%20author%3A%22pi%2C%20shi%22&sort=date%20desc%2C%20bibcode%20desc). For the information of my research group, click [here](https://stonepi.github.io/group/).
 
-<!--I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].-->
+The Gravity and Cosmology Group in ITP-CAS also includes [Rong-Gen Cai](http://power.itp.ac.cn/~cairg/), [Zong-Kuan Guo](http://gc.itp.ac.cn/), [Qing-Guo Huang](http://cosmology.itp.ac.cn/), Li Li, [Shao-Jiang Wang](https://wangshaojiang.com), Yong Zhou.
 
-<br>
+---
 
 ## Academic Background
 
 - **Sep 2001 - June 2005:** Astronomy Department, Peking University (BSc)
 - **Sep 2006 - Jan 2013:** Physics Department, Peking University (PhD, Supervisor: [Bin Chen](https://itp.phy.pku.edu.cn/info/1067/1226.htm)) 
-
-<br>
 
 ---
 
@@ -35,12 +33,8 @@ My publication list can be found in [inspirehep](https://inspirehep.net/authors/
   <br> Research Asistant Professor. Group Leader: [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/)
 - **Mar 2018 - Oct 2020:** Kavli Institute for Physics and Mathematics of the Universe, the University of Tokyo, Japan
   <br> Projector Researcher. Group Leader: [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/)
-- **Oct 2020 - Now:** Institute of Theoretical Physics, Chinese Academy of Sciences
+- **Oct 2020 - Now:** Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS)
   <br> Associate Professor.
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
-<br>
 
 ---
 
