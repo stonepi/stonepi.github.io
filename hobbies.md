@@ -14,9 +14,7 @@ Dec 17, 2022. Reading in [Yamamoto Bookstore](https://www.kosho.or.jp/abouts/?id
 
 ## Collecting Ancient Books
 
-![](../images/2020-01-26-home.jpg)Jan 26, 2020. Part of my collection. 
-
-![](../images/IMG_6160.jpg)《舆地广记》，光绪六年(1880)金陵书局版。胡玉缙旧藏。
+![](../images/2020-01-26-home.jpg)Jan 26, 2020. Part of my collection. ![](../images/IMG_6160.jpg)《舆地广记》，光绪六年(1880)金陵书局版。胡玉缙旧藏。2022年12月17日得之于日本东京神保町山本书店。
 
 ## Football
 
@@ -28,16 +26,6 @@ April 30, 2014, in Postech Futsal Ground, Korea.
 
 ## Playing Video Games
 
-![](../images/IMG_5986.JPG)Nov 20, 2022, playing "[Warriors of Fate (Tenchi wo Kurau 2)](https://en.wikipedia.org/wiki/Warriors_of_Fate)" in [Super Potato Akihabara](https://www.superpotato.com/shop/akihabara/), Japan.
+![](../images/IMG_5986.JPG)Nov 20, 2022, playing "[Warriors of Fate (Tenchi wo Kurau 2)](https://en.wikipedia.org/wiki/Warriors_of_Fate)" in [Super Potato (Akihabara)](https://www.superpotato.com/shop/akihabara/) Retro Game Center, Japan.
 
 ---
-
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
