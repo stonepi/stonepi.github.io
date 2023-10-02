@@ -9,15 +9,14 @@ Lastest Update: 29th Sep 2023 &nbsp; [中文版本 (Chinese Version)](https://s
 
 ## Postdocs
 
-- **Cristian Joana**  Feb 2023 - Dec 2024<br> Cristian Joana got his PhD in the Université catholique de Louvain in 2022. His PhD supervisor is [Sebastien Clesse](https://sebclesse.wixsite.com/clesse). 
+- **Cristian Joana**  Feb 2023 - Dec 2024<br>Cristian Joana got his PhD in the Université catholique de Louvain in 2022. His PhD supervisor is [Sebastien Clesse](https://sebclesse.wixsite.com/clesse). He mainly focuses on cosmology of the early universe, particularly on cosmic inflation and the reheating, and in the early formation of exotic compact objects such as oscillons and primordial black holes.  He is currently involved in the development and usage of numerical methods, including lattice and numerical relativity simulations. He is one of the developers of [GRChomo](https://www.grchombo.org/), a new AMR based open-source code for numerical relativity simulations.
 
-- **Diego Cruces** Nov 2023 - Dec 2025 <br> Diego Cruces got his PhD in the Universitat de Barcelona in 2023. His PhD supervisor is [Cristiano Germani](https://icc.ub.edu/people/379).
+- **Diego Cruces** Nov 2023 - Dec 2025 <br>Diego Cruces got his PhD in the Universitat de Barcelona in 2023. His PhD supervisor is [Cristiano Germani](https://icc.ub.edu/people/379).
 
 ## Students
 
-- **Jianing Wang** Sep 2019 - <br>
-- Jianing Wang is a PhD candidate. She works on inflationary perturbation theory and primordial black hole formation.
-- **Wencong Hong** Sep 2021 - <br> Wencong Hong is a PhD student. He works on the stochastic gravitational waves from the compact objects.
+- **Jianing Wang** Sep 2019 - <br>Jianing Wang is a PhD candidate. She works on inflationary perturbation theory and primordial black hole formation.
+- **Wencong Hong** Sep 2021 - <br>Wencong Hong is a PhD student. He works on the stochastic gravitational waves from the compact objects.
 - **Ao Wang** Sep 2022 - <br>Ao Wang is a master student. He works on the stochastic gravitational waves and primordial black hole formation.
 - **Zihan Li** Sep 2023 - <br>Zihan Li is a master student.
 
