@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /file/hobbies-zh/index.html
+title: Hobbies-zh
 ---
 
 # 个人兴趣
