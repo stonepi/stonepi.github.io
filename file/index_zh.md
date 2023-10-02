@@ -8,7 +8,7 @@ title: Index-zh
 
 ---
 
-<img src="https://github.com/stonepi/stonepi.github.io/blob/main/shipi.jpg?raw=true" class="floatpic" width="360" height="480">
+<img title="" src="../images/shipi.jpg" alt="" class="floatpic" width="360" height="480">
 
 欢迎来到皮石的个人主页。[[English Version](https://stonepi.github.io/)]
 
