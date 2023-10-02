@@ -12,9 +12,7 @@ Updated Oct 2, 2023. [English Version]()
 
 ## 阅读
 
-![](../images/IMG_6163.JPG)
-
-2002年10月17日在日本东京神保町[山本书店](https://www.kosho.or.jp/abouts/?id=12010830)店内读书
+![](../images/IMG_6163.JPG)2002年10月17日在日本东京神保町[山本书店](https://www.kosho.or.jp/abouts/?id=12010830)店内读书
 
 ---
 

@@ -10,9 +10,7 @@ title: Hobbies
 
 ## Reading
 
-![](./images/IMG_6163.JPG)
-
-Dec 17, 2022. Reading in [Yamamoto Bookstore](https://www.kosho.or.jp/abouts/?id=12010830), Tokyo, Japan.
+![](./images/IMG_6163.JPG)Dec 17, 2022. Reading in [Yamamoto Bookstore](https://www.kosho.or.jp/abouts/?id=12010830), Tokyo, Japan.
 
 ---
 
@@ -24,9 +22,7 @@ Dec 17, 2022. Reading in [Yamamoto Bookstore](https://www.kosho.or.jp/abouts/?id
 
 ## Football
 
-![](./images/2016-10-06-Xian.jpg)
-
-"Motherf***er! Refund!'' Oct 6, 2016, in Zhuque Stadium, Xi'an China.![](./images/2014-04-30-APCTP.jpg) 
+![](./images/2016-10-06-Xian.jpg)"Motherf***er! Refund!'' Oct 6, 2016, in Zhuque Stadium, Xi'an China.![](./images/2014-04-30-APCTP.jpg) 
 
 April 30, 2014, in Postech Futsal Ground, Korea.
 
