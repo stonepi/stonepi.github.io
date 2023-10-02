@@ -18,7 +18,7 @@ TBD
 
 ## Football
 
-![](../images/2016-10-06-Xi'an.JPG)
+![](../images/2016-10-06-Xian.jpg)
 
 "Motherf***er! Refund!'' Oct 6, 2016, in Zhuque Stadium, Xi'an China.
 
