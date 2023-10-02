@@ -4,6 +4,8 @@ layout: page
 
 # Shi Pi's Homepage
 
+---
+
 <img src="https://github.com/stonepi/stonepi.github.io/blob/main/shipi.jpg?raw=true" class="floatpic" width="360" height="480">
 
 Here is **Shi Pi**. [[中文版本](https://stonepi.github.io/file/index-zh/)]
