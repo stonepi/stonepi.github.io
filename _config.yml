@@ -17,7 +17,7 @@ owner:
   github: stonepi
   # linkedin: 
   scholar: https://scholar.google.com/citations?user=0rYNXDYAAAAJ
-  # instagram: lancecai2002
+  # instagram: 
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -78,7 +78,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: 
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]

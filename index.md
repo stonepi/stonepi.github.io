@@ -48,7 +48,7 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
 - **Sep 24 - 27, 2023:** The *2nd Conference on Applications of Machine Learning on Astronomy*. [[link](https://machinelearning2023.casconf.cn/page/1663147986017980416)].
 - **Aug 29 - Sep 2, 2023:** The Annual Meeting of Chinese Astronomy Society, held in Weihai Campus of Shandong University. [[link](https://2023casmeeting.casconf.cn/)]
 - **Aug 17 - Aug 20, 2023:** The Annual Meeting of Chinese Physics Society. I gave a invited talk. [[link](http://meeting.cps-net.org.cn/nxu2023)]
-- **Aug 14 - Aug 17, 2023:** Visiting [Prof. Anzhong Wang](https://www.baylor.edu/physics/index.php?id=68588) in the  Zhejing University of Technology. 
+- **Aug 14 - Aug 17, 2023:** Visiting [Prof. Anzhong Wang](https://www.baylor.edu/physics/index.php?id=68588) in the  Zhejiang University of Technology. 
 
 ---
 
