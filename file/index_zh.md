@@ -33,16 +33,16 @@ title: Index-zh
 
 ## 研究经历
 
-- **2013年4月至2015年9月:** 韩国亚洲太平洋理论物理中心(APCTP)
+- **2013年4月至2015年9月:** 韩国[亚洲太平洋理论物理中心(APCTP)](https://www.apctp.org/)
   <br> 青年研究组(JRG)博士后研究员，合作导师: [Jinn-Ouk Gong](https://pure.ewha.ac.kr/en/persons/jinn-ouk-gong)
-- **2015年10月至2017年9月:** 中国科学院理论物理研究所
+- **2015年10月至2017年9月:** [中国科学院理论物理研究所](http://itp.ac.cn)
   <br> 博士后研究员，合作导师: [黄庆国](http://cosmology.itp.ac.cn)
-- **2017年10月至2018年3月:** 日本京都大学基础物理学研究所(YITP)
+- **2017年10月至2018年3月:** 日本京都大学[基础物理学研究所(YITP)](https://www.yukawa.kyoto-u.ac.jp/)
   <br> 特任助教，合作导师: [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/)
-- **2018年4月至2020年10月:** 日本东京大学Kavli数物连携宇宙研究机构
+- **2018年4月至2020年10月:** 日本东京大学[Kavli数物连携宇宙研究机构](https://ipmu.jp)
   <br> 特别研究员，合作导师: [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/)
-- **2020年10月至今:** 中国科学院理论物理研究所
-  <br> 副研究员，2023年5月起任博士生导师
+- **2020年10月至今:** [中国科学院理论物理研究所](http://itp.ac.cn)
+  <br> 副研究员，2023年5月起任中国科学院大学[博士生导师](https://people.ucas.ac.cn/~spi)
 
 <br>
 
