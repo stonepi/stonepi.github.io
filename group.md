@@ -9,9 +9,9 @@ Lastest Update: 29th Sep 2023 &nbsp; [中文版本 (Chinese Version)](https://s
 
 ## Postdocs
 
-- **Cristian Joana**  Feb 2023 - Dec 2024<br>Cristian Joana got his PhD in the Université catholique de Louvain in 2022. His PhD supervisor is [Sebastien Clesse](https://sebclesse.wixsite.com/clesse). He mainly focuses on cosmology of the early universe, particularly on cosmic inflation and the reheating, and in the early formation of exotic compact objects such as oscillons and primordial black holes.  He is currently involved in the development and usage of numerical methods, including lattice and numerical relativity simulations. He is one of the developers of [GRChomo](https://www.grchombo.org/), a new AMR based open-source code for numerical relativity simulations.
+- **Cristian Joana**  Feb 2023 -  <br>Cristian Joana got his PhD in the Université catholique de Louvain in 2022. His PhD supervisors are [Sebastien Clesse](https://sebclesse.wixsite.com/clesse) and [Christophe Ringeval](http://cp3.irmp.ucl.ac.be/~ringeval/). He mainly focuses on cosmology of the early universe, particularly on cosmic inflation and the reheating, and in the early formation of exotic compact objects such as oscillons and primordial black holes.  He is currently involved in the development and usage of numerical methods, including lattice and numerical relativity simulations. He is one of the developers of [GRChomo](https://www.grchombo.org/), an AMR based open-source code for numerical relativity simulations.
 
-- **Diego Cruces** Nov 2023 - Dec 2025 <br>Diego Cruces got his PhD in the Universitat de Barcelona in 2023. His PhD supervisor is [Cristiano Germani](https://icc.ub.edu/people/379).
+- **Diego Cruces** Nov 2023 -  <br>Diego Cruces got his PhD in the Universitat de Barcelona in 2023. His PhD supervisor is [Cristiano Germani](https://icc.ub.edu/people/379).
 
 ## Students
 
