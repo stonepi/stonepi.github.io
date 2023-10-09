@@ -40,9 +40,10 @@ title: Index-zh
 - **2017年10月至2018年3月:** 日本京都大学[基础物理学研究所(YITP)](https://www.yukawa.kyoto-u.ac.jp/)
   <br> 特任助教，合作导师: [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/)
 - **2018年4月至2020年10月:** 日本东京大学[Kavli数物连携宇宙研究机构](https://ipmu.jp)
-  <br> 特别研究员，合作导师: [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/)
+  <br>特别研究员，合作导师: [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/)<br>访问学者，自2020年10月起担任
 - **2020年10月至今:** [中国科学院理论物理研究所](http://itp.ac.cn)
-  <br> 副研究员，2023年5月起任中国科学院大学[博士生导师](https://people.ucas.ac.cn/~spi)
+  <br>副研究员，2023年5月起任中国科学院大学[博士生导师](https://people.ucas.ac.cn/~spi)
+- **2023年1月至今:** [北京大学高能物理研究中心](https://rchep.pku.edu.cn/)<br>李政道青年学者
 
 <br>
 
