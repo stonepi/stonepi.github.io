@@ -45,7 +45,8 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
 
 #### For more detailed updates, see blogs.
 
-- **Oct 14 - 15, 2023:** International Mini-workshop on *Gravitational Waves in the Early Universe* will be held in ITP-CAS. [[link](https://indico.itp.ac.cn/event/171/)].
+- **Oct 14 - 15, 2023:** International Mini-workshop on *Gravitational Waves in the Early Universe* is held in ITP-CAS. [[link](https://indico.itp.ac.cn/event/171/)]. 
+- **Oct 10, 2023:** [Chinese version](https://www.ecsponline.com/goods.php?id=222349) of [Slava Mukhanov](https://www.theorie.physik.uni-muenchen.de/cosmology/members/professors/mukhanov/index.html)'s [*Physical Foundations of Cosmology*](https://www.cambridge.org/core/books/physical-foundations-of-cosmology/45E9AA7382874E52BA4CC6862C505EAF) translated by me is published by the Science Press. To buy it, click [here](https://item.jd.com/13886631.html). If you find any typos, or have any comments, please contact me, or [leave a message](https://github.com/stonepi/stonepi.github.io/issues/new?template=ISSUE_TEMPLATE/comment_template.md).
 - **Oct 6:** My paper *Axion Universal Gravitational Wave Interpretation of Pulsar Timing Array Data* collaborated with Lozanov, Sasaki, Takhistov, and Ao Wang was submitted to arXiv. It appears as arXiv:[2310.03594](https://arxiv.org/abs/2310.03594).
 - **Sep 24 - 27, 2023:** The *2nd Conference on Applications of Machine Learning on Astronomy*. [[link](https://machinelearning2023.casconf.cn/page/1663147986017980416)].
 - **Aug 29 - Sep 2, 2023:** The Annual Meeting of Chinese Astronomy Society, held in Weihai Campus of Shandong University. [[link](https://2023casmeeting.casconf.cn/)]
