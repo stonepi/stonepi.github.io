@@ -16,7 +16,7 @@ title: Index-zh
 
 关于我的研究小组情况，请点击[此处](https://stonepi.github.io/file/group-zh/)查看。本研究小组的组会每周五上午11点开始，地点在理论物理研究所南楼3层咖啡厅。
 
-目前中国科学院理论物理研究所的引力宇宙学方向的其他老师还包括：[蔡荣根](http://power.itp.ac.cn/~cairg/)、 [郭宗宽](http://gc.itp.ac.cn/)、 [黄庆国](http://cosmology.itp.ac.cn/)、李理、[王少江](https://wangshaojiang.com)、周勇。本方向经常会邀请所外学者来访并作学术报告。详细信息请点击[此处](http://gc.itp.ac.cn/events)。
+目前中国科学院理论物理研究所的引力宇宙学方向的其他老师还包括：[蔡荣根](http://power.itp.ac.cn/~cairg/)、 [郭宗宽](http://gc.itp.ac.cn/)、 [黄庆国](http://cosmology.itp.ac.cn/)、李理、[王少江](https://wangshaojiang.com)、周勇。本方向经常会邀请所外学者来访并作学术报告，详细信息请点击[此处](http://gc.itp.ac.cn/events)。引力宇宙学大组的每周组会信息请点击[此处](https://code.itp.ac.cn/yww/seminar)。
 
 ---
 
