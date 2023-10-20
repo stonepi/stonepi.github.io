@@ -16,7 +16,7 @@ title: Index-zh
 
 关于我的研究小组情况，请点击[此处](https://stonepi.github.io/file/group-zh/)查看。本研究小组的组会每周五上午11点开始，地点在理论物理研究所南楼3层咖啡厅。
 
-目前中国科学院理论物理研究所的引力宇宙学方向的其他老师还包括：[蔡荣根](http://power.itp.ac.cn/~cairg/)、 [郭宗宽](http://gc.itp.ac.cn/)、 [黄庆国](http://cosmology.itp.ac.cn/)、李理、[王少江](https://wangshaojiang.com)、周勇。本方向经常会邀请所外学者来访并作学术报告。详细信息请点击[此处](http://gc.itp.ac.cn/events)。
+目前中国科学院理论物理研究所的引力宇宙学方向的其他老师还包括：[蔡荣根](http://power.itp.ac.cn/~cairg/)、 [郭宗宽](http://gc.itp.ac.cn/)、 [黄庆国](http://cosmology.itp.ac.cn/)、李理、[王少江](https://wangshaojiang.com)、周勇。本方向经常会邀请所外学者来访并作学术报告，详细信息请点击[此处](http://gc.itp.ac.cn/events)。引力宇宙学大组的每周组会信息请点击[此处](https://code.itp.ac.cn/yww/seminar)。
 
 ---
 
@@ -54,6 +54,7 @@ title: Index-zh
 #### For more detailed updates, see blogs.
 
 - **Oct 14 - 15, 2023:** International Mini-workshop on *Gravitational Waves in the Early Universe* will be held in ITP-CAS. [[link](https://indico.itp.ac.cn/event/171/)].
+- **Oct 10, 2023:** 我翻译的[穆哈诺夫](https://www.theorie.physik.uni-muenchen.de/cosmology/members/professors/mukhanov/index.html)的[*Physical Foundations of Cosmology*](https://www.cambridge.org/core/books/physical-foundations-of-cosmology/45E9AA7382874E52BA4CC6862C505EAF)的中文版《[宇宙学的物理基础](https://www.ecsponline.com/goods.php?id=222349)》已由科学出版社出版。点击[此处](https://item.jd.com/13886631.html)在京东上购买。如果读者在阅读过程中发现任何错误，或者有任何评论，请直接和我联系，或者[在此处留言](https://github.com/stonepi/stonepi.github.io/issues/new?template=ISSUE_TEMPLATE/comment_template.md)。
 - **Oct 6:** My paper *Axion Universal Gravitational Wave Interpretation of Pulsar Timing Array Data* collaborated with Lozanov, Sasaki, Takhistov, and Ao Wang was submitted to arXiv. It appears as arXiv:[2310.03594](https://arxiv.org/abs/2310.03594).
 - **Sep 24 - 27, 2023:** The *2nd Conference on Applications of Machine Learning on Astronomy*. [[link](https://machinelearning2023.casconf.cn/page/1663147986017980416)].
 - **Aug 29 - Sep 2, 2023:** The Annual Meeting of Chinese Astronomy Society, held in Weihai Campus of Shandong University. [[link](https://2023casmeeting.casconf.cn/)]
