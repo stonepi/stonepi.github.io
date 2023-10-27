@@ -53,7 +53,9 @@ title: Index-zh
 
 #### For more detailed updates, see blogs.
 
-- **Oct 14 - 15, 2023:** International Mini-workshop on *Gravitational Waves in the Early Universe* will be held in ITP-CAS. [[link](https://indico.itp.ac.cn/event/171/)].
+- **Oct 31 - Nov 3:** 东京工业大学的须山辉明教授访问我组，并作学术报告《Kramers-Kronig relation in gravitational lensing》
+- **Oct 26 - Oct 30, 2023:** 参加2023重庆引力宇宙学研讨会，作邀请报告。
+- **Oct 14 - 15, 2023:** 国际小型学术研讨会《早期宇宙中的引力波》在理论物理研究所成功举办。具体信息参见[会议网址](https://indico.itp.ac.cn/event/171/)。会议新闻点击此处。
 - **Oct 10, 2023:** 我翻译的[穆哈诺夫](https://www.theorie.physik.uni-muenchen.de/cosmology/members/professors/mukhanov/index.html)的[*Physical Foundations of Cosmology*](https://www.cambridge.org/core/books/physical-foundations-of-cosmology/45E9AA7382874E52BA4CC6862C505EAF)的中文版《[宇宙学的物理基础](https://www.ecsponline.com/goods.php?id=222349)》已由科学出版社出版。点击[此处](https://item.jd.com/13886631.html)在京东上购买。如果读者在阅读过程中发现任何错误，或者有任何评论，请直接和我联系，或者[在此处留言](https://github.com/stonepi/stonepi.github.io/issues/new?template=ISSUE_TEMPLATE/comment_template.md)。
 - **Oct 6:** My paper *Axion Universal Gravitational Wave Interpretation of Pulsar Timing Array Data* collaborated with Lozanov, Sasaki, Takhistov, and Ao Wang was submitted to arXiv. It appears as arXiv:[2310.03594](https://arxiv.org/abs/2310.03594).
 - **Sep 24 - 27, 2023:** The *2nd Conference on Applications of Machine Learning on Astronomy*. [[link](https://machinelearning2023.casconf.cn/page/1663147986017980416)].
