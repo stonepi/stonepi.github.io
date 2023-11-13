@@ -45,6 +45,8 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
 
 #### For more detailed updates, see blogs.
 
+- **Nov 5 - Nov 11:** Visit Shanghai University, Shanghai Jiaotong University, Tongji University, and give seminars.
+- **Nov 3 - Nov 5:** Attend the Huan-wu Peng Symposium on Frontiers of Theoretical Physics, and give a talk.
 - **Oct 31 - Nov 3:** Professor Teruaki Suyama visits our group in ITP-CAS. He gave a talk: *Kramers-Kronig relation in gravitational lensing*.
 - **Oct 26 - Oct 30, 2023:** Attend the 2023 Chongqing Symposium on Gravity and Cosmology. Give an invited talk.
 - **Oct 14 - 15, 2023:** International Mini-workshop on *Gravitational Waves in the Early Universe* was held successfully in ITP-CAS. For more information, see the [indico page](https://indico.itp.ac.cn/event/171/). The newsletter of this workshop is here. 

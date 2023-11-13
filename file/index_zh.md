@@ -53,6 +53,8 @@ title: Index-zh
 
 #### For more detailed updates, see blogs.
 
+- **Nov 5 - Nov 11:** 访问上海大学、上海交通大学、同济大学等，并作报告。
+- **Nov 3 - Nov 5:** 到重庆参加重庆大学主办的彭桓武科教中心理论物理前沿论坛，并作报告。
 - **Oct 31 - Nov 3:** 东京工业大学的须山辉明教授访问我组，并作学术报告《Kramers-Kronig relation in gravitational lensing》
 - **Oct 26 - Oct 30, 2023:** 参加2023重庆引力宇宙学研讨会，作邀请报告。
 - **Oct 14 - 15, 2023:** 国际小型学术研讨会《早期宇宙中的引力波》在理论物理研究所成功举办。具体信息参见[会议网址](https://indico.itp.ac.cn/event/171/)。会议新闻点击此处。
