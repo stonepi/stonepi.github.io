@@ -12,7 +12,7 @@ title: Index-zh
 
 欢迎来到皮石的个人主页。[[English Version](https://stonepi.github.io/)]
 
-我现在在[中国科学院理论物理研究所](https://itp.ac.cn)担任副研究员、博士生导师。主要从事宇宙学微扰论、暴胀宇宙学、引力理论、以及背景引力波方面的研究，尤其是利用宇宙学微扰论讨论早期宇宙中扰动的产生和演化以及它们的观测效应，如微波背景辐射、随机引力波背景、原初黑洞等。在引力波宇宙学时代，我的研究兴趣集中于利用随机引力波背景探测早期宇宙。近年来在PRL, PRD, SCPMA, JCAP等国际学术期刊上发表论文 30余篇。根据高能物理论文数据库 [INSPIREHEP](https://inspirehep.net/authors/1060905#with-citation-summary)统计，总被引用 2000 余次，h 因子为 23。其中被引用 100 次以上的论文 7 篇。受邀担任PRL, PRD, SCPMA, JCAP等著名 SCI 期刊的审稿人，多次在引力和宇宙学的重要国际会议上做邀请报告。具体情况请见[我的简历](https://stonepi.github.io/file/CV.pdf). 
+我现在在[中国科学院理论物理研究所](https://itp.ac.cn)担任副研究员、博士生导师。主要从事宇宙学微扰论、暴胀宇宙学、引力理论、以及背景引力波方面的研究，尤其是利用宇宙学微扰论讨论早期宇宙中扰动的产生和演化以及它们的观测效应，如微波背景辐射、随机引力波背景、原初黑洞等。在引力波宇宙学时代，我的研究兴趣集中于利用随机引力波背景探测早期宇宙。近年来在PRL, PRD, SCPMA, JCAP等国际学术期刊上发表论文 30余篇。根据高能物理论文数据库 [INSPIREHEP](https://inspirehep.net/authors/1060905#with-citation-summary)统计，总被引用 2000 余次，h-index为 23。其中被引用 100 次以上的论文 8 篇。受邀担任PRL, PRD, SCPMA, JCAP等著名 SCI 期刊的审稿人，多次在引力和宇宙学方向的国际会议上做邀请报告。具体情况请见[我的简历](https://stonepi.github.io/file/CV.pdf). 
 
 关于我的研究小组情况，请点击[此处](https://stonepi.github.io/file/group-zh/)查看。本研究小组的组会每周五上午11点开始，地点在理论物理研究所南楼3层咖啡厅。
 
@@ -57,8 +57,8 @@ title: Index-zh
 - **Nov 3 - Nov 5:** 到重庆参加重庆大学主办的彭桓武科教中心理论物理前沿论坛，并作报告。
 - **Oct 31 - Nov 3:** 东京工业大学的须山辉明教授访问我组，并作学术报告《Kramers-Kronig relation in gravitational lensing》
 - **Oct 26 - Oct 30, 2023:** 参加2023重庆引力宇宙学研讨会，作邀请报告。
-- **Oct 14 - 15, 2023:** 国际小型学术研讨会《早期宇宙中的引力波》在理论物理研究所成功举办。具体信息参见[会议网址](https://indico.itp.ac.cn/event/171/)。会议新闻点击此处。
-- **Oct 10, 2023:** 我翻译的[穆哈诺夫](https://www.theorie.physik.uni-muenchen.de/cosmology/members/professors/mukhanov/index.html)的[*Physical Foundations of Cosmology*](https://www.cambridge.org/core/books/physical-foundations-of-cosmology/45E9AA7382874E52BA4CC6862C505EAF)的中文版《[宇宙学的物理基础](https://www.ecsponline.com/goods.php?id=222349)》已由科学出版社出版。点击[此处](https://item.jd.com/13886631.html)在京东上购买。如果读者在阅读过程中发现任何错误，或者有任何评论，请直接和我联系，或者[在此处留言](https://github.com/stonepi/stonepi.github.io/issues/new?template=ISSUE_TEMPLATE/comment_template.md)。
+- **Oct 14 - 15, 2023:** 国际小型学术研讨会《早期宇宙中的引力波》在理论物理研究所成功举办。具体信息参见[会议网址](https://indico.itp.ac.cn/event/171/)。会议新闻点击[此处](http://www.itp.cas.cn/xw/zhxw/202311/t20231103_6915362.html).。
+- **Oct 10, 2023:** 我翻译的[穆哈诺夫](https://www.theorie.physik.uni-muenchen.de/cosmology/members/professors/mukhanov/index.html)的[*Physical Foundations of Cosmology*](https://www.cambridge.org/core/books/physical-foundations-of-cosmology/45E9AA7382874E52BA4CC6862C505EAF)的中文版《[宇宙学的物理基础](https://www.ecsponline.com/goods.php?id=222349)》已由科学出版社出版。为此我撰写了《[译后记](https://stonepi.github.io/essays/slava_epilogue/index.html)》以讲述翻译背后的故事。点击[此处](https://item.jd.com/13886631.html)在京东上购买。如果读者在阅读过程中发现任何错误，或者有任何评论，请直接和我联系，或者[在此处留言](https://github.com/stonepi/stonepi.github.io/issues/new?template=ISSUE_TEMPLATE/comment_template.md)。
 - **Oct 6:** My paper *Axion Universal Gravitational Wave Interpretation of Pulsar Timing Array Data* collaborated with Lozanov, Sasaki, Takhistov, and Ao Wang was submitted to arXiv. It appears as arXiv:[2310.03594](https://arxiv.org/abs/2310.03594).
 - **Sep 24 - 27, 2023:** The *2nd Conference on Applications of Machine Learning on Astronomy*. [[link](https://machinelearning2023.casconf.cn/page/1663147986017980416)].
 - **Aug 29 - Sep 2, 2023:** The Annual Meeting of Chinese Astronomy Society, held in Weihai Campus of Shandong University. [[link](https://2023casmeeting.casconf.cn/)]

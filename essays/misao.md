@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /essays/2001classmates/index.html
+permalink: /essays/misao/index.html
 title: 2001 Classmates
 ---
 
@@ -8,13 +8,7 @@ title: 2001 Classmates
 
 ---
 
-瀛洲多名士、<br>俊逸唯佐公<sup>[2]</sup>。<br>俛仰知宇宙、<br>雄文勝天工。<br>憶昔重陽日、<br>逢公在大同<sup>[3]</sup>。<br>談笑浮屠下、<br>逍遙石窟中。<br>
-臨別殷勤意、<br>邀我至海東。<br>
-海東有嘉會<sup>[4]</sup>、<br>揖讓益溫恭。<br>
-所言皆妙理、<br>相語沐春風。<br>
-玄思啟駑鈍、<br>附驥蕆此功<sup>[5]</sup>。<br>
-爾來六春秋、<br>致仕在今冬。<br>
-題篇此文首、<br>祝公祿萬鍾。<br>
+瀛洲多名士、<br>俊逸唯佐公<sup>[2]</sup>。<br>俛仰知宇宙、<br>雄文勝天工。<br>憶昔重陽日、<br>逢公在大同<sup>[3]</sup>。<br>談笑浮屠下、<br>逍遙石窟中。<br>臨別殷勤意、<br>邀我至海東。<br>海東有嘉會<sup>[4]</sup>、<br>揖讓益溫恭。<br>所言皆妙理、<br>相語沐春風。<br>玄思啟駑鈍、<br>附驥蕆此功<sup>[5]</sup>。<br>爾來六春秋、<br>致仕在今冬。<br>題篇此文首、<br>祝公祿萬鍾。<br>
 
 戊戌年正月四日
 
