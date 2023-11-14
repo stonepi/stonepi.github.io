@@ -49,9 +49,9 @@ title: Index-zh
 
 ---
 
-## News and Updates
+## 学术流水账
 
-#### For more detailed updates, see blogs.
+#### 更多流水账可点击[BLOGS](https://stonepi.github.io/blogs/)查看
 
 - **Nov 5 - Nov 11:** 访问上海大学、上海交通大学、同济大学等，并作报告。
 - **Nov 3 - Nov 5:** 到重庆参加重庆大学主办的彭桓武科教中心理论物理前沿论坛，并作报告。

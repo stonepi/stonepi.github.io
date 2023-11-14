@@ -43,7 +43,7 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
 
 ## News and Updates
 
-#### For more detailed updates, see blogs.
+#### For more detailed updates, see [BLOGS](https://stonepi.github.io/blogs/).
 
 - **Nov 5 - Nov 11:** Visit Shanghai University, Shanghai Jiaotong University, Tongji University, and give seminars.
 - **Nov 3 - Nov 5:** Attend the Huan-wu Peng Symposium on Frontiers of Theoretical Physics, and give a talk.
