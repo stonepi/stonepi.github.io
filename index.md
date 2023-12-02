@@ -45,6 +45,9 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
 
 #### For more detailed updates, see [BLOGS](https://stonepi.github.io/blogs/).
 
+- **Dec 1 - Dec 7:** Visit YITP, Kyoto University, Japan.
+- **Nov 26 - Dec 1:** I am invited to give a plenary talk *Non-Gaussianities in the PBH Formation and Induced GWs* in JGRG32 in Nagoya, Japan. The slides are here.
+- **Nov 20 - Nov 21:** Visit Northeastern University, give a seminar.
 - **Nov 5 - Nov 11:** Visit Shanghai University, Shanghai Jiaotong University, Tongji University, and give seminars.
 - **Nov 3 - Nov 5:** Attend the Huan-wu Peng Symposium on Frontiers of Theoretical Physics, and give a talk.
 - **Oct 31 - Nov 3:** Professor Teruaki Suyama visits our group in ITP-CAS. He gave a talk: *Kramers-Kronig relation in gravitational lensing*.
