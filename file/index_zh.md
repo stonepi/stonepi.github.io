@@ -54,7 +54,7 @@ title: Index-zh
 #### 更多流水账可点击[BLOGS](https://stonepi.github.io/blogs/)查看
 
 - **Dec 1 - Dec 7:** 访问日本京都大学基础物理学研究所。
-- **Nov 26 - Dec 1:** 受邀在第32届日本广义相对论与引力大会上做大会报告，标题为《Non-Gaussianities in the PBH Formation and Induced GWs》。幻灯片点[此处](../files/JGRG32.pdf)。
+- **Nov 26 - Dec 1:** 受邀在第32届日本广义相对论与引力大会上做大会报告，标题为《Non-Gaussianities in the PBH Formation and Induced GWs》。幻灯片点[此处](../pdf/JGRG32.pdf)。
 - **Nov 20 - Nov 21:** 访问东北大学理学院，并作报告。
 - **Nov 5 - Nov 11:** 访问上海大学、上海交通大学、同济大学等，并作报告。
 - **Nov 3 - Nov 5:** 到重庆参加重庆大学主办的彭桓武科教中心理论物理前沿论坛，并作报告。
