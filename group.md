@@ -23,3 +23,4 @@ Lastest Update: 29th Sep 2023 &nbsp; [中文版本 (Chinese Version)](https://s
 ## Visiting Students
 
 - **Zhenyu Zhang** <br>A PhD candidate from Peking University. He mainly works on black hole shadow.
+- **Xianyi Xiong-An**<br>An undergraduate student from Huazhong University of Science and Technology. He will join our group in September 2024.
