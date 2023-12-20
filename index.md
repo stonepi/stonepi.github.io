@@ -45,19 +45,25 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
 
 #### For more detailed updates, see [BLOGS](https://stonepi.github.io/blogs/).
 
+- **Dec 20:** Cristian Joana gets the NSFC postdoc general program funding support.
+- **Dec 19:** Visit Nanjing Normal University (host: Prof. Lei Wu), and give a seminar.
+- **Dec 18:** Visit Purple Mountain Observatory (host: Prof. Yi-Zhong Fan, Prof. Yue-Lin Sming Tsai), and attend Prof. Haibo Yu's seminar *Exploring the Signatures of Strong Dark Matter Self-Interactions*.
+- **Dec 16 - Dec 17:** Attend The 17th Symposium of TeV Working Group, and give a plenary talk.
+- **Dec 8 - Dec 11:** Organize 2023 ITP-CAS Workshop on Gravity and Cosmology, held in Chunhuiyuan Hotel, Beijing.
 - **Dec 1 - Dec 7:** Visit YITP, Kyoto University, Japan.
 - **Nov 26 - Dec 1:** I am invited to give a plenary talk *Non-Gaussianities in the PBH Formation and Induced GWs* in JGRG32 in Nagoya, Japan. The slides are [here](./pdf/JGRG32.pdf).
-- **Nov 20 - Nov 21:** Visit Northeastern University, give a seminar.
-- **Nov 5 - Nov 11:** Visit Shanghai University, Shanghai Jiaotong University, Tongji University, and give seminars.
-- **Nov 3 - Nov 5:** Attend the Huan-wu Peng Symposium on Frontiers of Theoretical Physics, and give a talk.
+- **Nov 25:** Attend the unified annual meeting of the three National Key Programs of the GW detection, held in Tsinghua Sanya Forum, Sanya, Hainan.
+- **Nov 20 - Nov 21:** Visit Northeastern University (host: Prof. Xin Zhang), give a seminar.
+- **Nov 5 - Nov 11:** Visit Shanghai University (host: Prof. Xian-hui Ge), Shanghai Jiaotong University (host: Prof. Hong-jian He), Tongji University (host: Prof. Ying-li Zhang), and give seminars.
+- **Nov 3 - Nov 5:** Attend the Huan-wu Peng Symposium on Frontiers of Theoretical Physics held in Chongqing University, and give a talk.
 - **Oct 31 - Nov 3:** Professor Teruaki Suyama visits our group in ITP-CAS. He gave a talk: *Kramers-Kronig relation in gravitational lensing*.
-- **Oct 26 - Oct 30, 2023:** Attend the 2023 Chongqing Symposium on Gravity and Cosmology. Give an invited talk.
-- **Oct 14 - 15, 2023:** International Mini-workshop on *Gravitational Waves in the Early Universe* was held successfully in ITP-CAS. For more information, see the [indico page](https://indico.itp.ac.cn/event/171/). The newsletter of this workshop is [here](http://www.itp.cas.cn/xw/zhxw/202311/t20231103_6915362.html). 
+- **Oct 26 - Oct 30, 2023:** Attend the 2023 Chongqing Symposium on Gravity and Cosmology organized by Southeastern University, and give a talk.
+- **Oct 14 - 15, 2023:** Organize *The International Mini-workshop on Gravitational Waves in the Early Universe*, held in ITP-CAS. For more information, see the [indico page](https://indico.itp.ac.cn/event/171/). The newsletter of this workshop is [here](http://www.itp.cas.cn/xw/zhxw/202311/t20231103_6915362.html). 
 - **Oct 10, 2023:** [Chinese version](https://www.ecsponline.com/goods.php?id=222349) of [Slava Mukhanov](https://www.theorie.physik.uni-muenchen.de/cosmology/members/professors/mukhanov/index.html)'s [*Physical Foundations of Cosmology*](https://www.cambridge.org/core/books/physical-foundations-of-cosmology/45E9AA7382874E52BA4CC6862C505EAF) translated by me is published by the Science Press. I wrote an [epilogue (in Chinese)](https://stonepi.github.io/essays/slava_epilogue/index.html) to tell the story behind its translation. To buy it, click [here](https://item.jd.com/13886631.html). If you find any typos, or have any comments, please contact me, or [leave a message](https://github.com/stonepi/stonepi.github.io/issues/new?template=ISSUE_TEMPLATE/comment_template.md).
 - **Oct 6:** My paper *Axion Universal Gravitational Wave Interpretation of Pulsar Timing Array Data* collaborated with Lozanov, Sasaki, Takhistov, and Ao Wang was submitted to arXiv. It appears as arXiv:[2310.03594](https://arxiv.org/abs/2310.03594).
 - **Sep 24 - 27, 2023:** The *2nd Conference on Applications of Machine Learning on Astronomy*. [[link](https://machinelearning2023.casconf.cn/page/1663147986017980416)].
 - **Aug 29 - Sep 2, 2023:** The Annual Meeting of Chinese Astronomy Society, held in Weihai Campus of Shandong University. [[link](https://2023casmeeting.casconf.cn/)]
-- **Aug 17 - Aug 20, 2023:** The Annual Meeting of Chinese Physics Society. I gave a invited talk. [[link](http://meeting.cps-net.org.cn/nxu2023)]
+- **Aug 17 - Aug 20, 2023:** The Annual Meeting of Chinese Physics Society. I gave a invited talk in the parallel session of Particle Physics, Field Theory, and Cosmology. [[link](http://meeting.cps-net.org.cn/nxu2023)]
 - **Aug 14 - Aug 17, 2023:** Visiting [Prof. Anzhong Wang](https://www.baylor.edu/physics/index.php?id=68588) in the  Zhejiang University of Technology. 
 
 ---
