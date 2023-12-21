@@ -23,7 +23,7 @@ For full list of my papers, check [inspirehep]([INSPIRE](https://inspirehep.net/
 
 ## Books
 
-- **宇宙学的物理基础**<br>Vietcheslav Mukhanov著, **皮石**译. <br>科学出版社2023年9月第一版. ISBN: 978-7-03-076273-3.
+- **宇宙学的物理基础**<br>Vietcheslav Mukhanov著, **皮石**译. <br>科学出版社2023年9月第一版. ISBN: 978-7-03-076273-3.<br>![替代文本](images/SlavaBook.png)
 
 - **PHYSICS OF PRIMORDIAL BLACK HOLES**<br>A monograph in Springer Series in Astrophysics and Cosmology<br>Ed. Byrnes et al. Springer Press. In preparation.
 
