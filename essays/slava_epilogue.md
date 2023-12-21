@@ -4,11 +4,7 @@ permalink: /essays/slava_epilogue/index.html
 title: Slava_epilogue
 ---
 
-<div style="text-align: center;">
-
-# 《宇宙学的物理基础》<br>译后记
-
-</div>
+# 《宇宙学的物理基础》译后记
 
 > 此文完成于2023年5月30日，提交给出版社之后有文字上的删改。此外，初期的版本也现在不同，因此我把初版删除的文字也保留了，用删节线表示，以存原貌。
 > 
