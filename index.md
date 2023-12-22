@@ -45,7 +45,7 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
 
 #### For more detailed updates, see [BLOGS](https://stonepi.github.io/blogs/).
 
-- **Dec 20:** Cristian Joana gets the NSFC postdoc general program funding support.
+- **Dec 20:** Cristian Joana gets the NSFC Special Funds for Theoretical Physics Postdoc Program.
 - **Dec 19:** Visit Nanjing Normal University (host: Prof. Lei Wu), and give a seminar.
 - **Dec 18:** Visit Purple Mountain Observatory (host: Prof. Yi-Zhong Fan, Prof. Yue-Lin Sming Tsai), and attend Prof. Haibo Yu's seminar *Exploring the Signatures of Strong Dark Matter Self-Interactions*.
 - **Dec 16 - Dec 17:** Attend The 17th Symposium of TeV Working Group, and give a plenary talk.

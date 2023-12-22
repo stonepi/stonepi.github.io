@@ -53,7 +53,7 @@ title: Index-zh
 
 #### 更多流水账可点击[BLOGS](https://stonepi.github.io/blogs/)查看
 
-- **Dec 20:** 组内博士后Cristian Joana喜获国家自然科学基金委博士后面上项目资助。
+- **Dec 20:** 组内博士后Cristian Joana喜获国家自然科学基金委理论物理专款博士后项目资助。
 - **Dec 19:** 在南京师范大学物理学院访问武雷教授，并作学术报告。
 - **Dec 18:** 在中国科学院紫金山天文台访问范一中研究员、蔡岳霖研究员，参加郁海波教授学术报告《Exploring the Signatures of Strong Dark Matter Self-Interactions》。
 - **Dec 16 - Dec 17:** 在江苏省南京市锦江南京饭店参加第17届TeV工作组研讨会并做报告大会报告。
