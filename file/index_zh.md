@@ -59,7 +59,7 @@ title: Index-zh
 - **Dec 16 - Dec 17:** 在江苏省南京市锦江南京饭店参加第17届TeV工作组研讨会并做报告大会报告。
 - **Dec 8 - Dec 11:** 2023年中国科学院理论物理研究所引力和宇宙学研讨会在北京市怀柔区春晖园酒店成功举办。
 - **Dec 1 - Dec 7:** 访问日本京都大学基础物理学研究所。
-- **Nov 26 - Dec 1:** 受邀在第32届日本广义相对论与引力大会上做大会报告，标题为《Non-Gaussianities in the PBH Formation and Induced GWs》。幻灯片点[此处](../pdf/JGRG32.pdf)。
+- **Nov 26 - Dec 1:** 受邀在[第32届日本广义相对论与引力大会](https://sites.google.com/view/jgrg-32)上做大会报告，标题为《Non-Gaussianities in the PBH Formation and Induced GWs》。幻灯片点[此处](../pdf/JGRG32.pdf)。
 - **Nov 25:** 在海南省三亚市三亚清华论坛参加国家重点研发计划“引力波探测”专项三项联合年度总结交流会，并代表引力波模板项目、宇宙线等新颖引力波源课题做年度总结报告。
 - **Nov 20 - Nov 21:** 访问东北大学理学院张鑫教授，并作报告。
 - **Nov 5 - Nov 11:** 访问上海大学葛先辉教授、上海交通大学何红建教授、同济大学章颖理教授等，并作报告。

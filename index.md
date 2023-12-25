@@ -51,7 +51,7 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
 - **Dec 16 - Dec 17:** Attend The 17th Symposium of TeV Working Group, and give a plenary talk.
 - **Dec 8 - Dec 11:** Organize 2023 ITP-CAS Workshop on Gravity and Cosmology, held in Chunhuiyuan Hotel, Beijing.
 - **Dec 1 - Dec 7:** Visit YITP, Kyoto University, Japan.
-- **Nov 26 - Dec 1:** I am invited to give a plenary talk *Non-Gaussianities in the PBH Formation and Induced GWs* in JGRG32 in Nagoya, Japan. The slides are [here](./pdf/JGRG32.pdf).
+- **Nov 26 - Dec 1:** I am invited to give a plenary talk *Non-Gaussianities in the PBH Formation and Induced GWs* in [JGRG32](https://sites.google.com/view/jgrg-32) in Nagoya, Japan. The slides are [here](./pdf/JGRG32.pdf).
 - **Nov 25:** Attend the unified annual meeting of the three National Key Programs of the GW detection, held in Tsinghua Sanya Forum, Sanya, Hainan.
 - **Nov 20 - Nov 21:** Visit Northeastern University (host: Prof. Xin Zhang), give a seminar.
 - **Nov 5 - Nov 11:** Visit Shanghai University (host: Prof. Xian-hui Ge), Shanghai Jiaotong University (host: Prof. Hong-jian He), Tongji University (host: Prof. Ying-li Zhang), and give seminars.
