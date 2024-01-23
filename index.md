@@ -45,7 +45,9 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
 
 #### For more detailed updates, see [BLOGS](https://stonepi.github.io/blogs/).
 
-- **Jan 13:** Visit Prof. Seong Chan Park in Yonsei University, Seoul. Give two seminars.
+- **Jan 18:** Visit Korean Institute of Advanced Study (KIAS). Host: Prof. [Pyungwon Ko](https://www.kias.re.kr/kias/people/faculty/viewMember.do?memberId=10214&trget=listFaculty&menuNo=408002). Give a seminar.
+
+- **Jan 15:** Visit Prof. [Seong Chan Park](https://physicsyonsei.kr/en/people/professor?idx=37) in Yonsei University, Seoul. Give two seminars.
 
 - **Jan 8 - Jan 12, 2024:** Attend the 2024 Workshop on New Perspectives on Cosmology, held in APCTP, Pohang, Korea. Give a seminar on Jan 9th (Tue).
   

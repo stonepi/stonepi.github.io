@@ -53,7 +53,9 @@ title: Index-zh
 
 #### 更多流水账可点击[BLOGS](https://stonepi.github.io/blogs/)查看
 
-- **Jan 13:** 访问韩国延世大学的朴盛粲(Park, Seong Chan)教授，做了一个综述报告和一个工作报告。
+- **Jan 18:** 访问韩国高等科学院(KIAS)的[Pyungwon Ko](https://www.kias.re.kr/kias/people/faculty/viewMember.do?memberId=10214&trget=listFaculty&menuNo=408002)教授，并做学术报告。
+
+- **Jan 15:** 访问韩国延世大学的[朴盛粲(Park, Seong Chan)](https://physicsyonsei.kr/en/people/professor?idx=37)教授，做了一个综述报告和一个工作报告。
 
 - **Jan 8 - Jan 12, 2024:** 在亚太理论物理中心参加2024宇宙学的新视野学术研讨会，并在9日做学术报告。
   
