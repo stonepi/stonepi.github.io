@@ -24,4 +24,5 @@ title: Essays
 ## 诗
 
 - [述懷兼寄贈北京大學物理學院2001級同窗諸君二十二韻](./essays/2001classmates.md)
+- [讀楚簡詩經國風殘卷](./essays/shijing.md)
 - [題論文端贈佐佐木公兼慶公致仕](./essays/misao.md)
