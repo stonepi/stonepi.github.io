@@ -11,7 +11,9 @@ title: Essays
 ## 语体文
 
 - [《宇宙学的物理基础》译后记](./essays/slava_epilogue.md)
+- [Epilogue to the Chinese Translation of *Physical Foundations of Cosmology*](./essays/slava_epilogue_En.md)
 - [俞允强老师二三事](./essays/yunqiang_yu.md)
+- [当代中国木板印刷小记](./essays/on_printing.md)
 
 ---
 
