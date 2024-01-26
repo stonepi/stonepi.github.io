@@ -19,6 +19,8 @@ title: Essays
 
 ## 雅言
 
+- [讀資治通鑑筆記](./essays/tongjian.md)
+
 ---
 
 ## 诗
