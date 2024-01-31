@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /essays/slava_epilogue_En/index.html
-title: Slava_epilogue_En
+permalink: /essays/slava_epilogue_en/index.html
+title: slava_epilogue_en
 ---
 
 # Epilogue of the Chinese Translation of *Physical Foundations of Cosmology*
