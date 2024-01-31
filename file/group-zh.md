@@ -37,7 +37,7 @@ Lastest Update: 29th Sep 2023   [English Version](https://stonepi.github.io/gr
   <br>
   王奥是二年级硕士研究生。他的主要研究方向是随机引力波背景、宇宙学微扰论等。
 
-- **Zihan Li** Sep 2023 -  <br>李子涵是一年级硕士研究生。
+- **李子涵** Sep 2023 -  <br>李子涵是一年级硕士研究生。
 
 ## 访问学生
 
