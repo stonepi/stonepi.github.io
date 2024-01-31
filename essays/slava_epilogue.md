@@ -6,7 +6,7 @@ title: Slava_epilogue
 
 # 《宇宙学的物理基础》译后记
 
-> 此文完成于2023年5月30日，提交给出版社之后有文字上的删改，并以《我trrrrrrrrraslation了穆哈诺夫》的诡异题目在社交网络上流传。此外，初期的版本也现在不同，因此我把初版删除的文字也保留了，用删节线表示，以存原貌。For English version, [click here](slava_epilogue_en.md).
+> 此文完成于2023年5月30日，提交给出版社之后有文字上的删改，并以《我trrrrrrrrraslation了穆哈诺夫》的诡异题目在社交网络上流传。此外，初期的版本也现在不同，因此我把初版删除的文字也保留了，用删节线表示，以存原貌。For English version, [click here](slava_epilogue_En.md).
 > 
 > 皮石，2023年10月19日
 
