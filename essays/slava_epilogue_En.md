@@ -6,7 +6,7 @@ title: slava_epilogue_en
 
 # Epilogue of the Chinese Translation of *Physical Foundations of Cosmology*
 
-> This article was completed on May 30th, 2023. It was edited by the Science Press, and published on their WeChat with a weird title "I trrrrrrrrrrrrrraslated Slava's book". In Jan 28th, 2024, I translated this article to English with the help of ChatGPT3.5. 中文版[点此](./essays/slava_epilogue.md).
+> This article was completed on May 30th, 2023. It was edited by the Science Press, and published on their WeChat with a weird title "I trrrrrrrrraslated Slava's book". In Jan 28th, 2024, I translated this article to English with the help of ChatGPT3.5. 中文版[点此](slava_epilogue.md).
 
 ---
 
