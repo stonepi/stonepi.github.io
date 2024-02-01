@@ -16,7 +16,7 @@ Cristian Joana got his PhD in the Université catholique de Louvain in 2022. His
 
 ## Students
 
-- **Jianing Wang** Sep 2019 - <br><img src="/images/Jianing.jpg" width="300"><br>Jianing Wang is a PhD candidate. She works on inflationary perturbation theory and primordial black hole formation.<br>Currently she is visiting KEK in Japan, collaborating with Prof. Volydymyr Takhistov.
+- **Jianing Wang** Sep 2019 - <br><img src="/images/Jianing.jpg" width="300"><br>Jianing Wang is a PhD candidate. She works on inflationary perturbation theory and primordial black hole formation.<br>Currently she is visiting KEK in Japan, collaborating with Prof. Volodymyr Takhistov.
 - **Wencong Hong** Sep 2021 - <br><img src="/images/Wencong.jpg" width="300"><br>Wencong Hong is a PhD student. He works on the stochastic gravitational waves from the compact objects.
 - **Ao Wang** Sep 2022 - <br><img src="/images/Ao.jpg" width="300"><br>Ao Wang is a master student. He works on the stochastic gravitational waves and primordial black hole formation.
 - **Zihan Li** Sep 2023 - <br>Zihan Li is a master student.
