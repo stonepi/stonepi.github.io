@@ -24,7 +24,7 @@ Lastest Update: 29th Sep 2023   [English Version](https://stonepi.github.io/gr
 - **王嘉宁** 2019年9月入学 - <br><img src="/images/Jianing.jpg" width="300" >
   
   <br>
-  王嘉宁是3年级博士研究生。她的主要研究方向是暴胀时期的扰动理论以及原初黑洞形成。
+  王嘉宁是3年级博士研究生。她的主要研究方向是暴胀时期的扰动理论以及原初黑洞形成。<br>目前王嘉宁正在日本高能加速器研究所（KEK）进行为期二个月的访问学习，合作导师为Volodymyr Takhistov。
 
 - **洪文聪** 2021年9月入学 -  <br><img src="/images/Wencong.jpg" width="300" >
   
