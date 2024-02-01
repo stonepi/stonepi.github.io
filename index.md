@@ -53,7 +53,7 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
   
   ---
 
-- **Dec 20:** Cristian Joana gets the NSFC Special Funds for Theoretical Physics Postdoc Program.
+- **Dec 20:** Cristian Joana gets the NSFC Special Funds for Theoretical Physics Postdoc Program, *Primordial Black Hole and its Gravitational Wave Signal*, No. 12347132.
 
 - **Dec 19:** Visit Nanjing Normal University (host: Prof. Lei Wu), and give a seminar.
 
