@@ -25,6 +25,8 @@ For full list of my papers, check [inspirehep]([INSPIRE](https://inspirehep.net/
 
 - **宇宙学的物理基础**<br>Vietcheslav Mukhanov著, **皮石**译. <br>科学出版社2023年9月第一版. ISBN: 978-7-03-076273-3.<br><img src="/images/SlavaBook.png" alt="SlavaBook" style="width:50%">
 
-- **PRIMORDIAL BLACK HOLES**<br>A monograph in Springer Series in Astrophysics and Cosmology, Springer (2024).<br>To appear. Ed. Chris Byrnes, Gabriele Franciolini, Tomohiro Harada, Paolo Pani, Misao Sasaki. 
+- **PRIMORDIAL BLACK HOLES**<br>
+Chapter 8: Non-Gaussianities. ArXiv: [2404.06151](https://arxiv.org/abs/2404.06151).
+<br>A monograph in Springer Series in Astrophysics and Cosmology, Springer (2024).<br>To appear. Ed. Chris Byrnes, Gabriele Franciolini, Tomohiro Harada, Paolo Pani, Misao Sasaki. 
 
 - **PERTURBATION THEORY OF COSMOLOGY**<br>Atsushi Naroko, **Shi Pi**, Misao Sasaki. In preparation.
