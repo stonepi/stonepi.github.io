@@ -41,9 +41,47 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
 
 ---
 
-## News and Updates
+## 学术流水账
 
-#### For more detailed updates, see [BLOGS](https://stonepi.github.io/blogs/).
+#### 更多历史记录请移步[BLOGS](https://stonepi.github.io/blogs/)
+
+#### 本周居所工作
+
+- **7月5日周二** 晋升正研究员面试。
+
+#### 7月8日至7月14日在所工作
+
+- **7月13日周六** <br>与王嘉宁讨论。彼将往韩国IBS山口昌英处访问2月，临行前嘱其善察言观色，勿意必固我。
+
+- **7月12日周五** <br>11时起与Diego、王嘉宁、洪文聪、王奥、张震宇、蔡坤雨、呼阳阳等组会。讨论Riotto等论文[2406.20089](https://arxiv.org/abs/2406.20089)。王奥介绍其新论文[2407.06066](https://arxiv.org/abs/2407.06066)。Alexandra Vikman来。邀其参加小组食堂聚餐。<br>午后狂风大作，暴雨。2时半Alexandra Vikman来参加组会。命洪文聪讲其COSPA获奖之报告，问难若干。会后与学生闲聊、晚餐。<br>20时与癸林(Guillem Domenech)、王奥、王嘉宁讨论。<br>21时与角马(Jaume Garriga)、Albert Escriva讨论。
+
+- **7月11日周四** <br>与佐公(Misao Sasaki)、王嘉宁、Volodymyr讨论。
+
+- **7月10日周三** <br>9时参加理论所人才项目预答辩活动。<br>14时Vikman学术报告。海报和相关信息[点此](http://itp.cas.cn/kxyj/xshd/xsbg/202407/t20240701_7205887.html)。会后与Vikman、邱涛涛、张云龙及学生聚餐。
+
+- **7月9日周二** <br>16时与本桥隼人、横山修一郎、多田裕一郎、Inui Ryoto、Cristian Joana等讨论。Cristian进展顺利，课题大体成型。多田君允诺撰文。
+
+- **7月8日周一** <br>12时半与田中貴浩、Danilo Artigas讨论。为讲解本桥隼人、胡维恩(Wayne Hu)、Samuel Passaglia之论文[1812.08243](https://arxiv.org/abs/1812.08243)。
+
+#### 7月5日周五至7月7日周日理论所招生面试
+
+- **7月7日周日**<br>上午面试剩余4位学生，随后讨论。今年因科学院改革，夏令营名额削减，仅17人可录，故竞争尤为激烈。幸俞千野笔试、面试成绩尚可，优先录之。
+
+- **7月6日周六**<br>全天面试。上午有报本组之本科生4人面试，评定结果大致与同事同。下午二室学生面试，亦坐听之，然精神已不济矣。
+
+- **7月5日周五**<br>下午面试。皆方向一（粒子物理）、二（场论）学生，差可。<br>晚饭后俞千野、潘宇来谈。略言宇宙学之学习次第，且鼓励之。
+
+#### 7月2日周二至7月4日周四在上海科技大学参加[Quantum Gravity and Cosmology 2024](https://qgc2024.shanghaitech.edu.cn/)会议
+
+- **7月4日周四**<br>会议合影。下午作主持，听若干圈量子引力报告，不知所云。结束后乘车直奔浦东机场，乘机返北京。
+
+- **7月3日周三**<br>会上做邀请报告。
+
+- **7月2日周二**<br>![Slava_QGC2024](../images/Slava_QGC2023.jpg)
+
+#### 
+
+---
 
 - **Jan 18:** Visit Korean Institute of Advanced Study (KIAS). Host: Prof. [Pyungwon Ko](https://www.kias.re.kr/kias/people/faculty/viewMember.do?memberId=10214&trget=listFaculty&menuNo=408002). Give a seminar.
 
