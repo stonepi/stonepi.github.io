@@ -8,7 +8,7 @@ layout: page
 
 <img title="" src="./images/shipi.jpg" alt="" class="floatpic" width="360" height="480">
 
-Welcome to **Shi Pi**'s homepage. [[中文版本](https://stonepi.github.io/file/index-zh/)]
+Welcome to **Shi Pi**'s homepage. [[中文版本](./index-zh/)]
 
 I am an associate professor in Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS). My research interests are cosmology and gravity, including but not limited to string inflation, inflation model building, the generation and evolution of cosmological perturbations, (p)reheating, cosmic microwave background radiation anisotropies, dark energy, as well as the gravitational wave astronomy/cosmology. For details, see [my CV](https://stonepi.github.io/pdf/CV.pdf). 
 
