@@ -25,9 +25,9 @@ Lastest Update: 29th Sep 2023   [English Version](https://stonepi.github.io/gr
 - **王嘉宁** 2019年9月入学 - <br><img src="/images/Jianing.jpg" width="300" >
   
   <br>
-  王嘉宁是2021级博士研究生。她的主要研究方向是暴胀时期的扰动理论以及原初黑洞形成。
-2024年1月至3月，王嘉宁在日本加速器研究所（KEK）访问学习。
-2024年6月至9月，王嘉宁将去韩国基础科学研究院（IBS）访问学习。合作导师为Masahide Yamaguchi。
+  王嘉宁是2021级博士研究生。她的主要研究方向是暴胀时期的扰动理论以及原初黑洞形成。<br>
+2024年1月至3月，王嘉宁在日本加速器研究所（KEK）访问学习。<br>
+2024年7月21日至9月中旬，王嘉宁在韩国基础科学研究院（IBS）访问学习。合作导师为Masahide Yamaguchi。
 <br>
 她的论文发表情况见[INSPIRE](https://inspirehep.net/authors/2730443?ui-citation-summary=true)页面。
 
@@ -47,6 +47,21 @@ Lastest Update: 29th Sep 2023   [English Version](https://stonepi.github.io/gr
 
 <br>
 李子涵是2023级硕士研究生。
+
+- **熊安贤屹** Sep 2024 -  <br><img src="/images/?.jpg" width="300" >
+
+<br>
+熊安贤屹是2024级硕士研究生。
+
+- **俞千野** Sep 2024 -  <br><img src="/images/?.jpg" width="300" >
+
+<br>
+俞千野现为武汉大学物理学院本科生。他将于2025年9月进入中国科学院大学研究生院攻读研究生并加入我们组。
+
+- **蔡坤雨** Sep 2024 -  <br><img src="/images/?.jpg" width="300" >
+
+<br>
+蔡坤雨现为北京大学天文系本科生。她将于2025年9月进入北京大学理论物理研究所攻读研究生并加入我们组，由我和陈斌老师共同指导。
 
 ## 访问学生
 
