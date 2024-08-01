@@ -11,6 +11,11 @@ Lastest Update: 29th Sep 2023   [English Version](https://stonepi.github.io/gr
 
 <span style="color:red;">本组每年有一个研究生名额，欢迎申请。我们会优先考虑参加中国科学院理论物理研究所夏令营的优秀本科生。</span>
 
+## 最新合影
+
+![2024年7月20日组会合影](/images/IMG_7094.jpeg)
+<br>2024年7月20日组会合影
+
 ## 博士后
 
 - **Cristian Joana** 2023年2月至—— <br><img src="/images/Cristian.jpg" width="300">

@@ -10,6 +10,11 @@ title: Group
 Lastest Update: 1st Aug 2024 &nbsp; <br>
 [中文版本 (Chinese Version)](https://stonepi.github.io/file/group-zh/)
 
+## Group Photo
+
+![Group Meeting on July 23rd, 2024](/images/IMG_7094.jpeg)
+<br>Group Meeting on July 23rd, 2024
+
 ## Postdocs
 
 - **Cristian Joana**  Feb 2023 -  <br><img src="/images/Cristian.jpg" width="300"><br>
