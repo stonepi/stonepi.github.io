@@ -5,7 +5,10 @@ title: Group
 
 ---
 
-Lastest Update: 29th Sep 2023 &nbsp; [中文版本 (Chinese Version)](https://stonepi.github.io/file/group-zh/)
+# Group Members
+
+Lastest Update: 1st Aug 2024 &nbsp; <br>
+[中文版本 (Chinese Version)](https://stonepi.github.io/file/group-zh/)
 
 ## Postdocs
 
