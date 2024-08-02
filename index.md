@@ -12,10 +12,9 @@ Welcome to **Shi Pi**'s homepage. [[中文版本](/file/index-zh/)]
 
 I am an associate professor in Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS). My research interests are cosmology and gravity, including but not limited to string inflation, inflation model building, the generation and evolution of cosmological perturbations, (p)reheating, cosmic microwave background radiation anisotropies, dark energy, as well as the gravitational wave astronomy/cosmology. For details, see [my CV](./pdf/CV.pdf). 
 
-My publication list can be found in [inspirehep](https://inspirehep.net/authors/1060905#with-citation-summary) and [adsabs](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FPi%2C%20S%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22%20AND%20author_facet_hier%3A%220%2FPi%2C%20S%22)&p_=0&q=%20author%3A%22pi%2C%20shi%22&sort=date%20desc%2C%20bibcode%20desc). For the information of my research group, see [GROUP](./group/). Our group meeting will be held in the coffee room of the 3rd floor in the ITP-CAS South Building, from 11 am every Friday. For my daily academic activities as well as daily lives, click [**BLOGS**](/blogs/index.html).
+My publication list can be found in [inspirehep](https://inspirehep.net/authors/1060905#with-citation-summary) and [adsabs](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FPi%2C%20S%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22%20AND%20author_facet_hier%3A%220%2FPi%2C%20S%22)&p_=0&q=%20author%3A%22pi%2C%20shi%22&sort=date%20desc%2C%20bibcode%20desc). For the information of my research group, see [GROUP](./group/). Our group meeting will be held in the coffee room of the 3rd floor in the ITP-CAS South Building, from 11 am every Friday. 
 
 The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](http://power.itp.ac.cn/~cairg/), [Zong-Kuan Guo](http://gc.itp.ac.cn/), [Qing-Guo Huang](http://cosmology.itp.ac.cn/), Li Li, [Shao-Jiang Wang](https://wangshaojiang.com), Yong Zhou. For the information of the visitors and seminars in the G&C Group, please click [here](http://gc.itp.ac.cn/events). For the information of internal seminar of G&C Group, check [here](https://code.itp.ac.cn/yww/seminar). 
-
 
 ---
 
@@ -48,3 +47,9 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
 - **Inflation**
 - **Primordial black holes**
 - **Stochastic gravitational waves**
+
+---
+
+## Blogs
+
+For my work and daily life, click [**BLOGS**](/blogs/index.html).
