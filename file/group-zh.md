@@ -6,7 +6,7 @@ title: Group-zh
 
 # 研究小组成员
 
-Lastest Update: 29th Sep 2023   [English Version](https://stonepi.github.io/group/)
+2024年8月8日更新<br>[English Version](https://stonepi.github.io/group/)
 <br>
 
 <span style="color:red;">本组每年有一个研究生名额，欢迎申请。我们会优先考虑参加中国科学院理论物理研究所夏令营的优秀本科生。</span>
@@ -34,10 +34,10 @@ Lastest Update: 29th Sep 2023   [English Version](https://stonepi.github.io/gr
   
   <br>
   王嘉宁是2021级博士研究生。她的主要研究方向是暴胀时期的扰动理论以及原初黑洞形成。<br>
-2024年1月至3月，王嘉宁在日本加速器研究所（KEK）访问学习。<br>
-2024年7月21日至9月中旬，王嘉宁在韩国基础科学研究院（IBS）访问学习。合作导师为Masahide Yamaguchi。
-<br>
-她的论文发表情况见[INSPIRE](https://inspirehep.net/authors/2730443?ui-citation-summary=true)页面。
+  2024年1月至3月，王嘉宁在日本加速器研究所（KEK）访问学习。<br>
+  2024年7月21日至9月中旬，王嘉宁在韩国基础科学研究院（IBS）访问学习。合作导师为Masahide Yamaguchi。
+  <br>
+  她的论文发表情况见[INSPIRE](https://inspirehep.net/authors/2730443?ui-citation-summary=true)页面。
 
 - **洪文聪** 2021年9月入学 -  <br><img src="/images/Wencong.jpg" width="300" >
   
@@ -48,25 +48,32 @@ Lastest Update: 29th Sep 2023   [English Version](https://stonepi.github.io/gr
   
   <br>
   王奥是2024级博士研究生。他的主要研究方向是随机引力波背景、宇宙学微扰论等。
-<br>
-他的论文发表情况见[INSPIRE](https://inspirehep.net/authors/2718599?ui-citation-summary=true)页面。
+  <br>
+  他的论文发表情况见[INSPIRE](https://inspirehep.net/authors/2718599?ui-citation-summary=true)页面。
 
 - **李子涵** Sep 2023 -  <br><img src="/images/Zihan.jpg" width="300" ><br>
-李子涵是2023级硕士研究生。
+  李子涵是2023级硕士研究生。
 
 - **熊安贤屹** Sep 2024 -  <br><img src="/images/Anxianyi.jpg" width="300" ><br>
-熊安贤屹是2024级硕士研究生。
+  熊安贤屹是2024级硕士研究生。
 
-- **俞千野** Sep 2024 -  <br><img src="/images/Qianye.jpg" width="300" >
-
-<br>
+- **俞千野** Sep 2024 -  <br><img src="/images/Qianye.jpg" width="300" ><br>
 俞千野现为武汉大学物理学院本科生。他将于2025年9月进入中国科学院大学研究生院攻读研究生并加入我们组。
 
-- **蔡坤雨** Sep 2024 -  <br><img src="/images/Kunyu.jpg" width="300" >
-
-<br>
+- **蔡坤雨** Sep 2024 -  <br><img src="/images/Kunyu.jpg" width="300" ><br>
 蔡坤雨现为北京大学天文系本科生。她将于2025年9月进入北京大学理论物理研究所攻读研究生并加入我们组，由我和陈斌老师共同指导。
 
 ## 访问学生
 
-- **张震宇**  <br>北京大学物理学院的博士研究生。他的主要研究兴趣是黑洞物理、黑洞阴影等。
+- **廖涌贤** 2021年暑期  
+  
+  廖涌贤是多伦多大学的2018级本科生。
+
+- **李潘胤延** 2023年秋至2024年春  
+  李潘胤延是北京邮电大学计算机学院的2021级本科生。
+
+- **呼阳阳** 2024年暑假  
+  呼阳阳是山东大学物理学院2022级本科生。
+
+- **张震宇** 长期 
+  张震宇是北京大学物理学院的博士研究生，导师为陈斌教授。他的主要研究兴趣是黑洞物理和黑洞阴影。

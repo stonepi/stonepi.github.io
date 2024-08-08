@@ -7,8 +7,7 @@ title: Group
 
 # Group Members
 
-Lastest Update: 1st Aug 2024 &nbsp; <br>
-[中文版本 (Chinese Version)](https://stonepi.github.io/file/group-zh/)
+Lastest Update: 8th Aug 2024 &nbsp; <br>[中文版本 (Chinese Version)](https://stonepi.github.io/file/group-zh/)
 
 ## Group Photo
 
@@ -34,4 +33,12 @@ Lastest Update: 1st Aug 2024 &nbsp; <br>
 
 ## Visiting Students
 
-- **Zhenyu Zhang** <br>A PhD candidate from Peking University. He mainly works on black hole shadow.
+- **Yong-Xian Liao** Summer 2021<br>
+  
+  Yong-Xian was an undergraduate student in the University of Toronto (2018 -- 2022).
+
+- **Panyingyan Li** Autumn 2023 -- Spring 2024<br>Panyingyan is an undergraduate student in School of Computer Science, Beijing University of Posts and Telecommunications (2021 --).
+
+- **Yangyang Hu** Summer 2024<br>Yangyang is an undergraduate student in School of Physics, Shandong University (2022 --).
+
+- **Zhenyu Zhang** Long-term <br>Zhenyu is a PhD candidate from Peking University (Supervisor: Bin Chen). He mainly works on black hole shadow.
