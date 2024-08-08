@@ -23,9 +23,9 @@ Lastest Update: 8th Aug 2024 &nbsp; <br>[中文版本 (Chinese Version)](https:
 
 ## Students
 
-- **Jianing Wang** Sep 2019 - <br><img src="/images/Jianing.jpg" width="300"><br>Jianing Wang is a PhD candidate. She works on inflationary perturbation theory and primordial black hole formation.<br>She visited KEK in Japan from February 2024 to April 2024.<br>Now she is visiting Institute of Basic Sciences in Korea, from July 15th to the mid of September, 2024. Her host researcher is Prof. Masahide Yamaguchi.
+- **Jianing Wang** Sep 2019 - <br><img src="/images/Jianing.jpg" width="300"><br>Jianing Wang is a PhD candidate. She works on inflationary perturbation theory and primordial black hole formation.<br>She visited KEK in Japan from February 2024 to April 2024.<br>Now she is visiting Institute of Basic Sciences in Korea, from July 15th to the mid of September, 2024. Her host researcher is Prof. Masahide Yamaguchi.<br>She is going to visit Kavli IPMU, the University of Tokyo, Japan, from October 20th to December 14th, 2024. Her host researcher will be Prof. Misao Sasaki.<br>Her publication can be found here on [INSPIRE]([INSPIRE](https://inspirehep.net/authors/2730443)).
 - **Wencong Hong** Sep 2021 - <br><img src="/images/Wencong.jpg" width="300"><br>Wencong Hong is a PhD student. He works on the stochastic gravitational waves from the compact objects.
-- **Ao Wang** Sep 2022 - <br><img src="/images/Ao.jpg" width="300"><br>Ao Wang is a master student. He works on the stochastic gravitational waves and primordial black hole formation.
+- **Ao Wang** Sep 2022 - <br><img src="/images/Ao.jpg" width="300"><br>Ao Wang is a PhD student. He works on the stochastic gravitational waves and primordial black hole formation.<br>His publication can be found here on [INSPIRE](https://inspirehep.net/authors/2718599).
 - **Zihan Li** Sep 2023 - <br><img src="/images/Zihan.jpg" width="300"><br>Zihan Li is a master student.
 - **Anxianyi Xiong** Sep 2024 - <br><img src="/images/Anxianyi.jpg" width="300"><br>Anxianyi is a master student.
 - **Qianye Yu** Sep 2025 - <br><img src="/images/Qianye.jpg" width="300"><br>Qianye is an undergraduate student in Physics Department of Wuhan University. He will become a graduate student in University of CAS and join our group from September 2025.
@@ -41,4 +41,4 @@ Lastest Update: 8th Aug 2024 &nbsp; <br>[中文版本 (Chinese Version)](https:
 
 - **Yangyang Hu** Summer 2024<br>Yangyang is an undergraduate student in School of Physics, Shandong University (2022 --).
 
-- **Zhenyu Zhang** Long-term <br>Zhenyu is a PhD candidate from Peking University (Supervisor: Bin Chen). He mainly works on black hole shadow.
+- **Zhenyu Zhang** Long-term <br>Zhenyu is a PhD candidate from Peking University (Supervisor: Bin Chen). He mainly works on black hole shadow.<br>His publication can be found on [INSPIRE](https://inspirehep.net/authors/1744398).
