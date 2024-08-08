@@ -28,9 +28,9 @@ Lastest Update: 1st Aug 2024 &nbsp; <br>
 - **Wencong Hong** Sep 2021 - <br><img src="/images/Wencong.jpg" width="300"><br>Wencong Hong is a PhD student. He works on the stochastic gravitational waves from the compact objects.
 - **Ao Wang** Sep 2022 - <br><img src="/images/Ao.jpg" width="300"><br>Ao Wang is a master student. He works on the stochastic gravitational waves and primordial black hole formation.
 - **Zihan Li** Sep 2023 - <br><img src="/images/Zihan.jpg" width="300"><br>Zihan Li is a master student.
-- **Xianyi Xiong-an** Sep 2024 - <br><br>Xianyi is a master student.
-- **Qianye Yu** Sep 2025 - <br>Qianye is an undergraduate student in Physics Department of Wuhan University. He will become a graduate student in University of CAS and join our group from September 2025.
-- **Kunyu Cai** Sep 2025 - <br>Kunyu is an undergraduate student in Department of Astronomy, Peking University. She will become a graduate student in Institute of Theoretical Physics, Peking University and join our group from September 2025, and co-supervised by Prof. Bin Chen and me.
+- **Anxianyi Xiong** Sep 2024 - <br><img src="/images/Anxianyi.jpg" width="300"><br>Anxianyi is a master student.
+- **Qianye Yu** Sep 2025 - <br><img src="/images/Qianye.jpg" width="300"><br>Qianye is an undergraduate student in Physics Department of Wuhan University. He will become a graduate student in University of CAS and join our group from September 2025.
+- **Kunyu Cai** Sep 2025 - <br><img src="/images/Kunyu.jpg" width="300"><br>Kunyu is an undergraduate student in Department of Astronomy, Peking University. She will become a graduate student in Institute of Theoretical Physics, Peking University and join our group from September 2025, and co-supervised by Prof. Bin Chen and me.
 
 ## Visiting Students
 

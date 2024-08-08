@@ -51,22 +51,18 @@ Lastest Update: 29th Sep 2023   [English Version](https://stonepi.github.io/gr
 <br>
 他的论文发表情况见[INSPIRE](https://inspirehep.net/authors/2718599?ui-citation-summary=true)页面。
 
-- **李子涵** Sep 2023 -  <br><img src="/images/Zihan.jpg" width="300" >
-
-<br>
+- **李子涵** Sep 2023 -  <br><img src="/images/Zihan.jpg" width="300" ><br>
 李子涵是2023级硕士研究生。
 
-- **熊安贤屹** Sep 2024 -  <br><img src="/images/?.jpg" width="300" >
-
-<br>
+- **熊安贤屹** Sep 2024 -  <br><img src="/images/Anxianyi.jpg" width="300" ><br>
 熊安贤屹是2024级硕士研究生。
 
-- **俞千野** Sep 2024 -  <br><img src="/images/?.jpg" width="300" >
+- **俞千野** Sep 2024 -  <br><img src="/images/Qianye.jpg" width="300" >
 
 <br>
 俞千野现为武汉大学物理学院本科生。他将于2025年9月进入中国科学院大学研究生院攻读研究生并加入我们组。
 
-- **蔡坤雨** Sep 2024 -  <br><img src="/images/?.jpg" width="300" >
+- **蔡坤雨** Sep 2024 -  <br><img src="/images/Kunyu.jpg" width="300" >
 
 <br>
 蔡坤雨现为北京大学天文系本科生。她将于2025年9月进入北京大学理论物理研究所攻读研究生并加入我们组，由我和陈斌老师共同指导。
