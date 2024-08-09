@@ -12,7 +12,7 @@ Lastest Update: 8th Aug 2024 &nbsp; <br>[中文版本 (Chinese Version)](https:
 ## Group Photo
 
 ![Group Meeting on July 23rd, 2024](/images/IMG_7094.jpeg)
-<br>Group Meeting on July 23rd, 2024
+<br>Group Meeting on July 23rd, 2024. Photoed by Jie-qiang Wu.<br>Back row: Yangyang Hu, Zi-han Li, Ao Wang, Wencong Hong, Zhenyu Zhang.<br>Middle row: Misao Sasaki, Yi-fu Cai, Jiale Kaye Li, Diego Cruces. <br>Front row: Shi Pi, Ying-li Zhang.
 
 ## Postdocs
 
