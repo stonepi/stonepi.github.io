@@ -10,11 +10,11 @@ title: Index-zh
 
 <img title="" src="/images/shipi.jpg" alt="" class="floatpic" width="360" height="480">
 
-欢迎来到皮石的个人主页。[[English Version](/index/)]
+欢迎来到皮石的个人主页。[[English Version](/)]
 
 我现在在[中国科学院理论物理研究所](https://itp.ac.cn)担任副研究员、博士生导师。主要从事宇宙学微扰论、暴胀宇宙学、引力理论、以及背景引力波方面的研究，尤其是利用宇宙学微扰论讨论早期宇宙中扰动的产生和演化以及它们的观测效应，如微波背景辐射、随机引力波背景、原初黑洞等。在引力波宇宙学时代，我的研究兴趣集中于利用随机引力波背景探测早期宇宙。近年来在PRL, PRD, SCPMA, JCAP等国际学术期刊上发表论文30余篇。根据高能物理论文数据库 [INSPIREHEP](https://inspirehep.net/authors/1060905#with-citation-summary)统计，总被引用 2500 余次，h-index为 25。其中被引用 100 次以上的论文 10 篇。受邀担任PRL, PRD, SCPMA, JCAP等著名 SCI 期刊的审稿人，多次在引力和宇宙学方向的国际会议上做邀请报告。具体情况请见[我的简历](./pdf/CV.pdf). 
 
-关于我的研究小组情况，请点击[此处](./file/group-zh/)查看。本研究小组的组会每周五上午11点开始，地点在理论物理研究所南楼3层咖啡厅。
+关于我的研究团队情况，请点击[此处](/file/group-zh/)查看。我的研究团队每周五上午11点开始组会讨论，地点在理论物理研究所南楼3层咖啡厅。
 
 目前中国科学院理论物理研究所的引力宇宙学方向的其他老师还包括：[蔡荣根](http://power.itp.ac.cn/~cairg/)、 [郭宗宽](http://gc.itp.ac.cn/)、 [黄庆国](http://cosmology.itp.ac.cn/)、李理、[王少江](https://wangshaojiang.com)、周勇。本方向经常会邀请所外学者来访并作学术报告，详细信息请点击[此处](http://gc.itp.ac.cn/events)。引力宇宙学大组的每周组会信息请点击[此处](https://code.itp.ac.cn/yww/seminar)。
 
@@ -30,13 +30,13 @@ title: Index-zh
 ## 研究经历
 
 - **2013年4月至2015年9月:** 韩国[亚洲太平洋理论物理中心(APCTP)](https://www.apctp.org/)
-  <br> 青年研究组(JRG)博士后研究员，合作导师: [Jinn-Ouk Gong](https://pure.ewha.ac.kr/en/persons/jinn-ouk-gong)
+  <br> 青年研究团队(JRG)博士后研究员，合作导师: [Jinn-Ouk Gong](https://pure.ewha.ac.kr/en/persons/jinn-ouk-gong)
 - **2015年10月至2017年9月:** [中国科学院理论物理研究所](http://itp.ac.cn)
   <br> 博士后研究员，合作导师: [黄庆国](http://cosmology.itp.ac.cn)
 - **2017年10月至2018年3月:** 日本京都大学[基础物理学研究所(YITP)](https://www.yukawa.kyoto-u.ac.jp/)
-  <br> 特任助教，合作导师: [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/)
+  <br>特任助教，合作导师: [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/)
 - **2018年4月至2020年10月:** 日本东京大学[Kavli数物连携宇宙研究机构](https://ipmu.jp)
-  <br>特别研究员，合作导师: [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/)<br>客座科学研究员，自2020年10月起担任
+  <br>特别研究员，合作导师: [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/)<br>客员科学研究员，自2020年10月起担任
 - **2020年10月至今:** [中国科学院理论物理研究所](http://itp.ac.cn)
   <br>副研究员，2023年5月起任中国科学院大学[博士生导师](https://people.ucas.ac.cn/~spi)
 - **2023年1月至今:** [北京大学高能物理研究中心](https://rchep.pku.edu.cn/)<br>李政道青年学者
