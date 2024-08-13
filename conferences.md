@@ -22,9 +22,7 @@ Update: Aug 8th, 2024
 
 - *Non-Gaussianities in the PBH formation and induced GWs*, **(Invited)**<br>[The 5th Workshop on Gravitational-wave Astrophysics](https://gwac2024.bnu.edu.cn/index/index/listarticle?menuid=14), Jingzhou, China. June 29–July 4, 2024.
 
-
 - *Non-Gaussianities in the PBH Formation and Induced GWs*. **(Invited)**<br>[64th Cracow School of Theoretical Physics](https://th-www.if.uj.edu.pl/school/2024/), Zakopane, Poland. June 15-23, 2024.
-
 
 - *Non-Gaussianities in the PBH Formation and Induced GWs*. **(Invited)**<br>[The Athens symposium on Exploring the Universe (ATHEXIS)](https://physics.ntua.gr/Athexis/), Athens, Greece. June 10-14, 2024.
 
@@ -34,57 +32,57 @@ Update: Aug 8th, 2024
 
 - *Non-Gaussianities in the PBH formation and induced GWs*.<br>[2024 Annual meeting of Division of Gravitation and Relativistic Astrophysics, Chinese Physical Society, and the 6th Galileo-Xu Guangqi International Meeting](http://meeting2024.usc.edu.cn/Meeting/conferences/gr24/home_1.php), Hengyang, China. April 19-24, 2024.
 
-- *Non-Gaussianities of the curvature perturbation*.**(Invited)**<br>[IBS CTPU-CGA 2024 Workshop on (Primordial) Black Holes and Gravitational Waves](https://indico.ibs.re.kr/event/642/), Daejoen, Korea. Mar 18-22, 2024.
+- *Non-Gaussianities of the curvature perturbation*. **(Invited)**<br>[IBS CTPU-CGA 2024 Workshop on (Primordial) Black Holes and Gravitational Waves](https://indico.ibs.re.kr/event/642/), Daejoen, Korea. Mar 18-22, 2024.
 
 - *Nonlinearities of the curvature perturbation*.<br>[YITP long-term workshop Gravity and Cosmology 2024](https://www2.yukawa.kyoto-u.ac.jp/~gc2024/index.php), Kyoto University, Japan. Jan 29-Mar 1, 2024. 
 
 - *Non-Gaussianity of the curvature perturation and its implications in PBH formation*.**(Invited)**<br>[New Perspectives on Cosmology 2024](https://sites.google.com/view/npoc2024/home), Pohang, Korea. Jan 8-12, 2024.
 
-- *Non-Gaussianity in the primordial black hole formation*. <br>The 17th TeV Physics Workshop, Southeast University, Nanjing, China. Dec 15-19, 2023.
+- *Non-Gaussianity in the primordial black hole formation*. **(invited)** <br>The 17th TeV Physics Workshop, Southeast University, Nanjing, China. Dec 15-19, 2023.
 
 - *Non-Gaussianities in the PBH Formation and Induced GWs*. **(Invited, plenary)**<br>[The 32nd Workshop on General Relativity and Gravitation in Japan (JGRG32)](https://sites.google.com/view/jgrg-32), Nagoya University, Japan. Nov 27-Dec 1, 2023.
 
 - *Logarithmic Duality of the Curvature Perturbation*. **(Invited)**<br> Chinese Physics Society Fall Meeting, Yinchuan, China. Aug 17-20, 2023.
 
-- *Logarithmic Duality of the Curvature Perturbation*.<br>International Molecule-type Workshop [Revisiting cosmological non-linearities in the era of precision surveys](https://sites.google.com/view/cnlws2023/home), YITP, Kyoto University, Japan. July 13-28, 2023.
+- *Logarithmic Duality of the Curvature Perturbation*. **(invited)**<br>International Molecule-type Workshop [Revisiting cosmological non-linearities in the era of precision surveys](https://sites.google.com/view/cnlws2023/home), YITP, Kyoto University, Japan. July 13-28, 2023.
 
 - *Logarithmic Duality of the Curvature Perturbation*.<br>[2023 Annual meeting of Division of Gravitation and Relativistic Astrophysics, Chinese Physics Society](http://cqutp.org/conferences/gr23/), Chinese Physical Society, Chongqing, China. April 21-25, 2023.
 
-- *Starobinsky's linear potential model revisited*.<br>The 9th Korea-Japan Workshop on Dark Energy, Seoul, Korea. Nov 18th, 2022. (online)
+- *Starobinsky's linear potential model revisited*. **(invited)**<br>The 9th Korea-Japan Workshop on Dark Energy, Seoul, Korea. Nov 18th, 2022. (online)
 
 - *Starobinsky's linear potential model revisited*.<br>The 31st Workshop on General Relativity and Gravitation in Japan (JGRG31), Tokyo, Japan. Oct 24th, 2022.
 
 - *Primordial black holes in the curvaton scenario*.<br>The 2022 Annual meeting of Division of Gravitation and Relativistic Astrophysics, Chinese Physical Society, Liyang, China. July 6th, 2022.
 
-- *Primordial black holes in the curvaton scenario*, invited talk.<br>String Theory, Gravity, and Cosmology 2022 (SGC2022), Pusan, Korea. June 22nd, 2022. (online)
+- *Primordial black holes in the curvaton scenario*. **(invited)**<br>String Theory, Gravity, and Cosmology 2022 (SGC2022), Pusan, Korea. June 22nd, 2022. (online)
 
 - *Primordial black holes from curvaton scenario*.<br>The 30th Workshop on General Relativity and Gravitation in Japan (JGRG30), Tokyo, Japan. Dec 6th, 2021. (online)
 
-- *Probing the primordial black holes by stochastic gravitational wave background*.<br>SUSY 2021, Beijing, China. Aug. 23rd, 2021. (online)
+- *Probing the primordial black holes by stochastic gravitational wave background*. **(invited)**<br>SUSY 2021, Beijing, China. Aug. 23rd, 2021. (online)
 
-- *NANOGrav 12.5-yr result and induced gravitational waves*, invited talk.<br>Gravitational-Wave Primordial Cosmology, Paris, France. May 19th, 2021. (online)
+- *NANOGrav 12.5-yr result and induced gravitational waves*. **(invited)**<br>Gravitational-Wave Primordial Cosmology, Paris, France. May 19th, 2021. (online)
 
 - *NANOGrav 12.5-yr Result and the Planet-mass PBHs*.<br>The 2020/2021 Annual Meeting of Division of Gravity and Relativistic Astrophysics, Chinese Physics Society, Shenyang, China. Apr. 25th, 2021.
 
-- *NANOGrav 12.5-yr Result and the Planet-mass PBHs*.<br>The 2020 ITP Gravity and Cosmology Annual Meeting, Chongqing, China. Dec. 20th, 2020.
+- *NANOGrav 12.5-yr Result and the Planet-mass PBHs*. **(invited)**<br>The 2020 ITP Gravity and Cosmology Annual Meeting, Chongqing, China. Dec. 20th, 2020.
 
 - *NANOGrav 12.5-yr Result and the Planet-mass PBHs*.<br>The online Workshop on General Relativity and Gravitation in Japan, Nagoya, Japan. Nov. 23rd, 2020. (online)
 
-- *An analytical formula for induced gravitational waves with a lognormal peak*.<br>The 14th International Conference on Gravitation, Astrophysics and Cosmology (14CGAC), Taipei, China. Aug 17th, 2020. (online)
+- *An analytical formula for induced gravitational waves with a lognormal peak*. **(invited)**<br>The 14th International Conference on Gravitation, Astrophysics and Cosmology (14CGAC), Taipei, China. Aug 17th, 2020. (online)
 
-- *Some Properties of Stochastic Gravitational Wave Background*, invited talk.<br>Spring workshop on gravity and cosmology, Jagiellonian University, Poland. May 27th, 2020. (online)
+- *Some Properties of Stochastic Gravitational Wave Background*. **(invited)**<br>Spring workshop on gravity and cosmology, Jagiellonian University, Poland. May 27th, 2020. (online)
 
-- *Universal Infrared Scaling of Stochastic Gravitational Wave Background*, invited talk.<br>New perspectives on cosmology, Pohang, Korea. Jan. 2020.
+- *Universal Infrared Scaling of Stochastic Gravitational Wave Background*. **(invited)**<br>New perspectives on cosmology, Pohang, Korea. Jan. 2020.
 
 - *Universal Infrared Scaling of Stochastic Gravitational Wave Power Spectra*.<br>The 29th Workshop on General Relativity and Gravitation in Japan (JGRG29), Kobe, Japan. Nov. 2019.
 
-- *Gravitational Waves Induced by non-Gaussian Scalar Perturbations*, invited talk.<br>2nd TDLI Mini-Workshop on "New Physics at Tera Scale", Shanghai, China. Aug. 2019.
+- *Gravitational Waves Induced by non-Gaussian Scalar Perturbations*. **(invited)**<br>2nd TDLI Mini-Workshop on "New Physics at Tera Scale", Shanghai, China. Aug. 2019.
 
 - *Gravitational Waves Induced by non-Gaussian Scalar Perturbations*.<br>The 43rd Johns Hopkins Workshop, Kashiwa, Japan. June 2019.
 
 - *Quintessence Saves Higgs Instability*.<br>Accelerating Universe in the Dark, Kyoto, Japan. Mar. 2019.
 
-- *Gravitational Waves Induced by non-Gaussian Scalar Perturbations*, invited talk.<br>The 2019 CCNU-USTC Junior Cosmology Symposium, Wuhan, China. Apr. 2019.
+- *Gravitational Waves Induced by non-Gaussian Scalar Perturbations*. **(invited)**<br>The 2019 CCNU-USTC Junior Cosmology Symposium, Wuhan, China. Apr. 2019.
 
 - *Gravitational Waves Induced by non-Gaussian Scalar Perturbations*.<br>2019 YITP Asian-Pacific Winter School and Workshop on Gravitation and Cosmology, Kyoto, Japan. Feb. 2019.
 
@@ -104,8 +102,6 @@ Update: Aug 8th, 2024
 
 - *Non-minimally coupled scalar field in $R^2$ gravity*.<br>The 27th Workshop on General Relativity and Gravitation in Japan (JGRG27), Hiroshima, Japan. Nov. 2017.
 
-
-
 ## Seminars
 
 - *Non-Gaussianities in the PBH formation and induced GWs*.<br>Peng Huanwu Center for Fundamental Theory, University of Science and Technology of China, Beijing, China. July 22, 2024.
@@ -114,7 +110,7 @@ Update: Aug 8th, 2024
 
 - *Non-Gaussianities in the PBH Formation*.<br>Korea Institute for Advanced Study (KIAS), Seoul, Korea. Jan 18, 2024.
 
-- *Non-Gaussianities in the PBH Formation*.**(Colloquium)**<br>Yonsei University, Seoul, Korea. Jan 15, 2024.
+- *Non-Gaussianities in the PBH Formation*. **(Colloquium)**<br>Yonsei University, Seoul, Korea. Jan 15, 2024.
 
 - *Non-Gaussianities of the curvature perturbation and its application in primordial black hole formation*.<br>Physics Department, Nanjing Normal University, Nanjing, China. Dec 19, 2023.
 
@@ -128,13 +124,13 @@ Update: Aug 8th, 2024
 
 - *Probing Primordial Black Holes by Stochastic Gravitational Waves*.<br>School of Physics, Peking University, Beijing, China. Dec. 9th, 2021.
 
-- *Stochastic Gravitational Waves from Primordial Black Holes*.<br>Department of Astronomy, Tsinghua University, Beijing, China. Dec. 16th, 2021. (Colloquium)
+- *Stochastic Gravitational Waves from Primordial Black Holes*. **(Colloquium)**<br>Department of Astronomy, Tsinghua University, Beijing, China. Dec. 16th, 2021.
 
 - *Induced gravitational waves to explain the NANOGrav 12.5-yr data*.<br>Center for Joint Studies, Tianjin University, Tianjin, China. June 10th, 2021.
 
 - *Induced gravitational waves to explain the NANOGrav 12.5-yr data*.<br>Huazhong University of Science and Technology, Wuhan, China. June 2nd, 2021.
 
-- *Stochastic Gravitational Waves Induced by Scalar Perturbations*.<br>Kavli Institute of Astronomy and Astrophysics, Peking University, Beijing, China. June 17th, 2021. (Colloquium)
+- *Stochastic Gravitational Waves Induced by Scalar Perturbations*. **(Colloquium)**<br>Kavli Institute of Astronomy and Astrophysics, Peking University, Beijing, China. June 17th, 2021. 
 
 - *Stochastic Induced Gravitational Wave Background: Recent Developments*.<br>Kavli IPMU, the University of Tokyo, Japan. Feb. 17th, 2020. (online)
 
@@ -172,20 +168,20 @@ Update: Aug 8th, 2024
 
 - *Gravitational Waves Induced by non-Gaussian Scalar Perturbations*.<br>Tokyo University of Science, Tokyo, Japan. Mar. 2019.
 
-- *Gravitational Waves and Cosmology*.<br>Physics Department, Three Gorges University, Yichang, China. 7th May 2019. (Colloquium)
+- *Gravitational Waves and Cosmology*. **(Colloquium)**<br>Physics Department, Three Gorges University, Yichang, China. 7th May 2019. 
 
 - *Stochastic Background of Gravitational Waves*.<br>Shanghai Astronomy Observatory, Shanghai, China. 10th May 2019. (Colloquium)
 
 - *Quintessence saves Higgs instability*.<br>Physics Department, Taiwan University, Taipei. Oct. 2018.
 
-- *Stochastic Gravitational Waves*.<br>Interdisciplinary Center for Theoretical Study, University of Science and Technology of China. Hefei, China. Nov 2018. (Colloquium)
+- *Stochastic Gravitational Waves*.<br>Interdisciplinary Center for Theoretical Study, University of Science and Technology of China. Hefei, China. Nov 2018. 
 
-- *Stochastic Gravitational Waves*.<br>Astronomy Department, Beijing Normal University, Beijing, China. 25th Oct 2018. (Colloquium)
+- *Stochastic Gravitational Waves*.<br>Astronomy Department, Beijing Normal University, Beijing, China. 25th Oct 2018.
 
 ## Lectures
 
 - *Primordial Black Holes*.<br>The 28th International Summer Institute
-on Phenomenology of Elementary Particle Physics and Cosmology, Linyi, China. Aug 3rd, 2024.
+  on Phenomenology of Elementary Particle Physics and Cosmology, Linyi, China. Aug 3rd, 2024.
 
 - *Primordial Black Holes/Gravitational Waves*.<br>UFITS Summer School 2023, Guizhou, China. Aug 1st, 2023.
 
