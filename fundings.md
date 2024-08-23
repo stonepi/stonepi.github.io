@@ -6,7 +6,7 @@ title: Fundings
 
 Update: Sep 29, 2023      [[中文版本](https://stonepi.github.io/file/fundings-zh/)]
 
-## Current 
+## Current
 
 - National Science Foundation of China General Program No. 12475066 (PI) <br>Title: An accurate calculation of the primordial black hole mass function<br>Period: Jan 2025 - Dec 2028
 - National High-Level Talent Special Support Program - Outstanding Young Talents (PI) <br>Period: Dec 2022 - Dec 2025
