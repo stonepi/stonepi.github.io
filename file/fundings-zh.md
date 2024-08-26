@@ -4,7 +4,7 @@ permalink: /file/fundings-zh/index.html
 title: Fundings-zh
 ---
 
-Update: Sep 29, 2023    [[English Version](https://stonepi.github.io/fundings/)]
+更新日期：2024年8月26日    [[English Version](https://stonepi.github.io/fundings/)]
 
 ## 在研项目
 
