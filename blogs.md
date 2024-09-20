@@ -12,7 +12,15 @@ title: Blogs
 
 #### 9月15日至21日在克罗地亚斯普利特大学参加“[The Fundamentals暑期学校](https://sites.google.com/view/thefundamentals/home)”
 
-- **9月19日周四**<br>10时往会场，听佐公报告《暴胀：知知、知不知、不知不知》。<br>12时听Rocky Kolb报告《遨游量子不确定性之海》。彼综述薛定谔早期在宇宙学领域相关工作，尤其是宇宙膨胀导致粒子形成等。此事五十年后在暴胀框架下由穆哈诺夫及切比雪夫重新发现。Kolb公因言暴胀之量子涨落可用不确定性关系定性解释，即$$\Delta E\Delta t\geq\hbar/2.$$ 对一标量场$\varphi$而言，其测不准能量为$\Delta V\times \text{Vol.}\approx V'(\varphi)\delta\varphi\times H^{-3}\approx 3H^{-2}\dot\varphi\delta\varphi\appprox3H^{-1}\delta\varphi^2$,测不准时间为$\Delta t\sim H^{-1}$,故有$$\Delta E\Delta t\sim \frac{\delta\varphi^2}{H^2}\sim\hbar.$$ 因此可知$\delta\varphi\sim H$。穆公书第八章亦有类似解释。Kolb公进而言暴胀中按此法可产生质量为暴胀子量级之暗物质，称为WIMPzilla。因质量巨大，极难探测。然其或衰变为其他粒子，则可间接探测云云。<br>15时听Dieter Lüst报告《沼泽和暗关系》。时倦极，不知所云。<br>佐公言Elisa Ferreira染新冠肺炎。是以会场诸公多着口罩。<br>章颖理言目痛，疑染新冠肺炎。与之面包、布洛芬。
+- **9月19日周四**<br>10时往会场，听佐公报告《暴胀：知知、知不知、不知不知》。<br>12时听Rocky Kolb报告《遨游量子不确定性之海》。彼综述薛定谔早期在宇宙学领域相关工作，尤其是宇宙膨胀导致粒子形成等。此事五十年后在暴胀框架下由穆哈诺夫及切比雪夫重新发现。Kolb公因言暴胀之量子涨落可用不确定性关系定性解释，即
+$$
+\Delta E\Delta t\geq\hbar/2.
+$$
+对一标量场$\varphi$而言，其测不准能量为$\Delta V\times \text{Vol.}\approx V'(\varphi)\delta\varphi\times H^{-3}\approx 3H^{-2}\dot\varphi\delta\varphi\appprox3H^{-1}\delta\varphi^2$,测不准时间为$\Delta t\sim H^{-1}$,故有
+$$
+\Delta E\Delta t\sim \frac{\delta\varphi^2}{H^2}\sim\hbar.
+$$
+因此可知$\delta\varphi\sim H$。穆公书第八章亦有类似解释。Kolb公进而言暴胀中按此法可产生质量为暴胀子量级之暗物质，称为WIMPzilla。因质量巨大，极难探测。然其或衰变为其他粒子，则可间接探测云云。<br>15时听Dieter Lüst报告《沼泽和暗关系》。时倦极，不知所云。<br>佐公言Elisa Ferreira染新冠肺炎。是以会场诸公多着口罩。<br>章颖理言目痛，疑染新冠肺炎。与之面包、布洛芬。
 
 - **9月18日周三**<br>午后往会场。听村山齐(Hitoshi Murayama)报告，题为《对称》，包罗万象，无所不论。报告后乃海报时间，闲逛以观。Dario Lorenzoni为我介绍[2405.13881](https://arxiv.org/abs/2405.13881)。<br>散会后参会者往食披萨。佐公与穆公、Anamaria等往酒馆饮酒。
 
