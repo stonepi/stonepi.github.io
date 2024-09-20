@@ -16,7 +16,7 @@ title: Blogs
 $$
 \Delta E\Delta t\geq\hbar/2.
 $$
-对一标量场$\varphi$而言，其测不准能量为$\Delta V\times \text{Vol.}\approx V'(\varphi)\delta\varphi\times H^{-3}\approx 3H^{-2}\dot\varphi\delta\varphi\appprox3H^{-1}\delta\varphi^2$,测不准时间为$\Delta t\sim H^{-1}$,故有
+对一标量场$\varphi$而言，其测不准能量为$\Delta V\times \text{Vol.}\approx V'(\varphi)\delta\varphi\times H^{-3}\approx 3H^{-2}\dot\varphi\delta\varphi\approx3H^{-1}\delta\varphi^2$,测不准时间为$\Delta t\sim H^{-1}$,故有
 $$
 \Delta E\Delta t\sim \frac{\delta\varphi^2}{H^2}\sim\hbar.
 $$
