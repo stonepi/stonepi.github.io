@@ -6,7 +6,7 @@ title: Group-zh
 
 # 研究小组成员
 
-2024年8月8日更新<br>[English Version](https://stonepi.github.io/group/)
+2024年10月3日更新<br>[English Version](https://stonepi.github.io/group/)
 <br>
 
 <span style="color:red;">本组每年有一个研究生名额，欢迎申请。我们会优先考虑参加中国科学院理论物理研究所夏令营的优秀本科生。</span>
@@ -21,7 +21,7 @@ title: Group-zh
 - **Cristian Joana** 2023年2月至—— <br><img src="/images/Cristian.jpg" width="300">
   
   <br>
-  Cristian Joana于2022年在比利时鲁汶天主教大学取得博士学位。他的博士生导师是[Sebastien Clesse](https://sebclesse.wixsite.com/clesse)和[Christophe Ringeval](http://cp3.irmp.ucl.ac.be/~ringeval/)。他主要关注早期宇宙的非线性演化的相关问题，特别是暴胀、重加热、奇异致密天体例如振荡子和原初黑洞等的早期形成和演化。他目前致力于数值计算方法的开发和使用，包括格点计算和数值相对论模拟。他是基于AMR的开源数值相对论模拟代码[GRChombo](https://www.grchombo.org/)的开发小组成员。<br>Cristian的论文发表情况可以在[INSPIRE](https://inspirehep.net/authors/2007073?ui-citation-summary=true)页面找到。<br>Cristian部分受到国家自然科学基金委理论物理专款博士后项目资助，项目号：12347132，项目名称：原初黑洞及其引力波信号（2024）。
+  Cristian Joana于2022年在比利时鲁汶天主教大学取得博士学位。他的博士生导师是[Sebastien Clesse](https://sebclesse.wixsite.com/clesse)和[Christophe Ringeval](http://cp3.irmp.ucl.ac.be/~ringeval/)。他主要关注早期宇宙的非线性演化的相关问题，特别是暴胀、重加热、奇异致密天体例如振荡子和原初黑洞等的早期形成和演化。他目前致力于数值计算方法的开发和使用，包括格点计算和数值相对论模拟。他是基于AMR的开源数值相对论模拟代码[GRChombo](https://www.grchombo.org/)的开发小组成员。<br>Cristian的论文发表情况可以在[INSPIRE](https://inspirehep.net/authors/2007073?ui-citation-summary=true)页面找到。<br>Cristian部分受到国家自然科学基金委理论物理专款博士后项目资助，项目号：12347132，项目名称：原初黑洞及其引力波信号（2024）；以及国家自然科学基金委外国学者基金资助，项目号：W2433007，项目名称：早期宇宙中的引力波和原初黑洞（2025）。
 
 - **Diego Cruces** 2024年2月至—— <br><img src="/images/Diego.jpg" width="300">
   
@@ -37,7 +37,7 @@ title: Group-zh
   2024年1月至3月，王嘉宁在日本加速器研究所（KEK）访问学习。<br>
   2024年7月21日至9月中旬，王嘉宁在韩国基础科学研究院（IBS）访问学习。合作导师为Masahide Yamaguchi。
   <br>
-2024年10月20日至2024年12月14日，王嘉宁将往日本东京大学卡弗理数物连携宇宙研究机构(Kavli IPMU)访问学习。合作导师为Misao Sasaki。<br>
+  2024年10月20日至2024年12月14日，王嘉宁将往日本东京大学卡弗理数物连携宇宙研究机构(Kavli IPMU)访问学习。合作导师为Misao Sasaki。<br>
   她的论文发表情况见[INSPIRE](https://inspirehep.net/authors/2730443)页面。
 
 - **洪文聪** 2021年9月入学 -  <br><img src="/images/Wencong.jpg" width="300" >
@@ -68,7 +68,7 @@ title: Group-zh
 
 - **廖涌贤** 2021年暑期<br>廖涌贤是多伦多大学的2018级本科生。
 
-- **李潘胤延** 2023年秋至2024年春<br>李潘胤延是北京邮电大学计算机学院的2021级本科生。
+- **李潘胤延** 2023年秋至2024年春<br>李潘胤延是北京邮电大学计算机学院的2021级本科生。她将于2025年9月进入四川大学理论物理中心杨海棠老师课题组继续研究生课程。
 
 - **呼阳阳** 2024年暑假<br>呼阳阳是山东大学物理学院2022级本科生。
 
