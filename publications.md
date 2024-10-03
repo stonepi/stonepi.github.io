@@ -7,6 +7,8 @@ title: Publications
 
 Lastest Update: 4th Oct 2024
 
+# Publications
+
 <span style="color:red;">For a full list of my papers, check [inspirehep](https://inspirehep.net/authors/1060905#with-citation-summary), [adsabs](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FPi%2C%20S%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22%20AND%20author_facet_hier%3A%220%2FPi%2C%20S%22)&p_=0&q=%20author%3A%22pi%2C%20shi%22&sort=date%20desc%2C%20bibcode%20desc), or [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=0rYNXDYAAAAJ).</span>
 
 ## Selected Papers
@@ -36,6 +38,7 @@ Lastest Update: 4th Oct 2024
 - **[PRIMORDIAL BLACK HOLES](https://link.springer.com/book/9789819788866)**<br>
   Chapter 8: Non-Gaussianities. ArXiv: [2404.06151](https://arxiv.org/abs/2404.06151).
   <br>A monograph in Springer Series in Astrophysics and Cosmology, Springer. Feb. 2025.<br> Ed. Chris Byrnes, Gabriele Franciolini, Tomohiro Harada, Paolo Pani, Misao Sasaki. <br>ISBN: 978-981-97-8886-6 (hardcover); 978-981-97-8889-7 (paperback)
+  
   <img src="/images/PBHbook.jpeg" alt="PBHBook" style="width:50%">
 
 - **PERTURBATION THEORY OF COSMOLOGY**<br>Atsushi Naroko, **Shi Pi**, Misao Sasaki. In preparation.
