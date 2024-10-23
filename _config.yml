@@ -33,6 +33,14 @@ links:
         url: "https://www.google.com"
       - title: "arXiv"
         url: "https://arxiv.org"
+      - title: "inspirehep"
+        url: "https://inspirehep.net"
+      - title: "ITP-CAS"
+        url: "https://itp.cas.cn"
+      - title: "Kavli IPMU"
+        url: "https://ipmu.jp"
+      - title: "CHEP, Peking University"
+        url: "https://rchep.pku.edu.cn"
 
 
 # Analytics and webmaster tools stuff goes here
