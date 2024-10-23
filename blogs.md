@@ -4,7 +4,7 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-# 学术生活日常简记
+# 学术日常
 
 ---
 
