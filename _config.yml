@@ -23,6 +23,19 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:
 
+sidebar:
+  - title: "常用链接"
+    entries:
+      - title: "GitHub"
+        url: "https://github.com"
+        icon: "fab fa-github"  # 使用 FontAwesome 图标
+      - title: "Google"
+        url: "https://www.google.com"
+      - title: "arXiv"
+        url: "https://arxiv.org"
+    icon: "fas fa-link"  # 使用链接图标
+
+
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
 # google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
