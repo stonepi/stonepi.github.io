@@ -87,24 +87,18 @@ title: Blogs
 - **9月20日周五**<br>听穆公报告《de Sitter时空中的瞬子》。散会时邀请穆公12月来访理论所。<br>与章颖理往斯普利特大学校园南部海滩散步，食马其顿菜。
 
 - **9月19日周四**<br>10时往会场，听佐公报告《暴胀：知知、知不知、不知不知》。<br>12时听Rocky Kolb报告《遨游量子不确定性之海》。彼综述薛定谔早期在宇宙学领域相关工作，尤其是宇宙膨胀导致粒子形成等。此事五十年后在暴胀框架下由穆哈诺夫及切比雪夫重新发现。Kolb公因言暴胀之量子涨落可用不确定性关系定性解释，即
-  
   $$
   \Delta E\Delta t\geq\hbar/2.
   $$
-
 对一标量场$\varphi$而言，其能量不确定性为
-
-$$
-\Delta V\times \text{Vol.}\approx V'(\varphi)\delta\varphi\times H^{-3}\approx 3H^{-2}\dot\varphi\delta\varphi\approx3H^{-1}\delta\varphi^2,
-$$
-
+  $$
+  \Delta V\times \text{Vol.}\approx V'(\varphi)\delta\varphi\times H^{-3}\approx3H^{-2}\dot\varphi\delta\varphi\approx3H^{-1}\delta\varphi^2,
+  $$
 时间不确定性为$\Delta t\sim H^{-1}$，故有
-
   $$
   \Delta E\Delta t\sim \frac{\delta\varphi^2}{H^2}\sim\hbar.
   $$
-
-  因此可知$\delta\varphi\sim\sqrt{\hbar}H$。穆公书第八章亦有类似解释。Kolb公进而言暴胀中按此法可产生质量为暴胀子量级之暗物质，称为WIMPzilla。因质量巨大，极难探测。然其或衰变为其他粒子，则可间接探测云云。<br>午餐时村山齐言其将满60岁，12月高田昌弘在宇研构举办一纪念会议。<br>15时听Dieter Lüst报告《沼泽和暗关系》。时倦极，不知所云。<br>佐公言Elisa Ferreira染新冠肺炎。是以会场诸公多着口罩。<br>章颖理言目痛，疑染新冠肺炎。与之面包、布洛芬。
+因此可知$\delta\varphi\sim\sqrt{\hbar}H$。穆公书第八章亦有类似解释。Kolb公进而言暴胀中按此法可产生质量为暴胀子量级之暗物质，称为WIMPzilla。因质量巨大，极难探测。然其或衰变为其他粒子，则可间接探测云云。<br>午餐时村山齐言其将满60岁，12月高田昌弘在宇研构举办一纪念会议。<br>15时听Dieter Lüst报告《沼泽和暗关系》。时倦极，不知所云。<br>佐公言Elisa Ferreira染新冠肺炎。是以会场诸公多着口罩。<br>章颖理言目痛，疑染新冠肺炎。与之面包、布洛芬。
 
 - **9月18日周三**<br>午后往会场。听村山齐(Hitoshi Murayama)报告，题为《对称》，包罗万象，无所不论。报告后乃海报时间，闲逛以观。Dario Lorenzoni为我介绍[2405.13881](https://arxiv.org/abs/2405.13881)。<br>散会后参会者往食披萨。佐公与穆公、Anamaria等往酒馆饮酒。
 
