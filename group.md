@@ -7,9 +7,11 @@ title: Group
 
 # Group Members
 
-Lastest Update: 4th Oct 2024 &nbsp; <br>[中文版本 (Chinese Version)](https://stonepi.github.io/file/group-zh/)
+Lastest Update: 5th Nov 2024 &nbsp; <br>[中文版本 (Chinese Version)](https://stonepi.github.io/file/group-zh/)
 
 ## Group Photo
+
+![](./images/Group2024-11.jpg)<br>Group Meeting on November 4th, 2024. Photographed by Wei-Guang Cao. <br>Back row: Diego Cruces, Zi-han Li, Zhenyu Zhang, Cristian Joana, Wencong Hong.<br>Front row: Shi Pi, Ao Wang, Kunyu Cai.
 
 ![Group Meeting on July 23rd, 2024](/images/IMG_7094.jpeg)
 <br>Group Meeting on July 23rd, 2024. Photoed by Jie-qiang Wu.<br>Back row: Yangyang Hu, Zi-han Li, Ao Wang, Wencong Hong, Zhenyu Zhang.<br>Middle row: Misao Sasaki, Yi-fu Cai, Jiale Kaye Li, Diego Cruces. <br>Front row: Shi Pi, Ying-li Zhang.
@@ -18,7 +20,7 @@ Lastest Update: 4th Oct 2024 &nbsp; <br>[中文版本 (Chinese Version)](https:
 
 - **Cristian Joana**  Feb 2023 -  <br><img src="/images/Cristian.jpg" width="300"><br>
   Cristian Joana got his PhD in the Université catholique de Louvain in 2022. His PhD supervisors are [Sebastien Clesse](https://sebclesse.wixsite.com/clesse) and [Christophe Ringeval](http://cp3.irmp.ucl.ac.be/~ringeval/). He mainly focuses on cosmology of the early universe, particularly on cosmic inflation and the reheating, and in the early formation of exotic compact objects such as oscillons and primordial black holes.  He is currently involved in the development and usage of numerical methods, including lattice and numerical relativity simulations. He is one of the developers of [GRChombo](https://www.grchombo.org/), an AMR based open-source code for numerical relativity simulations.<br>Cristian's publication can be found here on [INSPIRE]([INSPIRE](https://inspirehep.net/authors/2007073?ui-citation-summary=true)). <br>Cristian Joana is partly funded by the NSFC Special Grant for Theoretical Physics No. 12347132 (2024) (*Primordial Black Hole and its Gravitational Wave Signal*), and by the NSFC Research Fund for International Scientists No. W2433007 (*Early Universe Gravitational Waves and
-Primordial Black Holes*).
+  Primordial Black Holes*).
 
 - **Diego Cruces** Feb 2024 -  <br><img src="/images/Diego.jpg" width="300"><br>Diego Cruces got his PhD in the Institute of Cosmos Sciences of the University of Barcelona (ICC-UB) under the supervision of [Cristiano Germani](https://icc.ub.edu/people/379). His main research interest is related with the period of cosmological inflation, he has been working in different mathematical frameworks which aim to describe the inhomogeneities generated during inflation such as cosmological perturbation theory, the $\delta$N formalism or the stochastic approach. Particularly, he is interested in the description of large inhomogeneities (which cannot be described with cosmological perturbation theory) and its phenomenological consequences, such as the formation of primordial black holes, which can be generated once these large fluctuations reenter the horizon after inflation. <br>Diego's publication can be found here on [INSPIRE](https://inspirehep.net/authors/1893636?ui-citation-summary=true).
 

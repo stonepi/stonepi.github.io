@@ -14,7 +14,7 @@ title: Blogs
 
 - **11月5日周二**<br>抵达筑波。入住筑波日航宾馆。
 
-- **11月4日周四**<br>14时往北京大学高能中心开组会。参加者有Cristian Joana、Diego Cruces、张震宇、洪文聪、王奥、李子涵、蔡坤雨。<br>![](./figures/Group2024-11.jpg)
+- **11月4日周四**<br>14时往北京大学高能中心开组会。参加者有Cristian Joana、Diego Cruces、张震宇、洪文聪、王奥、李子涵、蔡坤雨。<br>![](./images/Group2024-11.jpg)
 
 #### 10月26日至11月4日在北京大学高能物理研究中心工作
 
