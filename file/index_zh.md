@@ -50,8 +50,8 @@ title: Index-zh
 
 ## 期刊服务
 
-- 《Chinese Physics C》编辑
-- 《Symmetry》编辑
+- 《[Chinese Physics C](http://cpc.ihep.ac.cn/)》编辑
+- 《[Symmetry](https://www.mdpi.com/journal/symmetry)》编辑
 
 ---
 
