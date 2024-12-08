@@ -4,8 +4,6 @@ permalink: /conferences/index.html
 title: Conferences
 ---
 
-Update: Aug 8th, 2024   
-
 # Conferences
 
 ## Organized
@@ -214,3 +212,7 @@ Update: Aug 8th, 2024
 - *Stochastic Gravitational Waves from the Early Universe*.<br>UFITS Summer School on Cosmology, University of Science and Technology of China. July 27 - Aug 2, 2021.
 
 - *Stochastic Gravitational Waves from the Early Universe*.<br>Summer School on Gravitational Wave Astronomy, International Center for Theoretical Sciences, Tata Institute of Fundamental Research. July 5-16, 2021.
+  
+  ---
+  
+  Updated on Dec. 8, 2024.

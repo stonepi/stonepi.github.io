@@ -7,7 +7,7 @@ title: Group
 
 # Group Members
 
-Lastest Update: 5th Nov 2024 &nbsp; <br>[中文版本 (Chinese Version)](https://stonepi.github.io/file/group-zh/)
+[中文版本 (Chinese Version)](https://stonepi.github.io/file/group-zh/)
 
 ## Group Photo
 
