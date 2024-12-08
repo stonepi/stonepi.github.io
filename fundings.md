@@ -4,7 +4,9 @@ permalink: /fundings/index.html
 title: Fundings
 ---
 
-Update: Aug 26, 2024      [[中文版本](https://stonepi.github.io/file/fundings-zh/)]
+# Funding Support
+
+[中文版本](https://stonepi.github.io/file/fundings-zh/)
 
 ## Current
 
@@ -15,8 +17,28 @@ Update: Aug 26, 2024      [[中文版本](https://stonepi.github.io/file/funding
 - National Key Research and Development Program of China Grant No. 2020YFC2201502 (member) <br>Period: Dec 2020 - Nov 2025
 - JSPS KAKENHI No. JP24K00624 (member) <br>Period: Apr 2024 - Mar 2028
 
+---
+
 ## Completed
 
 - JSPS Grant-in-Aid for Early-Career Scientists No. JP20K14461 (PI) <br>Period: Apr 2020 - Mar 2024
 - CAS Project for Young Scientists in Basic Research YSBR-006 (member)
 - Key Research Program of the Chinese Academy of Sciences No.XDPB15 (member)
+
+---
+
+## Group
+
+#### Cristian Joana
+
+- NSFC Special Grant for Theoretical Physics No. 12347132<br>Title: Primordial Black Hole and its Gravitational Wave Signal<br>Period: 2024
+
+- NSFC Research Fund for International Scientists No. W2433007<br>Title: Early Universe Gravitational Waves and Primordial Black Holes<br>Period: 2025
+
+#### Diego Cruces
+
+- NSFC Special Grant for Theoretical Physics No. 12447160<br>Title: Towards a non-perturbative description of cosmological inflation<br>Period: 2025
+
+---
+
+Updated on Dec 8, 2024.

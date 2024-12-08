@@ -6,10 +6,7 @@ title: Group-zh
 
 # 研究小组成员
 
-2024年11月4日更新<br>[English Version](https://stonepi.github.io/group/)
-<br>
-
-<span style="color:red;">本组每年有一个研究生名额，欢迎申请。我们会优先考虑参加中国科学院理论物理研究所夏令营的优秀本科生。</span>
+[English Version](https://stonepi.github.io/group/)<br><span style="color:red;">本组每年有一个研究生名额，欢迎申请。我们会优先考虑参加中国科学院理论物理研究所夏令营的优秀本科生。</span>
 
 ## 最新合影
 
@@ -77,4 +74,5 @@ title: Group-zh
 - **张震宇** 长期<br>张震宇是北京大学物理学院的博士研究生，导师为陈斌教授。他的主要研究兴趣是黑洞物理和黑洞阴影。<br>他的论文发表情况见[INSPIRE](https://inspirehep.net/authors/1744398)页面。
 
 ---
+
 更新日期：2024年12月8日
