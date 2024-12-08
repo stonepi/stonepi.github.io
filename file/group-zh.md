@@ -28,7 +28,7 @@ title: Group-zh
 - **Diego Cruces** 2024年2月至—— <br><img title="" src="../images/Diego.jpg" alt="" width="300">
   
   <br>
-  Diego Cruces在巴塞罗那大学宇宙科学研究所（ICC-UB）获得博士学位，导师是[Cristiano Germani](https://icc.ub.edu/people/379)。他主要的研究兴趣集中于宇宙暴胀时期。他使用不同的数学框架来描述在暴胀时期产生的不均匀性，如宇宙学微扰论、$\delta $N形式、随机方法。特别是，他关注如何描述大的不均匀性（这不能用宇宙学微扰论描述），以及其唯象学后果，比如原初黑洞的形成。这些原初黑洞可以在这些大的涨落在暴胀之后重新进入视界时产生出来。<br>Diego的论文发表情况可以在[INSPIRE](https://inspirehep.net/authors/1893636?ui-citation-summary=true)页面找到。
+  Diego Cruces在巴塞罗那大学宇宙科学研究所（ICC-UB）获得博士学位，导师是[Cristiano Germani](https://icc.ub.edu/people/379)。他主要的研究兴趣集中于宇宙暴胀时期。他使用不同的数学框架来描述在暴胀时期产生的不均匀性，如宇宙学微扰论、$\delta $N形式、随机方法。特别是，他关注如何描述大的不均匀性（这不能用宇宙学微扰论描述），以及其唯象学后果，比如原初黑洞的形成。这些原初黑洞可以在这些大的涨落在暴胀之后重新进入视界时产生出来。<br>Diego的论文发表情况可以在[INSPIRE](https://inspirehep.net/authors/1893636?ui-citation-summary=true)页面找到。<br>Diego部分受到国家自然科学基金委理论物理专款博士后项目资助，项目号：12447160，项目名称：极早期宇宙中的显著不均匀性（2024）。
 
 ## 研究生
 
@@ -75,3 +75,6 @@ title: Group-zh
 - **呼阳阳** 2024年暑假<br>呼阳阳是山东大学物理学院2022级本科生。
 
 - **张震宇** 长期<br>张震宇是北京大学物理学院的博士研究生，导师为陈斌教授。他的主要研究兴趣是黑洞物理和黑洞阴影。<br>他的论文发表情况见[INSPIRE](https://inspirehep.net/authors/1744398)页面。
+
+---
+更新日期：2024年12月8日
