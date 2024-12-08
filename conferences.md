@@ -30,7 +30,7 @@ Update: Aug 8th, 2024
 
 - Poster.<br>[The Fundamentals Summer school in high-energy and gravitational physics](https://sites.google.com/view/thefundamentals/home), Split, Croatia, Sept 16 - 20, 2024.
 
-- *δN formalism and the ultra-slow-roll inflation*,<br>[Cosmology with Gravitational Waves 2024](https://www.itp.uni-hannover.de/de/ag/domenech/workshops/workshops-2024), Institute of Theoretical Physics, Leibniz University Hannover, Hannover, Germany, Sept. 4, 2024.
+- *δN formalism and the ultra-slow-roll inflation*, **(Invited)**<br>[Cosmology with Gravitational Waves 2024](https://www.itp.uni-hannover.de/de/ag/domenech/workshops/workshops-2024), Institute of Theoretical Physics, Leibniz University Hannover, Hannover, Germany, Sept. 4, 2024.
 
 - *Generation of PBHs in inflationary/non-inflationary scenarios: A review*. **(Invited plenary)**<br>[21 Century Cosmology](https://sites.google.com/ashoka.edu.in/21st-century-cosmology/), Ashoka University, New Delhi, India, Aug 21 - 23, 2024. (Online participation)
 
