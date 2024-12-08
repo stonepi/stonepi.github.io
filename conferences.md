@@ -26,7 +26,7 @@ Update: Aug 8th, 2024
 
 - *Non-Gaussianities in the PBH formation and induced GWs*. **(Invited)**<br>[Evolution of the inhomogeneous universe: From Inflation to structure formation](https://www-conf.kek.jp/KEKCosmoAY2024/), KEK, Tsukuba, Japan, Nov. 6 - 8, 2024. 
 
-- *Non-Gaussianities in the PBH formation and induced GWs*. **(Invited)**<br>[Dynamics Primordial Black Hole Formation II](https://sites.google.com/rikkyo.ac.jp/pbhworkshop2/home), Nagoya University, Nagoya, Japan, Oct. 7 - 10, 2024. 
+- *Non-Gaussianities in the PBH formation and induced GWs*. **(Invited)**<br>[Dynamics of Primordial Black Hole Formation II](https://sites.google.com/rikkyo.ac.jp/pbhworkshop2/home), Nagoya University, Nagoya, Japan, Oct. 7 - 10, 2024. 
 
 - Poster.<br>[The Fundamentals Summer school in high-energy and gravitational physics](https://sites.google.com/view/thefundamentals/home), Split, Croatia, Sept 16 - 20, 2024.
 
@@ -34,11 +34,13 @@ Update: Aug 8th, 2024
 
 - *Generation of PBHs in inflationary/non-inflationary scenarios: A review*. **(Invited plenary)**<br>[21 Century Cosmology](https://sites.google.com/ashoka.edu.in/21st-century-cosmology/), Ashoka University, New Delhi, India, Aug 21 - 23, 2024. (Online participation)
 
+- *Primordial Black Hole: Theory and Observations*. **(Invited lecture)**<br>The 28th International Summer Institute on Phenomenology of Elementary Particle Physics and Cosmology (SI2024), Linyi, China. Aug 3 - 7, 2024.
+
 - *Non-Gaussianities in the PBH formation and induced GWs*. **(Invited)**<br>[Quantum Gravity and Cosmology 2024](https://qgc2024.shanghaitech.edu.cn/), ShanghaiTech University, Shanghai, China, July 1 - 5, 2024.
 
-- *Non-Gaussianities in the PBH formation and induced GWs*. **(Invited)**<br>[The 5th Workshop on Gravitational-wave Astrophysics](https://gwac2024.bnu.edu.cn/index/index/listarticle?menuid=14), Jingzhou, China. June 29–July 4, 2024.
+- *Non-Gaussianities in the PBH formation and induced GWs*. **(Invited)**<br>[The 5th Workshop on Gravitational-wave Astrophysics](https://gwac2024.bnu.edu.cn/index/index/listarticle?menuid=14), Jingzhou, China. June 29 – July 4, 2024.
 
-- *Non-Gaussianities in the PBH Formation and Induced GWs*. **(Invited)**<br>[64th Cracow School of Theoretical Physics](https://th-www.if.uj.edu.pl/school/2024/), Zakopane, Poland. June 15-23, 2024.
+- *Non-Gaussianities in the PBH Formation and Induced GWs*. **(Invited)**<br>[64th Cracow School of Theoretical Physics](https://th-www.if.uj.edu.pl/school/2024/), Zakopane, Poland. June 15 - 23, 2024.
 
 - *Non-Gaussianities in the PBH Formation and Induced GWs*. **(Invited)**<br>[The Athens symposium on Exploring the Universe (ATHEXIS)](https://physics.ntua.gr/Athexis/), Athens, Greece. June 10-14, 2024.
 
@@ -56,7 +58,7 @@ Update: Aug 8th, 2024
 
 - *Non-Gaussianity in the primordial black hole formation*. **(invited)** <br>The 17th TeV Physics Workshop, Southeast University, Nanjing, China. Dec 15-19, 2023.
 
-- *Non-Gaussianities in the PBH Formation and Induced GWs*. **(Invited plenary)**<br>[The 32nd Workshop on General Relativity and Gravitation in Japan (JGRG32)](https://sites.google.com/view/jgrg-32), Nagoya University, Japan. Nov 27-Dec 1, 2023.
+- *Non-Gaussianities in the PBH Formation and Induced GWs*. **(Invited plenary)**<br>[The 32nd Workshop on General Relativity and Gravitation in Japan (JGRG32)](https://sites.google.com/view/jgrg-32), Nagoya University, Japan. Nov 27 - Dec 1, 2023.
 
 - *Logarithmic Duality of the Curvature Perturbation*. **(Invited)**<br> Chinese Physics Society Fall Meeting, Yinchuan, China. Aug 17-20, 2023.
 
