@@ -52,8 +52,8 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
 
 ## Journal Services
 
-- **Editor**, [*Chinese Physics C*](http://cpc.ihep.ac.cn/)
-- **Editor**, [*Symmetry*](https://www.mdpi.com/journal/symmetry)
+- **Editor** of [*Chinese Physics C*](http://cpc.ihep.ac.cn/), from Nov. 22, 2024.
+- **Editor** of [*Symmetry*](https://www.mdpi.com/journal/symmetry), from April 1, 2024.
 
 ---
 
