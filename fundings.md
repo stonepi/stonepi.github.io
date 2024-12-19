@@ -37,7 +37,7 @@ title: Fundings
 
 #### Diego Cruces
 
-- NSFC Special Grant for Theoretical Physics No. 12447160<br>Title: Towards a non-perturbative description of cosmological inflation<br>Period: 2025
+- NSFC Special Grant for Theoretical Physics No. 12447160<br>Title: Large inhomogeneities in the very early universe<br>Period: 2025
 
 ---
 
