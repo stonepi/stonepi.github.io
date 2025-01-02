@@ -6,6 +6,10 @@ title: Archive
 
 # 学术日常存档
 
+## 2024
+
+- [Blogs 2024](/archive/2024.md)
+
 ## 2023
 
 - [12月](/archive/2023-12.md)
