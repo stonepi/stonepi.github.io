@@ -8,7 +8,8 @@ title: Archive
 
 ## 2024
 
-- [Blogs 2024](/archive/2024.md)
+- [Blogs 2024](/archive/2024-rev
+- .md)
 
 ## 2023
 
