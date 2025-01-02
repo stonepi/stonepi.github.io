@@ -10,6 +10,20 @@
   ga('create', 'G-T5N5JY1E21', 'caihanlin.com');
   ga('send', 'pageview');
 
+    // 检查 LocalStorage 是否有“仅自己可见”的标记
+    const isOwner = localStorage.getItem("isOwner");
+
+    if (isOwner === "true") {
+        // 如果标记存在，显示私密注释
+        const note = document.getElementById("private-note");
+        if (note) {
+            note.style.display = "block";
+        }
+    } else {
+        console.log("普通用户访问，注释隐藏。");
+    }
+
+  
 </script>
 
 <!-- https://analytics.google.com/analytics/ -->
