@@ -35,6 +35,7 @@ title: Blogs
   $$
   P(\phi)\sim\exp\left(-\frac{4\pi^2\lambda\phi^4}{3H^4}\right),
   $$
+
 亦难能也。<br>18时半洪文聪、王奥往理论所参加新年晚会。余与李子涵、蔡坤雨步至北京大学南门外老蜀人晚餐。<br>是日与佐公、Volodymyr Takhistov、Kaloian Lozanov、王奥合作之论文[*Axion-like universal gravitational wave interpretation of pulsar timing array data*](https://doi.org/10.1088/1475-7516/2024/08/054)发表于CQG。
 
 #### 1月12日至1月17日在清华三亚数学论坛参加会议
@@ -70,4 +71,5 @@ title: Blogs
   $$
   \gamma=\frac{\mathcal{C}_{\delta\varphi\dot{\delta\varphi}}}{\sqrt{\mathcal{P}_{\delta\varphi}\mathcal{P}_\dot{\delta\varphi}}}
   $$
+
 有一符号翻转，未知何故。
