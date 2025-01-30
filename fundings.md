@@ -13,7 +13,7 @@ title: Fundings
 - National Science Foundation of China General Program No. 12475066 (PI) <br>Title: An accurate calculation of the primordial black hole mass function<br>Period: Jan 2025 - Dec 2028
 - National High-Level Talent Special Support Program - Outstanding Young Talents (PI) <br>Period: Dec 2022 - Dec 2025
 - National Key Research and Development Program of China Grant No. 2021YFC2203004 (PI) <br>Period: Aug 2021 - Sep 2026
-- CAS New Leading Talent Initiative - One Hundred Talents Program (Type B) (PI) <br>Period: June 2021 - June 2028
+- CAS New Leading Talent Initiative - One Hundred Talents Program (Type B) (PI) <br>Period: Jan 2022 - Dec 2025
 - National Key Research and Development Program of China Grant No. 2020YFC2201502 (member) <br>Period: Dec 2020 - Nov 2025
 - JSPS KAKENHI No. JP24K00624 (member) <br>Period: Apr 2024 - Mar 2028
 
