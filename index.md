@@ -10,7 +10,7 @@ layout: page
 
 Welcome to **Shi Pi**'s homepage. [[中文版本](/file/index-zh/)]
 
-I am a professor in the Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS). My research interests are cosmology and gravity, including but not limited to string inflation, inflation model building, the generation and evolution of cosmological perturbations, (p)reheating, cosmic microwave background radiation anisotropies, dark energy, as well as the gravitational wave astronomy/cosmology. For details, see [my CV](./pdf/CV.pdf). 
+I am a professor in the Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS). My research interests are cosmology and gravity, including but not limited to string inflation, inflation model building, the generation and evolution of cosmological perturbations, (p)reheating, cosmic microwave background radiation anisotropies, dark energy, as well as the gravitational wave astronomy/cosmology. I also serve in the editorial board for *JCAP*, *Chinese Physics C*, and *Symmetry*. For details, see [my CV](./pdf/CV.pdf). 
 
 My publication list can be found in [inspirehep](https://inspirehep.net/authors/1060905#with-citation-summary) and [adsabs](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FPi%2C%20S%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22%20AND%20author_facet_hier%3A%220%2FPi%2C%20S%22)&p_=0&q=%20author%3A%22pi%2C%20shi%22&sort=date%20desc%2C%20bibcode%20desc). For the information of my research group, see [GROUP](./group/). Our group meeting will be held in the coffee room of the 3rd floor in the ITP-CAS South Building, from 11 am every Friday. From Sep 2024, our group meeting will be held in CHEP, Peking University, as the ITP-CAS South Building is under repair.
 
@@ -50,10 +50,11 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
 
 ---
 
-## Journal Services
+## Editorial Board
 
-- **Editor** of [*Chinese Physics C*](http://cpc.ihep.ac.cn/), from Nov. 22, 2024.
-- **Editor** of [*Symmetry*](https://www.mdpi.com/journal/symmetry), from April 1, 2024.
+- [*Journal of Cosmology and Astroparticle Physics (JCAP)*](https://jcap.sissa.it/), from Jan. 29, 2025.
+- [*Chinese Physics C*](http://cpc.ihep.ac.cn/), from Nov. 22, 2024.
+- [*Symmetry*](https://www.mdpi.com/journal/symmetry), from April 1, 2024.
 
 ---
 
@@ -63,4 +64,4 @@ For my work and daily life, click [**BLOGS**](/blogs/index.html) (in Chinese onl
 
 ---
 
-Updated on November 28th, 2024.
+Updated on Feb. 1st, 2025.
