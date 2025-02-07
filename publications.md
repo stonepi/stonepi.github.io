@@ -33,7 +33,7 @@ Lastest Update: 4th Oct 2024
 
 ## Books
 
-- **宇宙学的物理基础**<br>Vietcheslav Mukhanov著, **皮石**译. <br>科学出版社2023年9月第一版. ISBN: 978-7-03-076273-3.<br><img src="/images/SlavaBook.png" alt="SlavaBook" style="width:50%">
+- **宇宙学的物理基础**<br>Vietcheslav Mukhanov著, **皮石**译. <br>科学出版社2023年9月第一版. ISBN: 978-7-03-076273-3.<br><img src="/images/SlavaBook.png" alt="SlavaBook" style="width:60%">
 
 - **[PRIMORDIAL BLACK HOLES](https://link.springer.com/book/9789819788866)**<br>
   Chapter 8: Non-Gaussianities. ArXiv: [2404.06151](https://arxiv.org/abs/2404.06151).
