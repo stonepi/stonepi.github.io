@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /file/group-zh/index.html
-title: Group-zh
+title: 团队
 ---
 
-# 研究小组成员
+# 研究团队
 
 [English Version](https://stonepi.github.io/group/)<br><span style="color:red;">本组每年有一个研究生名额，欢迎申请。我们会优先考虑参加中国科学院理论物理研究所夏令营的优秀本科生。</span>
 

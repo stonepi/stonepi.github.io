@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /file/fundings-zh/index.html
-title: Fundings-zh
+title: 基金项目
 ---
 
 # 基金项目
