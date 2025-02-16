@@ -57,6 +57,4 @@ title: Archive
 - [讀楚簡詩經國風殘卷](/essays/shijing.md)
 - [題論文端贈佐佐木公兼慶公致仕](/essays/misao.md)
 
-# Leave a Message
-
-[添加评论/Leave a message](https://github.com/stonepi/stonepi.github.io/issues/new?template=ISSUE_TEMPLATE/comment_template.md)
+---

@@ -77,6 +77,8 @@ links:
     url: /blogs/
   - title: Archive
     url: /archive/
+  - title: Contact
+    url: /contact/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
