@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /file/index-zh/index.html
-title: Index-zh
+title: 基本信息
 ---
 
 # 皮石的个人主页

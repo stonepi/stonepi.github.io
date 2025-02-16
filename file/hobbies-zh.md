@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /file/hobbies-zh/index.html
-title: Hobbies-zh
+title: 兴趣爱好
 ---
 
 # 兴趣爱好
