@@ -41,4 +41,4 @@ You can post a letter to <br>Institute of Theoretical Physics, Chinese Academy 
 
 ### 🌍 Social Media 社交媒体
 
-Welcome to add me in social media. Please click the icons on the navigation bar.<br>欢迎在社交媒体上关注我并联系我。请点击左边导航栏内的社交媒体图标了解更多。
+Follow me in social media. Please click the icons on the navigation bar.<br>欢迎在社交媒体上关注我。请点击左边导航栏内的社交媒体图标了解更多。
