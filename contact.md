@@ -5,7 +5,7 @@ title: Contact Me
 comments: true
 ---
 
-## 联系我
+## 与我联系
 
 Please contact me in the following ways if you have any comments or advice.<br>如果你有任何问题或建议，可以通过以下方式联系我。 
 
@@ -39,6 +39,6 @@ You can post a letter to <br>Institute of Theoretical Physics, Chinese Academy 
 
 ---
 
-### 🌍 社交媒体
+### 🌍 Social Media 社交媒体
 
 Welcome to add me in social media. Please click the icons on the navigation bar.<br>欢迎在社交媒体上关注我并联系我。请点击左边导航栏内的社交媒体图标了解更多。
