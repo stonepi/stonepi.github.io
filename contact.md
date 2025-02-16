@@ -18,7 +18,7 @@ Please feel free to contact me in the following ways if you have any comments or
 You can leave a message here. I will reply ASAP!<br>你可以直接在这里留言，我会尽快回复！  
 
 <script src="https://utteranc.es/client.js"
-    repo="你的GitHub用户名/你的Jekyll仓库"
+    repo="stonepi/stonepi.github.io"
     issue-term="pathname"
     theme="github-light"
     crossorigin="anonymous"
@@ -29,7 +29,7 @@ You can leave a message here. I will reply ASAP!<br>你可以直接在这里留�
 
 ### ✉ Send an E-mail 发送邮件
 
-📧 [Click here to send an e-mail to me](mailto:shi.pi@itp.ac.cn)<br>📧 [点击这里发送邮件](mailto:shi.pi@itp.ac.cn)<br>📧You can also click the  ✉️ icon in the navigation bar on the left<br>📧您也可以点击左侧导航栏的 ✉️图标
+📧 [Click here to send an e-mail to me](mailto:shi.pi@itp.ac.cn)  [点击这里发送邮件](mailto:shi.pi@itp.ac.cn)<br>📧Or click the  ✉️ icon on the left 或点击左侧导航栏的 ✉️图标
 
 ---
 
