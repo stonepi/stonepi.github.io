@@ -1,11 +1,11 @@
 ---
 layout: default
 permalink: /contact/
-title: Contact
+title: Contact Me
 comments: true
 ---
 
-# Contact Me
+## 联系我
 
 Please contact me in the following ways if you have any comments or advice.<br>如果你有任何问题或建议，可以通过以下方式联系我。 
 
