@@ -75,8 +75,8 @@ title: Blogs
   $$
   \gamma=\frac{\mathcal{C}_{\delta\varphi\dot{\delta\varphi}}}{\sqrt{\mathcal{P}_{\delta\varphi}\mathcal{P}_\dot{\delta\varphi}}}
   $$
-  
-  有一符号翻转，未知何故。
+
+有一符号翻转，未知何故。
 
 #### 1月24日至2月#日返乡过年、休假
 
@@ -132,6 +132,12 @@ title: Blogs
 
 - **2月17日周一**<br>10时与佐公、迭戈讨论。通读论文一遍，修改问题若干。<br>13时半与鲜于中之、王少江讨论TAUP2025会议组织事。<br>与王一男、郭敏勇闲谈。王一男言正研究弦景观中之真空相变事，极困难。
 
-- **2月21日周五**<br>14时在北京大学高能中心开组会。迭戈、张震宇、洪文聪、王奥、李子涵、蔡坤雨参加。<br>Diego介绍[2501.14681](https://arxiv.org/abs/2501.14681)，言彼用一Pöschl-Teller势，使标量扰动可解析求解，然$\epsilon_2$只从$-2$变至$-4$，无法实现慢滚云。又言彼与山口昌英、王嘉宁等新作，得一二次函数势，有解析解，且可慢滚。余命其遍寻一维量子力学散射/定态问题之可解析求解之势以尽之。Diego又云审稿人在其新作[2410.17987](https://arxiv.org/abs/2410.17987)中得一错误，乃在慢滚中计算非线性参数$f_\mathrm{NL}$时，仅考虑超视界之非线性，未考虑出视界处暴胀子扰动本身之非高斯，故其结果与马达塞纳(Maldacena)一致性关系不侔。余忆昔年本桥隼人、南珠(Namjoo)等或有此讨论。然$\delta N$方法给出之$\mathcal{R}(\delta\varphi)$对数关系可退化至慢滚暴胀之非高斯<br><center>$\mathcal{R}=\frac1{\lambda_-}\ln\left(1-\lambda_-\mathcal{R}_\mathrm{g}\right)\;\;\Longrightarrow\;\; f_\mathrm{NL}=-\frac56\eta_V$</center><br>细审之，失一$\epsilon_V$项。此项及$\delta\varphi$之本征非高斯结合，当给出一致关系也。迭戈由随机暴胀法之哈密顿方程证之。然考诸经典方法，仓促间不能得。<br>王奥介绍讨论$\delta\varphi$本征非高斯之文[2412.14106](https://arxiv.org/abs/2412.14106)。其计算$\delta\varphi$至暴胀结束，再以规范变换变至$\mathcal{R}$，与余《推广$\delta N$方法》所言暗合。然彼时已无需引入$\delta N$方法所得之对数关系，而彼用之，不知何故。<br>携张震宇、洪文聪、王奥与黑柳幸子讨论。洪文聪汇报其脉络，王奥谈宽质量函数之限制曲线，张震宇谈宽谱质量函数用Press-Schechter方法计算，余介绍天琴白皮书相关章节。
+- **2月21日周五**<br>14时在北京大学高能中心开组会。迭戈、张震宇、洪文聪、王奥、李子涵、蔡坤雨参加。<br>Diego介绍[2501.14681](https://arxiv.org/abs/2501.14681)，言彼用一Pöschl-Teller势，使标量扰动可解析求解，然$\epsilon_2$只从$-2$变至$-4$，无法实现慢滚云。又言彼与山口昌英、王嘉宁等新作，得一二次函数势，有解析解，且可慢滚。余命其遍寻一维量子力学散射/定态问题之可解析求解之势以尽之。Diego又云审稿人在其新作[2410.17987](https://arxiv.org/abs/2410.17987)中得一错误，乃在慢滚中计算非线性参数$f_\mathrm{NL}$时，仅考虑超视界之非线性，未考虑出视界处暴胀子扰动本身之非高斯，故其结果与马达塞纳(Maldacena)一致性关系不侔。余忆昔年本桥隼人、南珠(Namjoo)等或有此讨论。然$\delta N$方法给出之$\mathcal{R}(\delta\varphi)$对数关系可退化至慢滚暴胀之非高斯
+  
+  $$
+  \mathcal{R}=\frac1{\lambda_-}\ln\left(1-\lambda_-\mathcal{R}_\mathrm{g}\right)\;\;\Longrightarrow\;\; f_\mathrm{NL}=-\frac56\eta_V.
+  $$
+  
+  细审之，失一$\epsilon_V$项。此项及$\delta\varphi$之本征非高斯结合，当给出一致关系也。迭戈由随机暴胀法之哈密顿方程证之。然考诸经典方法，仓促间不能得。<br>王奥介绍讨论$\delta\varphi$本征非高斯之文[2412.14106](https://arxiv.org/abs/2412.14106)。其计算$\delta\varphi$至暴胀结束，再以规范变换变至$\mathcal{R}$，与余《推广$\delta N$方法》所言暗合。然彼时已无需引入$\delta N$方法所得之对数关系，而彼用之，不知何故。<br>携张震宇、洪文聪、王奥与黑柳幸子讨论。洪文聪汇报其脉络，王奥谈宽质量函数之限制曲线，张震宇谈宽谱质量函数用Press-Schechter方法计算，余介绍天琴白皮书相关章节。
 
 ---
