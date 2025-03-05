@@ -56,9 +56,9 @@ title: 基本信息
 
 ## 期刊编委
 
-- [*Journal of Cosmology and Astroparticle Physics (JCAP)*](https://jcap.sissa.it/)编委，自2025年1月29日起担任<br>《宇宙学与粒子天体物理学杂志》由意大利国际高等研究院（SISSA）创办，并由英国 IOP Publishing 发行，是国际同行评审学术期刊。JCAP 主要关注宇宙学、粒子天体物理学和引力的理论与观测研究，涵盖暗物质、暗能量、引力波和早期宇宙等领域。该期刊在相关研究领域具有较高的国际影响力，并被多个重要学术数据库收录。
-- [*Chinese Physics C*](http://cpc.ihep.ac.cn/)编委，自2024年11月22日起担任<br>《中国物理C》是国际同行评审期刊，涵盖粒子物理、核物理及相关领域。期刊发表高质量的理论、实验和计算研究，包括对撞机物理、中微子物理和天体物理等方向。CPC 被多种国际数据库收录，并为中国物理学会官方期刊。
-- [*Symmetry*](https://www.mdpi.com/journal/symmetry)编委，自2024年4月1日起担任<br>《对称性》是 MDPI 旗下的国际同行评审开放获取期刊，涵盖自然科学和应用科学中对称性的各个方面。其研究领域包括物理、数学、计算机科学和工程，涉及从基础理论到跨学科应用的广泛主题。
+- [*Journal of Cosmology and Astroparticle Physics (JCAP)*](https://jcap.sissa.it/)编委，自2025年1月29日起担任<br>《宇宙学与粒子天体物理学期刊(JCAP)》是同行评审的在线国际学术期刊，由意大利国际高等研究院（SISSA）和英国物理学会出版社（IOP Publishing）联合创办，旨在延续 SISSA 首个在线期刊 《高能物理学杂志》JHEP的成功模式。该期刊的同行评审与稿件制作由 SISSA Medialab负责，而在线出版与订阅则由IOP Publishing负责。JCAP涵盖宇宙学与粒子天体物理学的所有领域，包括理论、观测、实验研究，以及计算与模拟等方面。该期刊在相关研究领域具有较高的国际影响力，并被多个重要学术数据库收录。
+- [*Chinese Physics C*](http://cpc.ihep.ac.cn/)编委，自2024年11月22日起担任<br>《中国物理C》是同行评审的国际学术期刊，关注高能物理与核物理领域的最新进展和成果。该期刊由中国物理学会主办，并由中国科学院高能物理研究所和中国科学院近代物理研究所支持运营。其国际发行由英国物理学会出版社（IOP Publishing）负责。自 2012 年起，《中国物理C》成为SCOAP²计划的成员。该期刊发表原创研究论文、快报与综述，涵盖粒子物理、核物理、粒子与核天体物理以及宇宙学的理论与实验研究。此外，《中国物理C》已被中国所有权威索引系统及国际主要索引系统收录，包括 SCI-E、Scopus、INSPEC、Physical Abstracts (PA)、Chemical Abstracts (CA)、JICST（日本）和 PK（俄罗斯） 等。
+- [*Symmetry*](https://www.mdpi.com/journal/symmetry)编委，自2024年4月1日起担任<br>《对称性》是一本国际性、同行评审的开放获取（Open Access）期刊，研究对称性/非对称性现象在自然科学各个领域中的应用。该期刊由 MDPI 以月刊形式在线出版。
 
 ---
 
