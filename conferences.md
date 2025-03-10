@@ -20,7 +20,9 @@ title: Conferences
 
 ## Attendance
 
-- *Non-Gaussianities in the PBH formation and induced GWs*. **(Invited)**<br>[Non-Gaussianity in PBH Formation](https://indico.ipmu.jp/event/439/contributions/8021/), Kavli IPMU, Tokyo, Japan, Nov. 13 - 15, 2024. 
+- *Non-Gaussianities in the PBH Formation and Induced GWs*. **(Invited)**<br>[Structures and Dynamics in Cosmology](https://www.tsimf.cn/meeting/detail?id=380), Sanya Tsinghua Forum, Sanya, China, Jan 13 - 17, 2025. [Video](https://bimsa.net/bimsavideo.html?id=42308.mp4). [Slides](https://bimsa.net/doc/notes/42308.pdf).
+
+- *Non-Gaussianities in the PBH formation and induced GWs*. **(Invited)**<br>[Focus Week on Primordial Black Holes 2024](https://indico.ipmu.jp/event/439/contributions/8021/), Kavli IPMU, Tokyo, Japan, Nov. 13 - 15, 2024. 
 
 - *Non-Gaussianities in the PBH formation and induced GWs*. **(Invited)**<br>[Evolution of the inhomogeneous universe: From Inflation to structure formation](https://www-conf.kek.jp/KEKCosmoAY2024/), KEK, Tsukuba, Japan, Nov. 6 - 8, 2024. 
 
