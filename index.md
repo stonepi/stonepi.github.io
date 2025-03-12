@@ -34,9 +34,9 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
 - **Oct 2017 - Mar 2018:** [Yukawa Institute for Theoretical Physics](https://www.yukawa.kyoto-u.ac.jp/), Kyoto University, Japan
   <br> Research Asistant Professor. Group Leader: [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/)
 - **Mar 2018 - Oct 2020:** [Kavli Institute for Physics and Mathematics of the Universe](https://www.ipmu.jp/), the University of Tokyo, Japan
-  <br> Projector Researcher. Group Leader: [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/)<br>Visiting Scientist, since Oct 2020
+  <br> Projector Researcher. Group Leader: [Misao Sasaki](http://www2.yukawa.kyoto-u.ac.jp/~misao.sasaki/)<br>Visiting Scientist, Oct 2020 - Sept 2024.<br>Visiting Senior Scientist, since Sept 2024.
 - **Oct 2020 - Sep 2024:** [Institute of Theoretical Physics, Chinese Academy of Sciences](http://itp.cas.cn/)<br> Associate Professor.
-- **Jan 2023 - Now:** [Center for High Energy Physics, Peking Univerisity](https://rchep.pku.edu.cn/)<br>T.D. Lee Youth Scholar.
+- **Jan 2023 - Dec 2025:** [Center for High Energy Physics, Peking Univerisity](https://rchep.pku.edu.cn/)<br>T.D. Lee Youth Scholar.
 - **Sep 2024 - Now:** [Institute of Theoretical Physics, Chinese Academy of Sciences](http://itp.cas.cn/)<br>Professor.
 
 ---
