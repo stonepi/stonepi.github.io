@@ -246,5 +246,7 @@ f(\zeta_n) \xrightarrow{k\to0} \frac{\eta}{4}\zeta_n^2
 #### 4月2日至4月15日在韩国首尔学术访问
 
 - **4月2日周三**<br>7时半往首都国际机场。10时乘机往首尔金浦。金浦机场小，人多，海关排队至半小时，足痛不已。<br>15时入住乐天城市酒店麻浦分号。往西江大学量子时空间研究中心(양자시공간 연구센터)。李公范勋携余往西江大学R馆、K馆、L馆见中心引力、高能物理方向诸君：[Wontae Kim]([INSPIRE](https://inspirehep.net/authors/1043125))、[Jeong-Hyuck Park](https://inspirehep.net/authors/994237)、[Junho HONG](https://inspirehep.net/authors/1669906)、[Stefano Scopel](https://inspirehep.net/authors/989521)、[Wonwoo Lee](https://inspirehep.net/authors/1053888)等。<br>李公将与一物理而行商者谈，言引力及黑洞与金融或有关联。余唯唯告退。返访问室改王嘉宁博士论文稿。
+
+- **4月3日周四**<br>午后2时往西江大学。改王嘉宁论文。5时成。与佐公、Diego讨论《$\delta n$方法》定稿。为JCAP、CPC寻审稿人。审阅博士论文。<br>往乙支路四街文华屋食牛肉汤。之后沿清溪川东行，赏花观鸟。见苍鹭一、夜鹭二、绿头鸭一。至东大门。观东大门夜景。<br>返旅次后为《理论物理通讯》审稿，昏昏欲睡。
   
   ---
