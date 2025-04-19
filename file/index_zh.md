@@ -40,7 +40,6 @@ title: 基本信息
 ## 学术兼职
 
 - **2020年10月至2024年9月:**[日本东京大学Kavli数物连携宇宙研究机构](https://ipmu.jp)<br>[客座高级研究员(客員上級科学研究員 Visiting Senior Scientist)](https://db.ipmu.jp/member/personal/5711ja.html)
-
 - **2023年1月至2025年12月**[北京大学高能物理研究中心](https://rchep.pku.edu.cn/)<br>李政道青年学者
 
 ---
@@ -56,9 +55,9 @@ title: 基本信息
 
 ## 期刊编委
 
-- [*Journal of Cosmology and Astroparticle Physics (JCAP)*](https://jcap.sissa.it/)编委，自2025年1月29日起担任<br>《宇宙学与粒子天体物理学期刊(JCAP)》是同行评审的在线国际学术期刊，由意大利国际高等研究院（SISSA）和英国物理学会出版社（IOP Publishing）联合创办，旨在延续 SISSA 首个在线期刊 《高能物理学杂志》JHEP的成功模式。该期刊的同行评审与稿件制作由 SISSA Medialab负责，而在线出版与订阅则由IOP Publishing负责。JCAP涵盖宇宙学与粒子天体物理学的所有领域，包括理论、观测、实验研究，以及计算与模拟等方面。该期刊在相关研究领域具有较高的国际影响力，并被多个重要学术数据库收录。
-- [*Chinese Physics C*](http://cpc.ihep.ac.cn/)编委，自2024年11月22日起担任<br>《中国物理C》是同行评审的国际学术期刊，关注高能物理与核物理领域的最新进展和成果。该期刊由中国物理学会主办，并由中国科学院高能物理研究所和中国科学院近代物理研究所支持运营。其国际发行由英国物理学会出版社（IOP Publishing）负责。自 2012 年起，《中国物理C》成为SCOAP²计划的成员。该期刊发表原创研究论文、快报与综述，涵盖粒子物理、核物理、粒子与核天体物理以及宇宙学的理论与实验研究。此外，《中国物理C》已被中国所有权威索引系统及国际主要索引系统收录，包括 SCI-E、Scopus、INSPEC、Physical Abstracts (PA)、Chemical Abstracts (CA)、JICST（日本）和 PK（俄罗斯） 等。
-- [*Symmetry*](https://www.mdpi.com/journal/symmetry)编委，自2024年4月1日起担任<br>《对称性》是一本国际性、同行评审的开放获取（Open Access）期刊，研究对称性/非对称性现象在自然科学各个领域中的应用。该期刊由 MDPI 以月刊形式在线出版。
+- [*Journal of Cosmology and Astroparticle Physics (JCAP)*](https://jcap.sissa.it/)编委，自2025年1月29日起担任<br>《宇宙学与粒子天体物理学期刊(JCAP)》是同行评审的在线国际学术期刊，由意大利国际高等研究院（SISSA）和英国物理学会出版社（IOP Publishing）联合创办，旨在延续 SISSA 首个在线期刊 《高能物理学杂志》JHEP的成功模式。该期刊的同行评审与稿件制作由 SISSA Medialab负责，而在线出版与订阅则由IOP Publishing负责。JCAP涵盖宇宙学与粒子天体物理学的所有领域，包括理论、观测、实验研究，以及计算与模拟等方面。该期刊在相关研究领域具有较高的国际影响力，并被多个重要学术数据库收录。2025年影响因子：5.3。
+- [*Chinese Physics C*](http://cpc.ihep.ac.cn/)编委，自2024年11月22日起担任<br>《中国物理C》是同行评审的国际学术期刊，关注高能物理与核物理领域的最新进展和成果。该期刊由中国物理学会主办，并由中国科学院高能物理研究所和中国科学院近代物理研究所支持运营。其国际发行由英国物理学会出版社（IOP Publishing）负责。自 2012 年起，《中国物理C》成为SCOAP²计划的成员。该期刊发表原创研究论文、快报与综述，涵盖粒子物理、核物理、粒子与核天体物理以及宇宙学的理论与实验研究。此外，《中国物理C》已被中国所有权威索引系统及国际主要索引系统收录，包括 SCI-E、Scopus、INSPEC、Physical Abstracts (PA)、Chemical Abstracts (CA)、JICST（日本）和 PK（俄罗斯） 等。2025年影响因子：3.6。
+- [*Symmetry*](https://www.mdpi.com/journal/symmetry)编委，自2024年4月1日起担任<br>《对称性》是一本国际性、同行评审的开放获取（Open Access）期刊，研究对称性/非对称性现象在自然科学各个领域中的应用。该期刊由 MDPI 以月刊形式在线出版。2025年影响因子：2.2。
 
 ---
 
