@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/books.html
+permalink: /books/
 title: Books
 ---
 
