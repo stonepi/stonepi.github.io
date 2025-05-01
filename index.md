@@ -60,13 +60,13 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
 
 ## Blogs
 
-For my work and daily life, click [**BLOGS**](/blogs/index.html) (in Chinese only).
+For my work and daily life, click [**BLOGS**](/blogs/) (in Chinese only).
 
 ---
 
 ## Contact me
 
-Please click [**CONTACT**](./group/) to contact me.
+Please click [**CONTACT**](/contact/) to contact me.
 
 ---
 
