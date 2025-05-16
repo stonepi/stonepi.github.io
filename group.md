@@ -9,12 +9,26 @@ title: Group
 
 [中文版本 (Chinese Version)](https://stonepi.github.io/file/group-zh/)
 
+Welcome to apply for Doctoral Programs for International Students of Chinese Academy of Sciences. The announcement will be released in November every year, and the deadline will be February 15th next year. As an example, please check [the announcement in 2025](http://english.itp.cas.cn/join/phdprog/202411/t20241118_694415.html). 
+
 ## Group Photo
 
-![](./images/Group2024-11.jpg)<br>Group Meeting on November 4th, 2024. Photographed by Wei-Guang Cao. <br>Back row: Diego Cruces, Zi-han Li, Zhenyu Zhang, Cristian Joana, Wencong Hong.<br>Front row: Shi Pi, Ao Wang, Kunyu Cai.
+![Kunming Meeting on April 21st, 2025](/images/KunmingGroup.jpg)Group photo with Prof. Bin Chen in the Annual Meeting of the Chinese Physics Society Gravity and Relativistic Astrophysics Division 2025 in Kuming. Photoed by Mr. Wei Liu.<br>From left: Wencong Hong, Yehui Hou, Zhenyu Zhang, TBD, Minyong Guo, Bin Chen, Shi Pi, Kunyu Cai, Zihan Li, Qianye Yu, Anxianyi Xiong.
+
+![Group Meeting Nov 11, 2024](./images/Group2024-11.jpg)<br>Group Meeting on November 4th, 2024. Photographed by Wei-Guang Cao. <br>Back row: Diego Cruces, Zi-han Li, Zhenyu Zhang, Cristian Joana, Wencong Hong.<br>Front row: Shi Pi, Ao Wang, Kunyu Cai.
 
 ![Group Meeting on July 23rd, 2024](/images/IMG_7094.jpeg)
 <br>Group Meeting on July 23rd, 2024. Photoed by Jie-qiang Wu.<br>Back row: Yangyang Hu, Zi-han Li, Ao Wang, Wencong Hong, Zhenyu Zhang.<br>Middle row: Misao Sasaki, Yi-fu Cai, Jiale Kaye Li, Diego Cruces. <br>Front row: Shi Pi, Ying-li Zhang.
+
+![Group Meeting, Oct 8th, 2023](/images/IMG_7092.jpg)<br>Group meeting in Seminar Room 6620 of ITP South Building, Oct 8th, 2023. Photoed by Yaoyao Han. <br>From left: Zihan Li, Wencong Hong, Yifu Cai, Shi Pi, Jianing Wang, Diego Cruces.
+
+![Group Meeting, Oct 13, 2022](/images/DSC_4761.JPG)<br>Group meeting in my office (Room 6306 ITP South Bldg.), Oct 13th, 2022. Photoed by Xiao Fang. <br>From left: Shi Pi, Jianing Wang, Wencong Hong, Zihan Li.
+
+![FAST, July 28, 2021](/images/FAST2021.JPG)<br>Teaching at UFITS Summer School at the site of Five-hundred-meter Aperture Spherical Radio Telescope (FAST), July 28th, 2021. <br>From left: Shi Pi, Jianing Wang.
+
+![Photo on Nov 23, 2020](/images/DSC02744.JPG)<br>One-month working in ITP-CAS memorial photo taken by Wei Liu.
+
+![Forum Jan 2019](/images/2019Forum.JPG)<br>Group photo for the best presentation winners of the 3rd Youth Forum of Theoretical Physics and Interdisciplinary Fields, held on Jan 18th, 2019. <br>From left: Yufeng Zhou, Jing Shu, Sen Zhou, Su Yi, Yin-Zhe Ma, Shangui Zhou, TBD, Fan-Long Meng, Yanting Wang, Run-Qiu Yang, Shi Pi, Haijun Zhou, Rong-Gen Cai.
 
 ## Postdocs
 
@@ -25,7 +39,7 @@ title: Group
 
 ## Students
 
-- **Jianing Wang** Sep 2019 - <br><img src="/images/Jianing.jpg" width="300"><br>Jianing Wang is a PhD candidate. She works on inflationary perturbation theory and primordial black hole formation.<br>She visited KEK in Japan from February 2024 to April 2024.<br>Now she is visiting Institute of Basic Sciences in Korea, from July 15th to the mid of September, 2024. Her host researcher is Prof. Masahide Yamaguchi.<br>She is going to visit Kavli IPMU, the University of Tokyo, Japan, from October 20th to December 14th, 2024. Her host researcher will be Prof. Misao Sasaki.<br>Her publication can be found here on [INSPIRE](https://inspirehep.net/authors/2730443).
+- **Jianing Wang** Sep 2019 - <br><img src="/images/Jianing.jpg" width="300"><br>Jianing Wang is a PhD candidate. She works on inflationary perturbation theory and primordial black hole formation.<br>She visited KEK in Japan from February 2024 to April 2024.<br>She visited the Institute of Basic Sciences in Korea, from July 15th to the mid of September, 2024. Her host researcher is Prof. Masahide Yamaguchi.<br>She visited Kavli IPMU, the University of Tokyo, Japan, from October 20th to December 14th, 2024. Her host researcher is Prof. Misao Sasaki.<br>After graduation, she will work as a postdoc researcher in Kavli IPMU, the University of Tokyo. Her host researchers will be Misao Sasaki and Elisa Ferreira.<br>Her publication can be found here on [INSPIRE](https://inspirehep.net/authors/2730443).
 - **Wencong Hong** Sep 2021 - <br><img src="/images/Wencong.jpg" width="300"><br>Wencong Hong is a PhD student. He works on the stochastic gravitational waves from the compact objects.
 - **Ao Wang** Sep 2022 - <br><img src="/images/Ao.jpg" width="300"><br>Ao Wang is a PhD student. He works on the stochastic gravitational waves and primordial black hole formation.<br>His publication can be found here on [INSPIRE](https://inspirehep.net/authors/2718599).
 - **Zihan Li** Sep 2023 - <br><img src="/images/Zihan.jpg" width="300"><br>Zihan Li is a master student.
