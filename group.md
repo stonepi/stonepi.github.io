@@ -15,20 +15,36 @@ Welcome to apply for Doctoral Programs for International Students of Chinese Aca
 
 ![Kunming Meeting on April 21st, 2025](/images/KunmingGroup.jpg)Group photo with Prof. Bin Chen in the Annual Meeting of the Chinese Physics Society Gravity and Relativistic Astrophysics Division 2025 in Kuming. Photoed by Mr. Wei Liu.<br>From left: Wencong Hong, Yehui Hou, Zhenyu Zhang, TBD, Minyong Guo, Bin Chen, Shi Pi, Kunyu Cai, Zihan Li, Qianye Yu, Anxianyi Xiong.
 
+---
+
 ![Group Meeting Nov 11, 2024](./images/Group2024-11.jpg)<br>Group Meeting on November 4th, 2024. Photographed by Wei-Guang Cao. <br>Back row: Diego Cruces, Zi-han Li, Zhenyu Zhang, Cristian Joana, Wencong Hong.<br>Front row: Shi Pi, Ao Wang, Kunyu Cai.
+
+---
 
 ![Group Meeting on July 23rd, 2024](/images/IMG_7094.jpeg)
 <br>Group Meeting on July 23rd, 2024. Photoed by Jie-qiang Wu.<br>Back row: Yangyang Hu, Zi-han Li, Ao Wang, Wencong Hong, Zhenyu Zhang.<br>Middle row: Misao Sasaki, Yi-fu Cai, Jiale Kaye Li, Diego Cruces. <br>Front row: Shi Pi, Ying-li Zhang.
 
-![Group Meeting, Oct 8th, 2023](/images/IMG_7092.jpg)<br>Group meeting in Seminar Room 6620 of ITP South Building, Oct 8th, 2023. Photoed by Yaoyao Han. <br>From left: Zihan Li, Wencong Hong, Yifu Cai, Shi Pi, Jianing Wang, Diego Cruces.
+---
+
+![Group Meeting, Oct 8th, 2023](/images/IMG_7092.JPG)<br>Group meeting in Seminar Room 6620 of ITP South Building, Oct 8th, 2023. Photoed by Yaoyao Han. <br>From left: Zihan Li, Wencong Hong, Yifu Cai, Shi Pi, Jianing Wang, Cristian Joana.
+
+---
 
 ![Group Meeting, Oct 13, 2022](/images/DSC_4761.JPG)<br>Group meeting in my office (Room 6306 ITP South Bldg.), Oct 13th, 2022. Photoed by Xiao Fang. <br>From left: Shi Pi, Jianing Wang, Wencong Hong, Zihan Li.
 
+---
+
 ![FAST, July 28, 2021](/images/FAST2021.JPG)<br>Teaching at UFITS Summer School at the site of Five-hundred-meter Aperture Spherical Radio Telescope (FAST), July 28th, 2021. <br>From left: Shi Pi, Jianing Wang.
+
+---
 
 ![Photo on Nov 23, 2020](/images/DSC02744.JPG)<br>One-month working in ITP-CAS memorial photo taken by Wei Liu.
 
+---
+
 ![Forum Jan 2019](/images/2019Forum.JPG)<br>Group photo for the best presentation winners of the 3rd Youth Forum of Theoretical Physics and Interdisciplinary Fields, held on Jan 18th, 2019. <br>From left: Yufeng Zhou, Jing Shu, Sen Zhou, Su Yi, Yin-Zhe Ma, Shangui Zhou, TBD, Fan-Long Meng, Yanting Wang, Run-Qiu Yang, Shi Pi, Haijun Zhou, Rong-Gen Cai.
+
+---
 
 ## Postdocs
 
@@ -61,4 +77,4 @@ Welcome to apply for Doctoral Programs for International Students of Chinese Aca
 
 ---
 
-Updated Dec. 8, 2024.
+Updated May 17th, 2025.
