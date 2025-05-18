@@ -13,7 +13,7 @@ Welcome to apply for Doctoral Programs for International Students of Chinese Aca
 
 ## Group Photo
 
-![Kunming Meeting on April 21st, 2025](/images/KunmingGroup.jpg)Group photo with Prof. Bin Chen in the Annual Meeting of the Chinese Physics Society Gravity and Relativistic Astrophysics Division 2025 in Kuming. Photoed by Mr. Wei Liu.<br>From left: Wencong Hong, Yehui Hou, Zhenyu Zhang, TBD, Minyong Guo, Bin Chen, Shi Pi, Kunyu Cai, Zihan Li, Qianye Yu, Anxianyi Xiong.
+![Kunming Meeting on April 21st, 2025](/images/KunmingGroup.jpg)Group photo with Prof. Bin Chen in the Annual Meeting of the Chinese Physics Society Gravity and Relativistic Astrophysics Division 2025 in Kuming. Photoed by Mr. Wei Liu.<br>From left: Wencong Hong, Yehui Hou, Zhenyu Zhang, Zhi-xing Zhao, Minyong Guo, Bin Chen, Shi Pi, Kunyu Cai, Zihan Li, Qianye Yu, Anxianyi Xiong.
 
 ---
 
