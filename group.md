@@ -38,7 +38,7 @@ Welcome to apply for Doctoral Programs for International Students of Chinese Aca
 
 ---
 
-![Photo on Nov 23, 2020](/images/DSC02744.JPG)<br>One-month working in ITP-CAS memorial photo taken by Wei Liu.
+![Photo on Nov 23, 2020](/images/DSC02744.JPG)<br>One-month after working in ITP-CAS as a faculty member, Nov. 23rd, 2020. Photo taken by Wei Liu.
 
 ---
 

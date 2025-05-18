@@ -53,7 +53,7 @@ title: 团队
 
 ## 研究生
 
-- **王嘉宁** 2019年9月入学 - <br><img title="" src="/images/Jianing.jpg" alt="" width="300"><br>王嘉宁是2021级博士研究生。她的主要研究方向是暴胀时期的扰动理论以及原初黑洞形成。<br>2024年1月至3月，王嘉宁在日本加速器研究所（KEK）访问学习。合作导师为Volodymyr Takhistov。<br>2024年7月21日至9月中旬，王嘉宁在韩国基础科学研究院（IBS）访问学习。合作导师为Masahide Yamaguchi。<br>2024年10月20日至2024年12月14日，王嘉宁在日本东京大学卡弗理数物连携宇宙研究机构(Kavli IPMU)访问学习。合作导师为Misao Sasaki。<br>2025年9月起王嘉宁将前往日本东京大学卡弗理数物连携宇宙研究机构(Kavli IPMU)进行博士后研究。<br>她的论文发表情况见[INSPIRE](https://inspirehep.net/authors/2730443)。
+- **王嘉宁** 2019年9月入学 - <br><img title="" src="/images/Jianing.jpg" alt="" width="300"><br>王嘉宁是2021级博士研究生。她的主要研究方向是暴胀时期的扰动理论以及原初黑洞形成。<br>2024年1月至3月，王嘉宁在日本加速器研究所（KEK）访问学习。合作导师为Volodymyr Takhistov。<br>2024年7月21日至9月中旬，王嘉宁在韩国基础科学研究院（IBS）访问学习。合作导师为Masahide Yamaguchi。<br>2024年10月20日至2024年12月14日，王嘉宁在日本东京大学卡弗理数物连携宇宙研究机构(Kavli IPMU)访问学习。合作导师为Misao Sasaki。<br>2025年5月23日上午9时半王嘉宁进行博士学位论文答辩。经答辩委员会讨论，……<br>2025年9月起王嘉宁将前往日本东京大学卡弗理数物连携宇宙研究机构(Kavli IPMU)进行博士后研究。<br>她的论文发表情况见[INSPIRE](https://inspirehep.net/authors/2730443)。
 
 - **洪文聪** 2021年9月入学 -  <br><img title="" src="/images/Wencong.jpg" alt="" width="300"><br>洪文聪是2023级博士研究生。他的主要研究方向是致密星合并及其相关的引力波天文。
 
