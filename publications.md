@@ -11,7 +11,7 @@ title: Publications
 
 ## Selected Papers
 
-- <span style="color:blue;">*Extended $\delta N$ Formalism: Nonspatially Flat Separate-Universe Approach*</span>,<br>Danilo Artigas, **Shi Pi**, Takahiro Tanaka. <br>Published in: [Phys.Rev.Lett. 134 (2025) 22, 22100100](https://doi.org/10.1103/PhysRevLett.134.221001). ArXiv: [2408.09964](https://arxiv.org/abs/2408.09964).
+- <span style="color:blue;">*Extended $\delta N$ Formalism: Nonspatially Flat Separate-Universe Approach*</span>,<br>Danilo Artigas, **Shi Pi**, Takahiro Tanaka. <br>Published in: [Phys.Rev.Lett. 134 (2025) 22, 221001](https://doi.org/10.1103/PhysRevLett.134.221001). ArXiv: [2408.09964](https://arxiv.org/abs/2408.09964).
 
 - <span style="color:blue;">*Logarithmic Duality of the Curvature Perturbation*</span>,<br>**Shi Pi**, Misao Sasaki. <br>Published in: [Phys.Rev.Lett. 131 (2023) 1, 011002](https://doi.org/10.1103/PhysRevLett.131.011002). ArXiv: [2211.13932](https://arxiv.org/abs/2211.13932).
 
@@ -42,4 +42,5 @@ title: Publications
 - **PERTURBATION THEORY OF COSMOLOGY**<br>Atsushi Naroko, **Shi Pi**, Misao Sasaki. In preparation.
 
 ---
+
 Updated on 11th June 2025
