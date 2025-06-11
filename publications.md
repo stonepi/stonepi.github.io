@@ -5,13 +5,13 @@ title: Publications
 
 ---
 
-Lastest Update: 4th Oct 2024
-
 # Publications
 
 <span style="color:red;">For a full list of my papers, check [inspirehep](https://inspirehep.net/authors/1060905#with-citation-summary), [adsabs](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FPi%2C%20S%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22%20AND%20author_facet_hier%3A%220%2FPi%2C%20S%22)&p_=0&q=%20author%3A%22pi%2C%20shi%22&sort=date%20desc%2C%20bibcode%20desc), or [Google scholar](https://scholar.google.com/citations?hl=zh-CN&user=0rYNXDYAAAAJ).</span>
 
 ## Selected Papers
+
+- <span style="color:blue;">*Extended $\delta N$ Formalism: Nonspatially Flat Separate-Universe Approach*</span>,<br>Danilo Artigas, **Shi Pi**, Takahiro Tanaka. <br>Published in: [Phys.Rev.Lett. 134 (2025) 22, 22100100](https://doi.org/10.1103/PhysRevLett.134.221001). ArXiv: [2408.09964](https://arxiv.org/abs/2408.09964).
 
 - <span style="color:blue;">*Logarithmic Duality of the Curvature Perturbation*</span>,<br>**Shi Pi**, Misao Sasaki. <br>Published in: [Phys.Rev.Lett. 131 (2023) 1, 011002](https://doi.org/10.1103/PhysRevLett.131.011002). ArXiv: [2211.13932](https://arxiv.org/abs/2211.13932).
 
@@ -40,3 +40,6 @@ Lastest Update: 4th Oct 2024
   <br>A monograph in Springer Series in Astrophysics and Cosmology, Springer. Feb. 2025.<br> Ed. Chris Byrnes, Gabriele Franciolini, Tomohiro Harada, Paolo Pani, Misao Sasaki. <br>ISBN: 978-981-97-8886-6 (hardcover); 978-981-97-8889-7 (paperback)<br><img title="" src="/images/PBHbook.jpg" alt="PBHBook" style="width:50%">
 
 - **PERTURBATION THEORY OF COSMOLOGY**<br>Atsushi Naroko, **Shi Pi**, Misao Sasaki. In preparation.
+
+---
+Updated on 11th June 2025
