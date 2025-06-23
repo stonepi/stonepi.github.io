@@ -20,6 +20,18 @@ title: Conferences
 
 ## Attendance
 
+- *Cosmological Perturbations I: Linear Theory*. **(Invited Lecture)**<br>[Lectures on Frontiers of Large Scale Structure](https://indico.itp.ac.cn/event/321/), Ningbo, China. June 15 - 30.
+
+- *Inflation beyond slow-roll*.<br>2025 Symposium on Gravity and Cosmology (2025西安引力宇宙学专题研讨会), Xi'an, China. June 13 - 16, 2025. 
+
+- Attendence.<br>[International Conference on Cosmology in Shanghai](https://indico.itp.ac.cn/event/317/), Shanghai, China. May 28 to June 1, 2025.
+
+- *PBH and non-Gaussianity*. **(Invited)**<br>[The 12th KAGRA international workshop (KIW-12)](https://kiw12.casconf.cn/), Shanghai, China. May 26 - 27, 2025.
+
+- Aspects of ultra-slow-roll inflation.**(Invited)**<br>[Effective Field Theories, Gravity and Cosmology](https://indico.pnp.ustc.edu.cn/event/3714/), Hangzhou, China. April 24 - 29, 2025.
+
+- *δN formalism and its extension*.<br>[2025 Annual Meeting of the Gravity and Relativistic Astrophysics Division of the Chinese Physics Society](https://gr25.kust.edu.cn/), Kunming, China. April 18 - 23, 2025.
+
 - *Non-Gaussianities in the PBH Formation and Induced GWs*. **(Invited)**<br>[Structures and Dynamics in Cosmology](https://www.tsimf.cn/meeting/detail?id=380), Sanya Tsinghua Forum, Sanya, China, Jan 13 - 17, 2025. [Video](https://bimsa.net/bimsavideo.html?id=42308.mp4). [Slides](https://bimsa.net/doc/notes/42308.pdf).
 
 - *Non-Gaussianities in the PBH formation and induced GWs*. **(Invited)**<br>[Focus Week on Primordial Black Holes 2024](https://indico.ipmu.jp/event/439/contributions/8021/), Kavli IPMU, Tokyo, Japan, Nov. 13 - 15, 2024. 
