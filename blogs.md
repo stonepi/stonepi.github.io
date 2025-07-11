@@ -430,5 +430,13 @@ f(\zeta_n) \xrightarrow{k\to0} \frac{\eta}{4}\zeta_n^2
 - 
 
 - **7月2日周三**<br>11时往帕斯卡研究所。听Ana Achúcaro报告。彼与孔镇郁等发现一多场暴胀新解，加速度为常数，使熵扰动亦为常数，可于视界外持续提升曲率扰动，称为“超慢转暴胀(ultra-slow-turn inflation)”。<br>与Ana Achúcarro、Gonzalo Palma、孔镇郁、王东刚午餐，讨论此模型。食毕见Vincent Vennin，与之闲谈，约午后讨论。<br>
+
+- **7月3日周四**<br>宿醉。10时半至帕斯卡研究所，听Eemeli Tomberg报告。彼正研究随机暴胀与II型原初黑洞，其时空整体结构极复杂，彼此包含，而又有Einstein-Rosen桥式结构以间之。
+
+#### 7月7日至12日在韩国大田参加宇宙学与粒子天体物理国际研讨会([International Symposium of Cosmology and Particle Astrophysics(CosPA)](https://indico.ibs.re.kr/event/871/))
+
+- **7月11日周五**<br>7时起床作幻灯片。10时成。往会场。<br>恰逢茶歇。与蔡公、安海鹏、徐立昕、章颖理闲谈。<br>听分会场一黄崇清(Sam Wong)、况小梅、唐子瑜报告并改进幻灯片。<br>与李思瑶谈山口公组内动向。<br>午餐后听Spyros Sypsas讲暴胀场之红外圈图修正。彼计算其单圈修正得功率谱之久期增长(secular growth)，同于随机暴胀结果，且可顺手推出Fokker-Planck方程云云。<br>14时半余报告《超越慢滚暴胀、非高斯、及原初黑洞》。大率以近作《曲率扰动对数对偶》[2211.13932](https://arxiv.org/abs/2211.13932)、《原初黑洞与非高斯》[2404.06151](https://arxiv.org/abs/2404.06151)、《推广$\delta N$形式》[2408.09964](https://arxiv.org/abs/2408.09964)、《新$\delta n$形式》[2505.24590](https://arxiv.org/abs/2505.24590)、及与角马、奥勃之新作概括言之。讲完后一IBS博士后某氏、郡和范、山口公分别问难。<br>散会后与诸公闲聊。与Arman Shafiloo谈暗能量问题。彼言将视牙医，荐余返京后请益于赵公博。与Spyros谈随机暴胀。又与郡和范谈原初黑洞之记忆负担效应等。<br>与蔡公、何松、章颖理晚餐。路遇何小刚夫妻。荐参鸡汤。往食之。食毕，沿甲川北岸散步一小时半。
+
+- **7月12日周六**<br>
   
   ---
