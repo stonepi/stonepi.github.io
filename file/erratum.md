@@ -31,7 +31,7 @@ title: 勘误表
 - P311，注①<br>第三行后半，“有的文献定义功率谱时没有把(8.8)的角度积掉……”从这里开始一直到最后的两句话删掉，修改为如下文字：
 
 <div style="border: 1px solid #ccc; padding: 1em; width: 80%; margin: 2em auto; text-align: left; border-radius: 10px; background-color: #f9f9f9;">
-有的文献把方差$\sigma_k^2\equiv|\Phi_k|^2$也称为功率谱，文献中一般记作$P_\Phi(k)$。它和$\mathcal{P}_\Phi(k)$的关系为\eqref{8.11}，且和\eqref{8.7}式定义空间两点关联函数$\xi_f(r)$互为傅里叶变换。不同的文献和书用的傅里叶变换的归一化系数可能不同，需要小心检查。
+有的文献把方差$\sigma_k^2\equiv|\Phi_k|^2$也称为功率谱，文献中一般记作$P_\Phi(k)$。它和$\mathcal{P}_\Phi(k)$的关系为(8.11)，且和(8.7)式定义空间两点关联函数$\xi_f(r)$互为傅里叶变换。注意不同的文献中傅里叶变换的归一化系数可能不同，需要小心检查。
 </div>
 
 
