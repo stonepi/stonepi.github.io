@@ -55,7 +55,6 @@ Welcome to apply for Doctoral Programs for International Students of Chinese Aca
 
 ## Students
 
-- **Jianing Wang** Sep 2019 - <br><img src="/images/Jianing.jpg" width="300"><br>Jianing Wang is a PhD candidate. She works on inflationary perturbation theory and primordial black hole formation.<br>She visited KEK in Japan from February 2024 to April 2024.<br>She visited the Institute of Basic Sciences in Korea, from July 15th to the mid of September, 2024. Her host researcher is Prof. Masahide Yamaguchi.<br>She visited Kavli IPMU, the University of Tokyo, Japan, from October 20th to December 14th, 2024. Her host researcher is Prof. Misao Sasaki.<br>After graduation, she will work as a postdoc researcher in Kavli IPMU, the University of Tokyo. Her host researchers will be Misao Sasaki and Elisa Ferreira.<br>Her publication can be found here on [INSPIRE](https://inspirehep.net/authors/2730443).
 - **Wencong Hong** Sep 2021 - <br><img src="/images/Wencong.jpg" width="300"><br>Wencong Hong is a PhD student. He works on the stochastic gravitational waves from the compact objects.
 - **Ao Wang** Sep 2022 - <br><img src="/images/Ao.jpg" width="300"><br>Ao Wang is a PhD student. He works on the stochastic gravitational waves and primordial black hole formation.<br>His publication can be found here on [INSPIRE](https://inspirehep.net/authors/2718599).
 - **Zihan Li** Sep 2023 - <br><img src="/images/Zihan.jpg" width="300"><br>Zihan Li is a master student.
@@ -63,7 +62,11 @@ Welcome to apply for Doctoral Programs for International Students of Chinese Aca
 - **Qianye Yu** Sep 2025 - <br><img src="/images/Qianye.jpg" width="300"><br>Qianye is an undergraduate student in Physics Department of Wuhan University. He will become a graduate student in University of CAS and join our group from September 2025.
 - **Kunyu Cai** Sep 2025 - <br><img src="/images/Kunyu.jpg" width="300"><br>Kunyu is an undergraduate student in Department of Astronomy, Peking University. She will become a graduate student in Institute of Theoretical Physics, Peking University and join our group from September 2025, and co-supervised by Prof. Bin Chen and me.
 
-## Visiting Students
+## Former Students
+
+- **Jianing Wang** Sep 2019 - July 2025<br><img src="/images/Jianing.jpg" width="300"><br>[Jianing Wang](https://inspirehep.net/authors/2730443) is now a postdoc in Kavli IPMU, the University of Tokyo. Her host researchers will be Misao Sasaki and Elisa Ferreira. <br>She visited KEK in Japan from February 2024 to April 2024.<br>She visited the Institute of Basic Sciences in Korea, from July 15th to the mid of September, 2024. Her host researcher is Prof. Masahide Yamaguchi.<br>She visited Kavli IPMU, the University of Tokyo, Japan, from October 20th to December 14th, 2024. Her host researcher is Prof. Misao Sasaki.
+
+## Visitors
 
 - **Yong-Xian Liao** Summer 2021<br>
   
@@ -77,4 +80,4 @@ Welcome to apply for Doctoral Programs for International Students of Chinese Aca
 
 ---
 
-Updated May 17th, 2025.
+Updated Aug 5th, 2025.
