@@ -8,17 +8,23 @@ title: Conferences
 
 ## Organized
 
-- CAS Key Laboratory Annual Meeting *Gravity and Cosmology 2024*.  <br>Chunhuiyuan Hotel, Beijing, China. Dec 9-11, 2023.
+- The 3rd International Workshop [*Gravitational Waves and the Early Universe*](https://indico.itp.ac.cn/event/339/) (GWEU2025).  <br>Pan Pacific Hotel, Ningbo, China. Sept. 1 - 3, 2025.
+
+- CAS Key Laboratory Annual Meeting *Gravity and Cosmology 2024*.  <br>Chunhuiyuan Hotel, Beijing, China. Dec 9 - 11, 2023.
 
 - The 2nd International Workshop [*Gravitational Waves and the Early Universe*](https://indico.itp.ac.cn/event/217/) (GWEU2024).<br>Zhongguanxinyuan Hotel, Beijing, China. Apr 9-11, 2024.
 
-- CAS Key Laboratory Annual Meeting *Gravity and Cosmology 2023*.<br>Chunhuiyuan Hotel, Beijing, China. Dec 9-11, 2023.
+- CAS Key Laboratory Annual Meeting *Gravity and Cosmology 2023*.<br>Chunhuiyuan Hotel, Beijing, China. Dec 9 - 11, 2023.
 
-- International Mini Workshop [*Gravitational Waves from the Early Universe*](https://indico.itp.ac.cn/event/171/) (GWEU2023).<br>ITP-CAS, Beijing, China. Oct 13-16, 2023.
+- International Mini Workshop [*Gravitational Waves from the Early Universe*](https://indico.itp.ac.cn/event/171/) (GWEU2023).<br>ITP-CAS, Beijing, China. Oct 13 - 16, 2023.
 
-- YITP International Molecule-type Workshop [*Revisiting cosmological non-linearities in the era of precision surveys*](https://sites.google.com/view/cnlws2023).<br>YITP, Kyoto, Japan. July 13-28, 2023. 
+- YITP International Molecule-type Workshop [*Revisiting cosmological non-linearities in the era of precision surveys*](https://sites.google.com/view/cnlws2023).<br>YITP, Kyoto, Japan. July 13 - 28, 2023. 
 
 ## Attendance
+
+- *Inflation beyond slow-roll, non-Gaussianity, and primordial black holes*. **(Plenary)**<br>[International Symposium on Cosmology and Particle Astrophysics: CosPA 2025](https://indico.ibs.re.kr/event/871/), Daejeon, Korea. July 7 - 11, 2025. 
+
+- *Inflation beyond slow-roll and non-Gaussianity*. **(Invited)**<br>[Cosmology Beyond the Analytic Lamppost (CoBALt)](https://indico.ijclab.in2p3.fr/event/11373/overview), Paris, France. June 16 - July 4, 2025.
 
 - *Cosmological Perturbations I: Linear Theory*. **(Invited Lecture)**<br>[Lectures on Frontiers of Large Scale Structure](https://indico.itp.ac.cn/event/321/), Ningbo, China. June 15 - 30.
 
@@ -28,7 +34,7 @@ title: Conferences
 
 - *PBH and non-Gaussianity*. **(Invited)**<br>[The 12th KAGRA international workshop (KIW-12)](https://kiw12.casconf.cn/), Shanghai, China. May 26 - 27, 2025.
 
-- Aspects of ultra-slow-roll inflation.**(Invited)**<br>[Effective Field Theories, Gravity and Cosmology](https://indico.pnp.ustc.edu.cn/event/3714/), Hangzhou, China. April 24 - 29, 2025.
+- Aspects of ultra-slow-roll inflation. **(Invited)**<br>[Effective Field Theories, Gravity and Cosmology](https://indico.pnp.ustc.edu.cn/event/3714/), Hangzhou, China. April 24 - 29, 2025.
 
 - *δN formalism and its extension*.<br>[2025 Annual Meeting of the Gravity and Relativistic Astrophysics Division of the Chinese Physics Society](https://gr25.kust.edu.cn/), Kunming, China. April 18 - 23, 2025.
 
@@ -44,7 +50,7 @@ title: Conferences
 
 - *δN formalism and the ultra-slow-roll inflation*, **(Invited)**<br>[Cosmology with Gravitational Waves 2024](https://www.itp.uni-hannover.de/de/ag/domenech/workshops/workshops-2024), Institute of Theoretical Physics, Leibniz University Hannover, Hannover, Germany, Sept. 4, 2024.
 
-- *Generation of PBHs in inflationary/non-inflationary scenarios: A review*. **(Invited plenary)**<br>[21 Century Cosmology](https://sites.google.com/ashoka.edu.in/21st-century-cosmology/), Ashoka University, New Delhi, India, Aug 21 - 23, 2024. (Online participation)
+- *Generation of PBHs in inflationary/non-inflationary scenarios: A review*. **(Plenary)**<br>[21 Century Cosmology](https://sites.google.com/ashoka.edu.in/21st-century-cosmology/), Ashoka University, New Delhi, India, Aug 21 - 23, 2024. (Online participation)
 
 - *Primordial Black Hole: Theory and Observations*. **(Invited lecture)**<br>The 28th International Summer Institute on Phenomenology of Elementary Particle Physics and Cosmology (SI2024), Linyi, China. Aug 3 - 7, 2024.
 
@@ -70,7 +76,7 @@ title: Conferences
 
 - *Non-Gaussianity in the primordial black hole formation*. **(invited)** <br>The 17th TeV Physics Workshop, Southeast University, Nanjing, China. Dec 15-19, 2023.
 
-- *Non-Gaussianities in the PBH Formation and Induced GWs*. **(Invited plenary)**<br>[The 32nd Workshop on General Relativity and Gravitation in Japan (JGRG32)](https://sites.google.com/view/jgrg-32), Nagoya University, Japan. Nov 27 - Dec 1, 2023.
+- *Non-Gaussianities in the PBH Formation and Induced GWs*. **(Plenary)**<br>[The 32nd Workshop on General Relativity and Gravitation in Japan (JGRG32)](https://sites.google.com/view/jgrg-32), Nagoya University, Japan. Nov 27 - Dec 1, 2023.
 
 - *Logarithmic Duality of the Curvature Perturbation*. **(Invited)**<br> Chinese Physics Society Fall Meeting, Yinchuan, China. Aug 17-20, 2023.
 
@@ -229,4 +235,4 @@ title: Conferences
   
   ---
   
-  Updated on Dec. 8, 2024.
+  Updated on Aug. 11, 2025.
