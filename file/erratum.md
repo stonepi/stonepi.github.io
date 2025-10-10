@@ -4,7 +4,7 @@ permalink: /file/erratum/index.html
 title: 勘误表
 ---
 
-<h2 style="text-align: center;">《宇宙学的物理基础》中译本勘误表</h2>
+<h2 style="text-align: center;">《宇宙学的物理基础》中译本第一次勘误</h2>
 
 #### 内封
 
@@ -90,4 +90,16 @@ title: 勘误表
 
 ---
 
-前三章勘误表由汤夏提供<br>更新日期：2025年9月24日
+前四章勘误表由汤夏提供<br>2025年10月第一版第二次印本已更正
+
+---
+
+<h2 style="text-align: center;">《宇宙学的物理基础》中译本第二次勘误表</h2>
+
+#### 第八章
+
+- P322，注①中(8.58a)下一行中部，$\overline{v}=\overline{\delta\varphi}/\varphi_0'$改为$\overline{v}=-\overline{\delta\varphi}/\varphi_0'$。下一行，(8.58b)中第一个等式$\zeta\equiv\Psi+\mathcal{H}\overline{v}$改为$\zeta\equiv\Psi-\mathcal{H}\overline{v}$，其余不变 （陈凯）
+
+---
+
+待第三次印刷时提交。更新日期：2025年10月9日
