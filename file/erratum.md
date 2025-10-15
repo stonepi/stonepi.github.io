@@ -4,7 +4,29 @@ permalink: /file/erratum/index.html
 title: 勘误表
 ---
 
-<h2 style="text-align: center;">《宇宙学的物理基础》中译本第一次勘误</h2>
+<h1 style="text-align: center;">《宇宙学的物理基础》勘误表</h1>
+
+<h2 style="text-align: center;">二印本勘误表</h2>
+
+#### 第八章
+
+- P322，注①中(8.58a)下一行中部<br>$\overline{v}=\overline{\delta\varphi}/\varphi_0'$改为$\overline{v}=-\overline{\delta\varphi}/\varphi_0'$。下一行，(8.58b)中第一个等式$\zeta\equiv\Psi+\mathcal{H}\overline{v}$改为$\zeta\equiv\Psi-\mathcal{H}\overline{v}$，其余不变 （陈凯）
+
+- P331，(8.106)式<br>分母<span style="color:red;">18</span>改为81 （陈凯）
+
+- P336，(8.125)式上一行<br>“<span style="color:red;">标</span>量谱指数”改为“张量谱指数” （陈凯）
+
+#### 译后记
+
+- P409，第二段第六行<br>“感谢王依力、王嘉宁、王奥、蔡坤雨、汤夏等同学”改为“感谢王依力、王嘉宁、王奥、蔡坤雨、汤夏、陈凯等同学”
+
+---
+
+待第三次印刷时提交。更新日期：2025年10月15日
+
+---
+
+<h2 style="text-align: center;">初印本勘误表</h2>
 
 #### 内封
 
@@ -94,12 +116,3 @@ title: 勘误表
 
 ---
 
-<h2 style="text-align: center;">《宇宙学的物理基础》中译本第二次勘误表</h2>
-
-#### 第八章
-
-- P322，注①中(8.58a)下一行中部，$\overline{v}=\overline{\delta\varphi}/\varphi_0'$改为$\overline{v}=-\overline{\delta\varphi}/\varphi_0'$。下一行，(8.58b)中第一个等式$\zeta\equiv\Psi+\mathcal{H}\overline{v}$改为$\zeta\equiv\Psi-\mathcal{H}\overline{v}$，其余不变 （陈凯）
-
----
-
-待第三次印刷时提交。更新日期：2025年10月9日
