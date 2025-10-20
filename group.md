@@ -48,23 +48,33 @@ Welcome to apply for Doctoral Programs for International Students of Chinese Aca
 
 ## Postdocs
 
-- **Cristian Joana**  Feb 2023 -  <br><img src="/images/Cristian.jpg" width="300"><br>
-  Cristian Joana got his PhD in the Université catholique de Louvain in 2022. His PhD supervisors are [Sebastien Clesse](https://sebclesse.wixsite.com/clesse) and [Christophe Ringeval](http://cp3.irmp.ucl.ac.be/~ringeval/). He mainly focuses on cosmology of the early universe, particularly on cosmic inflation and the reheating, and in the early formation of exotic compact objects such as oscillons and primordial black holes.  He is currently involved in the development and usage of numerical methods, including lattice and numerical relativity simulations. He is one of the developers of [GRChombo](https://www.grchombo.org/), an AMR based open-source code for numerical relativity simulations.<br>Cristian's publication can be found here on [INSPIRE](https://inspirehep.net/authors/2007073?ui-citation-summary=true). <br>Cristian is partly funded by the NSFC Special Grant for Theoretical Physics No. 12347132 (2024) (*Primordial Black Hole and its Gravitational Wave Signal*), and by the NSFC Research Fund for International Scientists No. W2433007 (*Early Universe Gravitational Waves and Primordial Black Holes*).
-
 - **Diego Cruces** Feb 2024 -  <br><img src="/images/Diego.jpg" width="300"><br>Diego Cruces got his PhD in the Institute of Cosmos Sciences of the University of Barcelona (ICC-UB) under the supervision of [Cristiano Germani](https://icc.ub.edu/people/379). His main research interest is related with the period of cosmological inflation, he has been working in different mathematical frameworks which aim to describe the inhomogeneities generated during inflation such as cosmological perturbation theory, the $\delta$N formalism or the stochastic approach. Particularly, he is interested in the description of large inhomogeneities (which cannot be described with cosmological perturbation theory) and its phenomenological consequences, such as the formation of primordial black holes, which can be generated once these large fluctuations reenter the horizon after inflation. <br>Diego's publication can be found here on [INSPIRE](https://inspirehep.net/authors/1893636?ui-citation-summary=true).<br>Diego is partly funded by the NSFC Special Grant for Theoretical Physics No. 12447160 (2025) (*Towards a non-perturbative description of cosmological inflation.*).
 
 ## Students
 
-- **Wencong Hong** Sep 2021 - <br><img src="/images/Wencong.jpg" width="300"><br>Wencong Hong is a PhD student. He works on the stochastic gravitational waves from the compact objects.
-- **Ao Wang** Sep 2022 - <br><img src="/images/Ao.jpg" width="300"><br>Ao Wang is a PhD student. He works on the stochastic gravitational waves and primordial black hole formation.<br>His publication can be found here on [INSPIRE](https://inspirehep.net/authors/2718599).
-- **Zihan Li** Sep 2023 - <br><img src="/images/Zihan.jpg" width="300"><br>Zihan Li is a master student.
-- **Anxianyi Xiong** Sep 2024 - <br><img src="/images/Anxianyi.jpg" width="300"><br>Anxianyi is a master student.
-- **Qianye Yu** Sep 2025 - <br><img src="/images/Qianye.jpg" width="300"><br>Qianye is an undergraduate student in Physics Department of Wuhan University. He will become a graduate student in University of CAS and join our group from September 2025.
-- **Kunyu Cai** Sep 2025 - <br><img src="/images/Kunyu.jpg" width="300"><br>Kunyu is an undergraduate student in Department of Astronomy, Peking University. She will become a graduate student in Institute of Theoretical Physics, Peking University and join our group from September 2025, and co-supervised by Prof. Bin Chen and me.
+- **Wencong Hong** Sept 2021 - <br><img src="/images/Wencong.jpg" width="300"><br>Wencong Hong is a PhD student. He works on the stochastic gravitational waves from the compact objects.
 
-## Former Students
+- **Ao Wang** Sep 2022 - <br><img src="/images/Ao.jpg" width="300"><br>Ao Wang is a PhD student. He works on the stochastic gravitational waves and primordial black hole formation. From February 2025 to November 2025, Ao visits Prof. Guillem Domenech in ITP, Leibniz University Hannover. From December 2025 to November 2026, Ao will visit Prof. Takahiro Tanaka in Kyoto University.<br>Ao's publication can be found here on [INSPIRE](https://inspirehep.net/authors/2718599).
 
-- **Jianing Wang** Sep 2019 - July 2025<br><img src="/images/Jianing.jpg" width="300"><br>[Jianing Wang](https://inspirehep.net/authors/2730443) is now a postdoc in Kavli IPMU, the University of Tokyo. Her host researchers will be Misao Sasaki and Elisa Ferreira. <br>She visited KEK in Japan from February 2024 to April 2024.<br>She visited the Institute of Basic Sciences in Korea, from July 15th to the mid of September, 2024. Her host researcher is Prof. Masahide Yamaguchi.<br>She visited Kavli IPMU, the University of Tokyo, Japan, from October 20th to December 14th, 2024. Her host researcher is Prof. Misao Sasaki.
+- **Zihan Li** Sept 2023 - <br><img src="/images/Zihan.jpg" width="300"><br>Zihan Li is a master student.
+
+- **Anxianyi Xiong** Sept 2024 - <br><img src="/images/Anxianyi.jpg" width="300"><br>Anxianyi is a master student.
+
+- **Qianye Yu** Sept 2025 - <br><img src="/images/Qianye.jpg" width="300"><br>Qianye is a a master student.
+
+- **Kunyu Cai** Sept 2025 - <br><img src="/images/Kunyu.jpg" width="300"><br>Kunyu is a graduate student in Physics Department, Peking University. She is co-supervised by Prof. Bin Chen and me.
+
+- **Xia Tang** Sept 2026 - <br><img src="/images/Xia.jpg" width="300"><br>Xia Tang is an undergraduate student in Department of Physics, Zhejiang University. In Oct 20, 2025, he won the Zhejiang University Chu Kochen Scholarship.<br>Xia will become a graduate student of ITP, CAS and join our group from September 2026.
+
+
+## Alumni
+
+- **Jianing Wang** Sep 2019 - July 2025<br><img src="/images/Jianing.jpg" width="300"><br>[Jianing Wang](https://inspirehep.net/authors/2730443) is now a postdoc in Kavli IPMU, the University of Tokyo. Her host researchers will be Misao Sasaki and Elisa Ferreira. <br>She visited KEK in Japan from February 2024 to April 2024.<br>She visited the Institute of Basic Sciences in Korea, from July 15th to the mid of September, 2024. Her host researcher is Prof. Masahide Yamaguchi.<br>She visited Kavli IPMU, the University of Tokyo, Japan, from October 20th to December 14th, 2024. Her host researchers are Prof. Misao Sasaki. and Prof. Elisa Ferreira.
+
+- **Cristian Joana**  Feb 2023 - Sept 2025 <br><img src="/images/Cristian.jpg" width="300"><br>
+  Cristian Joana got his PhD in the Université catholique de Louvain in 2022. His PhD supervisors are [Sebastien Clesse](https://sebclesse.wixsite.com/clesse) and [Christophe Ringeval](http://cp3.irmp.ucl.ac.be/~ringeval/). He mainly focuses on cosmology of the early universe, particularly on cosmic inflation and the reheating, and in the early formation of exotic compact objects such as oscillons and primordial black holes.  He is currently involved in the development and usage of numerical methods, including lattice and numerical relativity simulations. He is one of the developers of [GRChombo](https://www.grchombo.org/), an AMR based open-source code for numerical relativity simulations.<br>Cristian's publication can be found here on [INSPIRE](https://inspirehep.net/authors/2007073?ui-citation-summary=true). <br>Cristian is partly funded by the NSFC Special Grant for Theoretical Physics No. 12347132 (2024) (*Primordial Black Hole and its Gravitational Wave Signal*), and by the NSFC Research Fund for International Scientists No. W2433007 (*Early Universe Gravitational Waves and Primordial Black Holes*).
+
+- 
 
 ## Visitors
 
