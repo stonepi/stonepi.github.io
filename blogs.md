@@ -703,7 +703,12 @@ f(\zeta_n) \xrightarrow{k\to0} \frac{\eta}{4}\zeta_n^2
   \langle\mathcal{R}^2\rangle_c\sim \tau_\mathrm{NL}\mathcal{P}_\mathcal{R}^3\sim f_\mathrm{NL}^2\mathcal{P}_\mathcal{R}^3
   $$
   
-  其中第二步用一致性关系。故得叁谱与交叉项等。不联通四点函数展开至高阶之贡献为$\langle g_\mathrm{NL}\mathcal{R}^4g_\mathrm{NL}\mathcal{R}^4\rangle\sim g_\mathrm{NL}^2\mathcal{P}_\mathcal{R}^4$。其三阶非线性参数$g_\mathrm{NL}$本为一自由参数，故文献中或选$g_\mathrm{NL}=-1000$等值以誇之，其实不能建模也。实际模型如对数对偶之常滚或超慢滚暴胀中$g_\mathrm{NL}\sim f_\mathrm{NL}^2$，则此项为$f_\mathrm{NL}^4\mathcal{P}_\mathcal{R}^4$，与纯非高斯项形似。故此等项总贡献不超过可因子化之四点函数，唯象学大旨未变。乾铃冬等[2209.13891](https://arxiv.org/abs/2209.13891)论之详矣。<br>17时与佐公、王奥、陈超、蔡坤雨讨论曲率子问题。王奥得一新概率分布函数，重于$\chi^2$分布。命其以重尾分布(heavy-tailed distribution) $\mathbb{P}(\zeta)\sim \exp(-\alpha|\zeta|^p)$拟合之。<br>18时蔡坤雨来。问其培优计划未通过事。答曰量子力学题极难解，培优者成绩当排名十之四，彼名落孙山，未能入选云。余转告陈师之忧，好言勉之。<br>章嘉乐来。闲谈。云前年COSMO会议晚宴时山口昌英与王一对饮，沉醉，戏言曰：“汝唐人尊老过甚，此科学之所以不昌也。”王一色变，掷觚径去。不欢而散。<br>21时归宅。为JCAP寻审稿人等。有人投稿半年后不见刊，余又邀审稿，不怿，来信责问编辑部，极无礼。亦无可奈何。
+  其中第二步用一致性关系。故得叁谱与交叉项等。不联通四点函数展开至高阶之贡献为
+
+  $$\langle g_\mathrm{NL}\mathcal{R}^4g_\mathrm{NL}\mathcal{R}^4\rangle\sim g_\mathrm{NL}^2\mathcal{P}_\mathcal{R}^4.
+  $$
+
+  其三阶非线性参数$g_\mathrm{NL}本为一自由参数，故文献中或选$g_\mathrm{NL}=-1000$等值以誇之，其实不能建模也。实际模型如对数对偶之常滚或超慢滚暴胀中$g_\mathrm{NL}\sim f_\mathrm{NL}^2$，则此项为$f_\mathrm{NL}^4\mathcal{P}_\mathcal{R}^4$，与纯非高斯项形似。故此等项总贡献不超过可因子化之四点函数，唯象学大旨未变。乾铃冬等[2209.13891](https://arxiv.org/abs/2209.13891)论之详矣。<br>17时与佐公、王奥、陈超、蔡坤雨讨论曲率子问题。王奥得一新概率分布函数，重于$\chi^2$分布。命其以重尾分布(heavy-tailed distribution) $\mathbb{P}(\zeta)\sim \exp(-\alpha|\zeta|^p)$拟合之。<br>18时蔡坤雨来。问其培优计划未通过事。答曰量子力学题极难解，培优者成绩当排名十之四，彼名落孙山，未能入选云。余转告陈师之忧，好言勉之。<br>章嘉乐来。闲谈。云前年COSMO会议晚宴时山口昌英与王一对饮，沉醉，戏言曰：“汝唐人尊老过甚，此科学之所以不昌也。”王一色变，掷觚径去。不欢而散。<br>21时归宅。为JCAP寻审稿人等。有人投稿半年后不见刊，余又邀审稿，不怿，来信责问编辑部，极无礼。亦无可奈何。
 
 - **10月25日周六**<br>在线参加拍卖会。得乾隆五十五年(1790)湛贻堂刊本《陔余丛考》、同治十一年(1872)江苏书局刊本《文选集评》。<br>午后5时与角马、奥勃讨论。角马新稿知$\delta\pi_*$与$\delta\varphi_*$之比例系数$\Upsilon$在二者反关联后，约等于$(k/k_*)^2$，奥勃数值计算证明之。超慢滚暴胀时，其峰波数$k_p$对应之$(k_p/k_*)^2\approx(\pi/e^{\Delta N})^2\approx (\pi/10^{7/6})^2\approx0.1$，不可遽然忽略。因此所得之新曲率扰动形式，含有一$e^{-2N}$项。若微扰迭代解之，则所得非线性关系与扩展$\delta N$方法略同。因此项来源于衰减模，即$\Upsilon e^{-2N}\approx(k/k_*)^2e^{-2N}\sim\mathcal{K}/a^2$，乃哈勃片之空间曲率也。
 
