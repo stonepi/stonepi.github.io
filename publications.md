@@ -33,11 +33,11 @@ title: Publications
 
 ## Books
 
-- **宇宙学的物理基础**<br>Vietcheslav Mukhanov著, **皮石**译. <br>科学出版社2023年9月第一版. ISBN: 978-7-03-076273-3.<br><img title="" src="./images/SlavaBook.png" alt="SlavaBook" style="width:60%"><br>本书出版之后发现了一些翻译错误和打印错误.参见[《宇宙学的物理基础》勘误表](/file/erratum.md).如果您有任何新的发现,请直接与我联系.<br>本书入选科学出版社“十四五”时期物理类十大畅销书榜单。<br><img title="" src="./images/bestseller.jpg" alt="SlavaBook" style="width:60%">
+- **宇宙学的物理基础**<br>Vietcheslav Mukhanov著, **皮石**译. <br>科学出版社2023年9月第一版. ISBN: 978-7-03-076273-3.<br><img title="" src="/images/SlavaBook.png" alt="SlavaBook" style="width:60%"><br>本书出版之后发现了一些翻译错误和打印错误.参见[《宇宙学的物理基础》勘误表](/file/erratum.md).如果您有任何新的发现,请直接与我联系.<br>本书入选科学出版社“十四五”时期物理类十大畅销书榜单。<br><img title="" src="/images/bestseller.jpg" alt="bestseller" style="width:60%">
 
 - **[PRIMORDIAL BLACK HOLES](https://link.springer.com/book/9789819788866)**<br>
   Chapter 8: Non-Gaussianities, arXiv:[2404.06151](https://arxiv.org/abs/2404.06151).
-  <br>A monograph in Springer Series in Astrophysics and Cosmology, Springer. Feb. 2025.<br> Ed. Chris Byrnes, Gabriele Franciolini, Tomohiro Harada, Paolo Pani, Misao Sasaki. <br>ISBN: 978-981-97-8886-6 (hardcover); 978-981-97-8889-7 (paperback)<br><img title="" src="./images/PBHbook.jpg" alt="PBHBook" style="width:50%">
+  <br>A monograph in Springer Series in Astrophysics and Cosmology, Springer. Feb. 2025.<br> Ed. Chris Byrnes, Gabriele Franciolini, Tomohiro Harada, Paolo Pani, Misao Sasaki. <br>ISBN: 978-981-97-8886-6 (hardcover); 978-981-97-8889-7 (paperback)<br><img title="" src="/images/PBHbook.jpg" alt="PBHBook" style="width:50%">
 
 - **PERTURBATION THEORY OF COSMOLOGY**<br>Atsushi Naroko, **Shi Pi**, Misao Sasaki. In preparation.
 
