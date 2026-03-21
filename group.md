@@ -54,7 +54,7 @@ Welcome to apply for Doctoral Programs for International Students of Chinese Aca
 
 - **Wencong Hong** Sept 2021 - <br><img src="/images/Wencong.jpg" width="300"><br>Wencong Hong is a PhD student. He works on the stochastic gravitational waves from the compact objects.
 
-- **Ao Wang** Sep 2022 - <br><img src="/images/Ao.jpg" width="300"><br>Ao Wang is a PhD student. He works on the stochastic gravitational waves and primordial black hole formation. From February 2025 to November 2025, Ao visits Prof. Guillem Domenech in ITP, Leibniz University Hannover. From December 2025 to November 2026, Ao will visit Prof. Takahiro Tanaka in Kyoto University.<br>Ao's publication can be found here on [INSPIRE](https://inspirehep.net/authors/2718599).
+- **Ao Wang** Sep 2022 - <br><img src="/images/Ao.jpg" width="300"><br>Ao Wang is a PhD student. He works on the stochastic gravitational waves and primordial black hole formation. From February 2025 to November 2025, Ao visited Prof. Guillem Domenech in ITP, Leibniz University Hannover. Ao is visiting Prof. Takahiro Tanaka in Kyoto University from December 2025 to November 2026,.<br>Ao's publication can be found here on [INSPIRE](https://inspirehep.net/authors/2718599).
 
 - **Zihan Li** Sept 2023 - <br><img src="/images/Zihan.jpg" width="300"><br>Zihan Li is a master student.
 
@@ -65,7 +65,6 @@ Welcome to apply for Doctoral Programs for International Students of Chinese Aca
 - **Kunyu Cai** Sept 2025 - <br><img src="/images/Kunyu.jpg" width="300"><br>Kunyu is a graduate student in Physics Department, Peking University. She is co-supervised by Prof. Bin Chen and me.
 
 - **Xia Tang** Sept 2026 - <br><img src="/images/Xia.jpg" width="300"><br>Xia Tang is an undergraduate student in Department of Physics, Zhejiang University. In Oct 20, 2025, he won the Zhejiang University Chu Kochen Scholarship.<br>Xia will become a graduate student of ITP, CAS and join our group from September 2026.
-
 
 ## Alumni
 
@@ -90,4 +89,4 @@ Welcome to apply for Doctoral Programs for International Students of Chinese Aca
 
 ---
 
-Updated Aug 5th, 2025.
+Updated March 20th, 2026.

@@ -53,7 +53,7 @@ title: 团队
 
 - **洪文聪** 2021年9月入学 -  <br><img title="" src="/images/Wencong.jpg" alt="" width="300"><br>洪文聪是2023级博士研究生。他的主要研究方向是致密星合并及其相关的引力波天文。
 
-- **王奥** 2022年9月入学 -  <br><img title="" src="/images/Ao.jpg" alt="" width="300"><br>王奥是2024级博士研究生。他的主要研究方向是随机引力波背景、宇宙学微扰论等。<br>2025年2月至2025年11月，王奥在德国莱布尼兹大学汉诺威理论物理研究所(ITP, Leibniz University Hannover)访问学习。合作导师为Guillem Domenech。<br>他的论文发表情况见[INSPIRE](https://inspirehep.net/authors/2718599)页面。
+- **王奥** 2022年9月入学 -  <br><img title="" src="/images/Ao.jpg" alt="" width="300"><br>王奥是2024级博士研究生。他的主要研究方向是随机引力波背景、宇宙学微扰论等。<br>2025年2月至2025年11月，王奥在德国莱布尼兹大学汉诺威理论物理研究所(ITP, Leibniz University Hannover)访问学习。合作导师为Guillem Domenech。<br>2025年12月至2026年——月，王奥在日本京都大学物理系访问学习。合作导师为Takahiro Tanaka。<br>他的论文发表情况见[INSPIRE](https://inspirehep.net/authors/2718599)页面。
 
 - **李子涵** 2023年9月入学 -  <br><img title="" src="/images/Zihan.jpg" alt="" width="300"><br>李子涵是2023级硕士研究生。他的主要研究方向是暴胀模型构建、随机暴胀等。
 
@@ -85,4 +85,4 @@ title: 团队
 
 ---
 
-更新日期：2025年8月5日
+更新日期：2026年3月20日
