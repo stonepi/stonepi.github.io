@@ -10,7 +10,7 @@ title: 勘误表
 
 #### 第七章
 
-- P273，(7.1)式<br>第一个等号右侧$\varepsilon(\tilde{t}-\delta(\mathbf{x},t)$应作$\varepsilon(\tilde{t}-\delta t(\mathbf{x},t)$。（汤夏）
+- P273，(7.1)式<br>第一个等号右侧$\varepsilon(\tilde{t}-\delta(\mathbf{x},t))$改为$\varepsilon(\tilde{t}-\delta t(\mathbf{x},t))$.（汤夏）
 
 - P277，(7.17)式<br>公式最后一项$-2E_{,ij}dx^i dx^j$<span style="color:red;">)</span>$\big ]$改为$-2E_{,ij}\big )dx^i dx^j\big]$. 即把最后一个圆括号的位置移到$-2E_{,ij}dx^idx^j$之后。（陈凯）
 
