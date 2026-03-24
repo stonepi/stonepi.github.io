@@ -8,6 +8,12 @@ title: 勘误表
 
 <h2 style="text-align: center;">二印本勘误表</h2>
 
+#### 第七章
+
+- P273，(7.1)式<br>第一个等号右侧$\varepsilon(\tilde{t}-\delta(\mathbf{x},t)$应作$\varepsilon(\tilde{t}-\delta t(\mathbf{x},t)$。（汤夏）
+
+- P277，(7.17)式<br>公式最后一项$-2E_{,ij}dx^i dx^j$<span style="color:red;">)</span>$\big ]$改为$-2E_{,ij}\big )dx^i dx^j\big]$. 即把最后一个圆括号的位置移到$-2E_{,ij}dx^idx^j$之后。（陈凯）
+
 #### 第八章
 
 - P322，注①中(8.58a)下一行中部<br>$\overline{v}=\overline{\delta\varphi}/\varphi_0'$改为$\overline{v}=-\overline{\delta\varphi}/\varphi_0'$。下一行，(8.58b)中第一个等式$\zeta\equiv\Psi+\mathcal{H}\overline{v}$改为$\zeta\equiv\Psi-\mathcal{H}\overline{v}$，其余不变 （陈凯）
@@ -27,6 +33,10 @@ title: 勘误表
 ---
 
 <h2 style="text-align: center;">初印本勘误表</h2>
+
+2025年10月第一版第二次印本已更正
+
+---
 
 #### 内封
 
@@ -82,6 +92,10 @@ title: 勘误表
 
 ---
 
+前四章勘误由汤夏提供。
+
+---
+
 #### 第六章
 
 - 本章标题中“<span style="color:red;">各向同性极限</span>”改为“均匀极限”，目录及天头都作相应修改。
@@ -111,8 +125,3 @@ title: 勘误表
 - P409，最后<br>增加一行“2025年9月24日重印本校对完成”<br>**Note:** 这里说的“重印本”不知理解是否正确，请编辑部根据实际情况酌定。
 
 ---
-
-前四章勘误表由汤夏提供<br>2025年10月第一版第二次印本已更正
-
----
-
