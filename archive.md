@@ -4,32 +4,6 @@ permalink: /archive/index.html
 title: Archive
 ---
 
-# 学术日常存档
-
-## 2025
-
-- [Blogs 2025](/archive/2025.md)
-
-## 2024
-
-- [Blogs 2024](/archive/2024-rev.md)
-
-## 2023
-
-- [Blogs 2023](/archive/2023.md)
-
-## 2022
-
-- TBA
-
-## 2021
-
-- TBA
-
-## 2020
-
-- TBA
-
 ---
 
 # 非学术随笔

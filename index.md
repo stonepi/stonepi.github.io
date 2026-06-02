@@ -58,16 +58,10 @@ The Gravity and Cosmology (G&C) Group in ITP-CAS also includes [Rong-Gen Cai](ht
 
 ---
 
-## Blogs
-
-For my work and daily life, click [**BLOGS**](/blogs/) (in Chinese only). Now I stopped updating because of some personal reasons.
-
----
-
 ## Contact me
 
 Please click [**CONTACT**](/contact/) to contact me.
 
 ---
 
-Updated on March 14th, 2026.
+Updated on June 1st, 2026.
