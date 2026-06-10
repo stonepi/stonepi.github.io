@@ -11,7 +11,7 @@ title: Publications
 
 ## Selected Papers
 
-1. <span style="color:blue;">*Observable Gravitational Wave Strain at Second Order*</span>,<br>Guillem Domènech, **Shi Pi**, Ao Wang. <br>Published in: [Phys.Rev.Lett. 136 (2026) 22, 221402](https://doi.org/10.1103/pwbs-xwrh) (**Editor's Suggestion**); arXiv: [2512.15704](https://arxiv.org/abs/2512.15704).
+1. <span style="color:blue;">*Observable Gravitational Wave Strain at Second Order*</span>,<br>Guillem Domènech, **Shi Pi**, Ao Wang. <br>Published in: [Phys.Rev.Lett. 136 (2026) 22, 221402](https://doi.org/10.1103/pwbs-xwrh); arXiv: [2512.15704](https://arxiv.org/abs/2512.15704).
 
 2. <span style="color:blue;">*Extended $\delta N$ Formalism: Nonspatially Flat Separate-Universe Approach*</span>,<br>Danilo Artigas, **Shi Pi**, Takahiro Tanaka. <br>Published in: [Phys.Rev.Lett. 134 (2025) 22, 221001](https://doi.org/10.1103/PhysRevLett.134.221001); arXiv: [2408.09964](https://arxiv.org/abs/2408.09964).
 
