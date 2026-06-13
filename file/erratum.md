@@ -12,11 +12,19 @@ title: 勘误表
 
 - P273，(7.1)式<br>第一个等号右侧$\varepsilon(\tilde{t}-\delta(\mathbf{x},t))$改为$\varepsilon(\tilde{t}-\delta t(\mathbf{x},t))$.（汤夏）
 
-- P277，(7.17)式<br>公式最后一项$-2E_{,ij}dx^i dx^j$<span style="color:red;">)</span>$\big ]$改为$-2E_{,ij}\big )dx^i dx^j\big]$. 即把最后一个圆括号的位置移到$-2E_{,ij}dx^idx^j$之后。（陈凯）
+- P277，(7.17)式<br>公式最后一项$-2E_{,ij}dx^i dx^j$<span style="color:red;">)</span>$\big ]$改为$-2E_{,ij}\big )dx^i dx^j\big]$. 即把最后一个圆括号的位置移到$-2E_{,ij}$之后。（陈凯）
+
+- P279，(7.25)式下一行<br>在紧接其后的“$h_{ij}$在坐标变换下是不变的.它已经以规范不变的形式描述了引力波.”这一句话后面增加一个脚注，内容为<br>
+  
+  <div style="border: 1px solid #333; padding: 16px; margin: 20px auto; width: 80%; border-radius: 8px;">
+  此结论只对线性阶的引力波成立.如果考虑高阶,则$h_{ij}$会依赖于坐标选取.此时需要仔细检查高阶引力波的实际可观测量.参见Domènech, Pi, Wang, *Observable Gravitational Wave Strain at Second Order*, Phys.Rev.Lett. 136 (2026) 22, 221402; arXiv: 2512.15704.
+  </div>
 
 #### 第八章
 
-- P322，注①中(8.58a)下一行中部<br>$\overline{v}=\overline{\delta\varphi}/\varphi_0'$改为$\overline{v}=-\overline{\delta\varphi}/\varphi_0'$。下一行，(8.58b)中第一个等式$\zeta\equiv\Psi+\mathcal{H}\overline{v}$改为$\zeta\equiv\Psi-\mathcal{H}\overline{v}$，其余不变 （陈凯）
+- P322，注①中(8.58a)下一行中部<br>$\overline{v}=\overline{\delta\varphi}/\varphi_0'$改为$\overline{v}=-\overline{\delta\varphi}/\varphi_0'$。
+
+- P322，(8.58b)<br>第一个等式$\zeta\equiv\Psi+\mathcal{H}\overline{v}$改为$\zeta\equiv\Psi-\mathcal{H}\overline{v}$，其余不变 （陈凯）
 
 - P331，(8.106)式<br>分母<span style="color:red;">18</span>改为81 （陈凯）
 
@@ -28,13 +36,13 @@ title: 勘误表
 
 ---
 
-待第三次印刷时提交。更新日期：2025年10月15日
+以上修正待第三次印刷时提交。更新日期：2026年6月13日
 
 ---
 
 <h2 style="text-align: center;">初印本勘误表</h2>
 
-2025年10月第一版第二次印本已更正
+以下修正2025年10月第一版第二次印本已更正
 
 ---
 
@@ -96,7 +104,7 @@ title: 勘误表
 
 ---
 
-#### 第六章
+#### 第五章
 
 - 本章标题中“<span style="color:red;">各向同性极限</span>”改为“均匀极限”，目录及天头都作相应修改。
 
@@ -113,7 +121,7 @@ title: 勘误表
 - P311，注①<br>第三行后半，“<span style="color:red;">有的文献定义功率谱时没有把(8.8)的角度积掉……</span>”从这里开始一直到最后的两句话删掉，修改为如下文字：
 
 <div style="border: 1px solid #ccc; padding: 1em; width: 80%; margin: 2em auto; text-align: left; border-radius: 10px; background-color: #f9f9f9;">
-有的文献把方差$\sigma_k^2\equiv|\Phi_k|^2$也称为功率谱，文献中一般记作$P_\Phi(k)$。它和$\mathcal{P}_\Phi(k)$的关系为(8.11)，且和(8.7)式定义空间两点关联函数$\xi_f(r)$互为傅里叶变换。注意不同的文献中傅里叶变换的归一化系数可能不同，需要小心检查。
+有的文献把方差$\sigma_k^2\equiv|\Phi_k|^2$也称为功率谱,文献中一般记作$P_\Phi(k)$.它和$\mathcal{P}_\Phi(k)$的关系为(8.11),且和(8.7)式定义空间两点关联函数$\xi_f(r)$互为傅里叶变换.注意不同的文献中傅里叶变换的归一化系数可能不同,需要小心检查.
 </div>
 
 #### 译后记
