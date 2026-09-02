@@ -22,6 +22,42 @@ title: Conferences
 
 ## Attendance
 
+- *Unification of Microlenses and Nanohertz Gravitational Waves*.<br>Tianjin University Workshop on Gravity, Quantum Field Theory, and Their Intrinsic Connections 2026, Tianjin, China. July 27 - 30, 2026.
+
+- Invited talk.<br>[Theoretical Challenges towards Non-linearities from the Early Universe](https://sites.google.com/view/tcnl2026/home), Kyoto University, Kyoto, Japan. July 19 - 26, 2026.
+
+- Invited talk.<br>[String Theory, Gravitation, and Cosmology 2026](https://indicocquest.sogang.ac.kr/event/42/), Seoul National University Siheung Campus, Seoul, Korea. July 5 - 10, 2026.
+
+- *A Unified Origin of Planet-mass Primordial Black Holes and Nanohertz Gravitational Waves*.<br>[Chongqing University--IBS Center for Theoretical Physics of the Universe Joint International Workshop](https://indico.itp.ac.cn/event/419/overview), Chongqing University, Chongqing, China. May 19 - 22, 2026.
+
+- *Non-Gaussianity of the Curvature Perturbation and Primordial Black Holes*. **(Plenary)**<br>[Annual Meeting of the Gravitation and Relativistic Astrophysics Division of the Chinese Physical Society](https://my.31huiyi.com/site/?pageId=019b3a4f-8af2-7d67-afc0-62de07439145), Haikou, China. Apr. 18 - 22, 2026.
+
+- *Ultra-slow-roll Inflation and Type-B Primordial Black Holes*.<br>[New Perspectives on Cosmology 2026](https://sites.google.com/view/npoc2026/), Asia Pacific Center for Theoretical Physics, Pohang, Korea. Jan. 4 - 10, 2026.
+
+- *Nonlinear Evolution of Curvature Perturbations and Its Applications*.<br>[High Energy Theory Forum](https://indico.ihep.ac.cn/event/27744/), Institute of High Energy Physics, Beijing, China. Dec. 31, 2025.
+
+- *Nonlinear Evolution of Curvature Perturbations on Superhorizon Scales*.<br>[Non-perturbative Inflation](https://sites.google.com/view/non-perturbative-inflation), University of Barcelona, Barcelona, Spain. Dec. 7 - 16, 2025.
+
+- *Nonlinearity of Curvature Perturbations on Superhorizon Scales*.<br>[Inflation 2025](https://indico.iap.fr/event/36/overview), Institut d'Astrophysique de Paris, Paris, France. Nov. 30 - Dec. 6, 2025.
+
+- *Gravitational-Wave Cosmology of the Early Universe*.<br>[3rd International Workshop "Particles, Gravitation and the Universe: from Quantum Mechanics to Quantum Gravity"](https://hoivl-nlc-vn.github.io/pgu2025.html), Institute of Physics, Vietnam Academy of Science and Technology, Hanoi, Vietnam. Nov. 28 - 29, 2025.
+
+- *Nonlinear Perturbations on Large Scales in the Early Universe*.<br>2025 Workshop on Gravitation and Cosmology, Peng Huanwu Center for Fundamental Physics, University of Science and Technology of China, Hefei, China. Nov. 20 - 23, 2025.
+
+- *Non-Gaussian Curvature Perturbations and Primordial Black Hole Formation*.<br>[Cosmology as a Fundamental Physics](https://www.apctp.org/theme/d/html/activities/activities01_read.php?id=2341&page=1), Asia Pacific Center for Theoretical Physics, Pohang, Korea. Nov. 15 - 20, 2025.
+
+- *Primordial Black Hole Dark Matter Probed by Space-based Gravitational-Wave Experiments*.<br>[Annual Meeting of the Chinese Astronomical Society 2025](https://2025casmeeting.casconf.cn/), Xiamen University, Xiamen, China. Nov. 2 - 4, 2025.
+
+- Invited talk.<br>[The 5th Workshop on Quantum Field Theory and Its Applications](https://indico.ihep.ac.cn/event/25051/), Chunhuiyuan Hot Spring Resort, Beijing, China. Oct. 31 - Nov. 1, 2025.
+
+- Invited talk.<br>[16th Asia Pacific Physics Conference (APPC16)](https://appc16.scimeeting.cn/en/web/index/24735), Haikou, China. Oct. 20 - 23, 2025.
+
+- *Primordial Black Hole Dark Matter and Its Observational Tests*.<br>Gravity Center and National Center for Gravitation and Precision Measurement, Huazhong University of Science and Technology, Wuhan, China. Sept. 28 - Oct. 2, 2025.
+
+- *Nonlinear Curvature Perturbations on Superhorizon Scales*.<br>[Chinese Physical Society Fall Meeting 2025](https://cps2025.scimeeting.cn/), Harbin Engineering University, Harbin, China. Sept. 11 - 15, 2025.
+
+- *Inflation beyond Slow Roll, Non-Gaussianity, and Primordial Black Holes*.<br>[The 4th Workshop on New Physics Beyond the Standard Model](https://indico-tdli.sjtu.edu.cn/event/4076/), Tsung-Dao Lee Institute, Shanghai Jiao Tong University, Shanghai, China. Aug. 25 - 27, 2025.
+
 - *Inflation beyond slow-roll, non-Gaussianity, and primordial black holes*. **(Plenary)**<br>[International Symposium on Cosmology and Particle Astrophysics: CosPA 2025](https://indico.ibs.re.kr/event/871/), Daejeon, Korea. July 7 - 11, 2025. 
 
 - *Inflation beyond slow-roll and non-Gaussianity*. **(Invited)**<br>[Cosmology Beyond the Analytic Lamppost (CoBALt)](https://indico.ijclab.in2p3.fr/event/11373/overview), Paris, France. June 16 - July 4, 2025.
@@ -235,4 +271,4 @@ title: Conferences
   
   ---
   
-  Updated on Aug. 11, 2025.
+  Updated on Aug. 29, 2026.
