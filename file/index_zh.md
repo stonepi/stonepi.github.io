@@ -12,7 +12,7 @@ title: 基本信息
 
 欢迎来到皮石的个人主页。[[English Version](/)]
 
-我现在在[中国科学院理论物理研究所](https://itp.ac.cn)担任研究员、博士生导师。主要从事宇宙学微扰论、暴胀宇宙学、引力理论、以及背景引力波方面的研究，尤其是利用宇宙学微扰论讨论早期宇宙中扰动的产生和演化以及它们的观测效应，如微波背景辐射、随机引力波背景、原初黑洞等。在引力波宇宙学时代，我的研究兴趣集中于利用随机引力波背景探测早期宇宙。近年来在PRL, JCAP, PRD, SCPMA等国际学术期刊上发表论文40余篇。根据高能物理论文数据库 [INSPIREHEP](https://inspirehep.net/authors/1060905#with-citation-summary)统计，总被引用 3500 余次，h-index为 29。其中被引用 100 次以上的论文 14 篇。自2024年起入选[爱思唯尔全球前2%顶尖学者榜单](../pdf/certificate2025.pdf)。受邀加入JCAP、Chinese Physics C、Symmetry担任编委。多次在引力和宇宙学方向的国际会议上做大会报告和邀请报告。具体情况请见[我的简历](./pdf/CV.pdf)。
+我现在在[中国科学院理论物理研究所](https://itp.ac.cn)担任研究员、博士生导师。主要从事宇宙学微扰论、暴胀宇宙学、引力理论、以及背景引力波方面的研究，尤其是利用宇宙学微扰论讨论早期宇宙中扰动的产生和演化以及它们的观测效应，如微波背景辐射、随机引力波背景、原初黑洞等。在引力波宇宙学时代，我的研究兴趣集中于利用随机引力波背景探测早期宇宙。近年来在PRL, JCAP, PRD, SCPMA等国际学术期刊上发表论文40余篇。根据高能物理论文数据库 [INSPIREHEP](https://inspirehep.net/authors/1060905#with-citation-summary)统计，总被引用 3900 余次，h-index为 31。其中被引用 100 次以上的论文 15 篇。自2024年起入选[爱思唯尔全球前2%顶尖学者榜单](../pdf/pi-shi-topscinet-single-year-2026.pdf)。受邀加入[*JCAP*](https://jcap.sissa.it/jcap/index.jsp)、 [*Chinese Physics C*](https://mc03.manuscriptcentral.com/cpc)、[*Symmetry*](https://www.mdpi.com/journal/symmetry)担任编委。多次在引力和宇宙学方向的国际会议上做大会报告和邀请报告。具体情况请见[我的简历](./pdf/CV.pdf)。
 
 关于我的研究团队情况，请点击[此处](/file/group-zh/)查看。我的研究团队每周五上午11点开始组会讨论，地点在理论物理研究所南楼3层咖啡厅，欢迎参加。
 
@@ -67,4 +67,4 @@ title: 基本信息
 
 ---
 
-更新日期：2026年6月1日
+更新日期：2026年10月14日

@@ -10,7 +10,9 @@ layout: page
 
 Welcome to **Shi Pi**'s homepage. [[中文版本](/file/index-zh/)]
 
-I am a professor in the Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS). My research interests are cosmology and gravity, including but not limited to string inflation, inflation model building, the generation and evolution of cosmological perturbations, (p)reheating, cosmic microwave background radiation anisotropies, dark energy, as well as the gravitational wave astronomy/cosmology. I also serve in the editorial board for *JCAP*, *Chinese Physics C*, and *Symmetry*. For details, see [my CV](./pdf/CV.pdf). 
+I am a professor in the Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS). My research interests are cosmology and gravity, including but not limited to string inflation, inflation model building, the generation and evolution of cosmological perturbations, (p)reheating, cosmic microwave background radiation anisotropies, dark energy, as well as the gravitational wave astronomy/cosmology. I also serve in the editorial board for *JCAP*, *Chinese Physics C*, and *Symmetry*. 
+
+Over the past years, I have published more than 40 papers in international journals, including *Physical Review Letters*, *Journal of Cosmology and Astroparticle Physics*, *Physical Review D*, and *Science China Physics, Mechanics & Astronomy*. According to [INSPIREHEP](https://inspirehep.net/authors/1060905#with-citation-summary), my work has received more than 3,900 citations, with an h-index of 31; 15 papers have each been cited over 100 times. I have been included in Elsevier’s annual list of [the world’s top 2% scientists](./pdf/pi-shi-topscinet-single-year-2026.pdf) since 2024. I serve on the editorial boards of [*JCAP*](https://jcap.sissa.it/jcap/index.jsp), [*Chinese Physics C*](https://mc03.manuscriptcentral.com/cpc), and [*Symmetry*](https://www.mdpi.com/journal/symmetry), and have delivered plenary and invited talks at international conferences in gravity and cosmology. For details, see [my CV](./pdf/CV.pdf). 
 
 My publication list can be found in [inspirehep](https://inspirehep.net/authors/1060905#with-citation-summary) and [adsabs](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FPi%2C%20S%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FPi%2C%20S%2FPi%2C%20Shi%22%20AND%20author_facet_hier%3A%220%2FPi%2C%20S%22)&p_=0&q=%20author%3A%22pi%2C%20shi%22&sort=date%20desc%2C%20bibcode%20desc). For the information of my research group, click [**GROUP**](./group/). Our group meeting will be held in the coffee room of the 3rd floor in the ITP-CAS South Building, from 11 am every Friday. 
 
@@ -64,4 +66,4 @@ Please click [**CONTACT**](/contact/) to contact me.
 
 ---
 
-Updated on June 1st, 2026.
+Updated on Oct. 14th, 2026.

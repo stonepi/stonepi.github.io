@@ -8,19 +8,29 @@ title: Conferences
 
 ## Organized
 
-- The 3rd International Workshop [*Gravitational Waves and the Early Universe*](https://indico.itp.ac.cn/event/339/) (GWEU2025).  <br>Pan Pacific Hotel, Ningbo, China. Sept. 1 - 3, 2025.
+- LOC member.<br>[*The International Conference on Fundamental Physics from Quanta to Cosmos*](https://indico.itp.ac.cn/event/427/overview) (ICFP 2026).<br>Qihu Hotel, Beijing, China. Oct. 24 - 26, 2026.
 
-- CAS Key Laboratory Annual Meeting *Gravity and Cosmology 2024*.  <br>Chunhuiyuan Hotel, Beijing, China. Dec 9 - 11, 2023.
+- LOC member.<br>[*The 2nd New Horizons for Psi Workshop*](https://indico.ictp-ap.ucas.ac.cn/event/3/).<br>University of Chinese Academy of Sciences (Zhongguancun Campus), Beijing, China. Aug. 23 - 28, 2026.
 
-- The 2nd International Workshop [*Gravitational Waves and the Early Universe*](https://indico.itp.ac.cn/event/217/) (GWEU2024).<br>Zhongguanxinyuan Hotel, Beijing, China. Apr 9-11, 2024.
+- SOC member.<br>The 3rd International Workshop [*Gravitational Waves and the Early Universe*](https://indico.itp.ac.cn/event/339/) (GWEU2025).  <br>Pan Pacific Hotel, Ningbo, China. Sept. 1 - 3, 2025.
 
-- CAS Key Laboratory Annual Meeting *Gravity and Cosmology 2023*.<br>Chunhuiyuan Hotel, Beijing, China. Dec 9 - 11, 2023.
+- SOC member.<br>CAS Key Laboratory Annual Meeting *Gravity and Cosmology 2024*.  <br>Chunhuiyuan Hotel, Beijing, China. Dec 9 - 11, 2023.
 
-- International Mini Workshop [*Gravitational Waves from the Early Universe*](https://indico.itp.ac.cn/event/171/) (GWEU2023).<br>ITP-CAS, Beijing, China. Oct 13 - 16, 2023.
+- SOC member.<br>The 2nd International Workshop [*Gravitational Waves and the Early Universe*](https://indico.itp.ac.cn/event/217/) (GWEU2024).<br>Zhongguanxinyuan Hotel, Beijing, China. Apr 9-11, 2024.
 
-- YITP International Molecule-type Workshop [*Revisiting cosmological non-linearities in the era of precision surveys*](https://sites.google.com/view/cnlws2023).<br>YITP, Kyoto, Japan. July 13 - 28, 2023. 
+- SOC member.<br>CAS Key Laboratory Annual Meeting *Gravity and Cosmology 2023*.<br>Chunhuiyuan Hotel, Beijing, China. Dec 9 - 11, 2023.
+
+- SOC member.<br>International Mini Workshop [*Gravitational Waves from the Early Universe*](https://indico.itp.ac.cn/event/171/) (GWEU2023).<br>ITP-CAS, Beijing, China. Oct 13 - 16, 2023.
+
+- SOC member.<br>YITP International Molecule-type Workshop [*Revisiting cosmological non-linearities in the era of precision surveys*](https://sites.google.com/view/cnlws2023).<br>YITP, Kyoto, Japan. July 13 - 28, 2023.
+
+- LOC member.<br>[*The 23rd International Conference on General Relativity and Gravitation*](https://inspirehep.net/conferences/2077422?ui-citation-summary=true) (GR23).<br>Liyang, China. July 3 - 8, 2022.
 
 ## Attendance
+
+- Invited attendee.<br>[Frontiers of Astronomy and Science Education Workshop 2026 of the Chinese Astronomical Society](https://astronomy.pmo.cas.cn/xsjl/gnxsjl/202605/t20260515_838069.html), Yichang, China. Sept. 18 - 21, 2026.
+
+- *Induced Gravitational Waves: Theory and Prospects*.<br>[The 15th Workshop on New Physics](https://indico.itp.ac.cn/event/420/registrations/137/), Weihai, China. Aug. 25 - 29, 2026.
 
 - *Unification of Microlenses and Nanohertz Gravitational Waves*.<br>Tianjin University Workshop on Gravity, Quantum Field Theory, and Their Intrinsic Connections 2026, Tianjin, China. July 27 - 30, 2026.
 
