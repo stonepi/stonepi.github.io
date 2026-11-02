@@ -28,6 +28,12 @@ title: Conferences
 
 ## Attendance
 
+- *Induced Gravitational Waves: From Gauge Issue to Primordial Black Hole Dark Matter*.<br>[Cosmic Probes of the Early Universe](https://konferenz.uni-hannover.de/event/267/), Albert Einstein Institute, Hannover, Germany. Oct. 27 - 30, 2026.
+
+- *Induced Gravitational Waves: From Gauge Issue to Primordial Black Hole Dark Matter*. **(Plenary)**<br>[The International Conference on Fundamental Physics from Quanta to Cosmos](https://indico.itp.ac.cn/event/427/) (ICFP 2026), Qihu Hotel, Beijing, China. Oct. 24 - 26, 2026.
+
+- *Primordial Black Holes and Induced Gravitational Waves*.<br>The 2nd "Understanding Physics through Astronomy" Symposium, University of Chinese Academy of Sciences (Yanqi Lake Campus), Beijing, China. Oct. 19 - 20, 2026.
+
 - Invited attendee.<br>[Frontiers of Astronomy and Science Education Workshop 2026 of the Chinese Astronomical Society](https://astronomy.pmo.cas.cn/xsjl/gnxsjl/202605/t20260515_838069.html), Yichang, China. Sept. 18 - 21, 2026.
 
 - *Induced Gravitational Waves: Theory and Prospects*.<br>[The 15th Workshop on New Physics](https://indico.itp.ac.cn/event/420/registrations/137/), Weihai, China. Aug. 25 - 29, 2026.
